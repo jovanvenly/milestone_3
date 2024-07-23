@@ -1,0 +1,31 @@
+CREATE TABLE table_m3(
+    "NAME" VARCHAR(255),
+    "MAKE" VARCHAR(255),
+    "MODEL" VARCHAR(255),
+    "TYPE" VARCHAR(255),
+    "YEAR" INT,	
+    "PRICE" FLOAT,
+    "ENGINE" VARCHAR(255),
+    "CYLINDERS" FLOAT,
+    "FUEL" VARCHAR(255),
+    "MILEAGE" FLOAT,
+    "TRANSMISSION" VARCHAR(255),
+    "TRIM" VARCHAR(255),
+    "BODY" VARCHAR(255),
+    "DOORS" FLOAT,
+    "EXTERIOR COLOR" VARCHAR(255),
+    "INTERIOR COLOR" VARCHAR(255),
+    "DRIVETRAIN" VARCHAR(255)
+);
+
+
+-- Pengisian value table_m3
+copy table_m3 
+FROM 'C:\Program Files\PostgreSQL\16\P2M3_Jovan_Venly.csv'
+DELIMITER ',' 
+CSV HEADER;
+
+# melihat tabel dan melakukan drop tabel
+SELECT * FROM table_m3
+
+DROP TABLE table_m3

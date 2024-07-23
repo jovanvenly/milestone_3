@@ -1,0 +1,991 @@
+name,make,model,type,year,price,engine,cylinders,fuel,mileage,transmission,trim,body,doors,exterior color,interior color,drivetrain
+2024 Jeep Wagoneer Series II,Jeep,Wagoneer,New,2024,74600.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,10.0,8-Speed Automatic,Series II,SUV,4.0,White,Global Black,Four-wheel Drive
+2024 Jeep Grand Cherokee Laredo,Jeep,Grand Cherokee,New,2024,50170.0,OHV,6.0,Gasoline,1.0,8-Speed Automatic,Laredo,SUV,4.0,Metallic,Global Black,Four-wheel Drive
+2024 GMC Yukon XL Denali,GMC,Yukon XL,New,2024,96410.0,"6.2L V-8 gasoline direct injection, variable valve contr",8.0,Gasoline,0.0,Automatic,Denali,SUV,4.0,Summit White,Teak/Light Shale,Four-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,46835.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive
+2024 RAM 3500 Laramie,RAM,3500,New,2024,81663.0,24V DDI OHV Turbo Diesel,6.0,Diesel,10.0,6-Speed Automatic,Laramie,Pickup Truck,4.0,Silver,Black,Four-wheel Drive
+2024 Nissan Murano Platinum,Nissan,Murano,New,2024,46000.0,24V MPFI DOHC,6.0,Gasoline,3838.0,Automatic CVT,Platinum,SUV,4.0,White,Gray,All-wheel Drive
+2024 Jeep Wagoneer Base,Jeep,Wagoneer,New,2024,63862.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,5.0,8-Speed Automatic,Base,SUV,4.0,Bright White Clearcoat,Black,Rear-wheel Drive
+2024 Ford F-350 Lariat Super Duty,Ford,F-350,New,2024,89978.0,32V DDI OHV Turbo Diesel,8.0,Diesel,15.0,10-Speed Automatic,Lariat Super Duty,Pickup Truck,4.0,Carbonized Gray Metallic,Black Onyx,Four-wheel Drive
+2024 Hyundai Tucson Hybrid Limited,Hyundai,Tucson Hybrid,New,2024,42230.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,Limited,SUV,4.0,White Pearl,Black,All-wheel Drive
+2024 Jeep Grand Cherokee Altitude,Jeep,Grand Cherokee,New,2024,42773.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,20.0,Automatic,Altitude,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,37743.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Latitude,SUV,4.0,Metallic,Black,Four-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,60904.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,532.0,Automatic,Tradesman,Pickup Truck,4.0,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive
+2024 Hyundai Santa Cruz 2.5T Limited,Hyundai,Santa Cruz,New,2024,43419.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,2.5T Limited,Pickup Truck,4.0,Atlas,Dark Gray,All-wheel Drive
+2024 Jeep Grand Cherokee Altitude,Jeep,Grand Cherokee,New,2024,44022.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,12.0,Automatic,Altitude,SUV,4.0,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive
+2024 Chevrolet Blazer EV 2LT,Chevrolet,Blazer EV,New,2024,51695.0,c,4.0,Electric,4.0,1-Speed Automatic,2LT,SUV,4.0,Sterling Gray Metallic,Black,All-wheel Drive
+2024 Hyundai Santa Cruz 2.5T XRT,Hyundai,Santa Cruz,New,2024,38574.0,16V PDI DOHC Turbo,4.0,Gasoline,12.0,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4.0,Blue Stone,Black,All-wheel Drive
+2024 Nissan Murano Platinum,Nissan,Murano,New,2024,48000.0,24V MPFI DOHC,6.0,Gasoline,87.0,Automatic CVT,Platinum,SUV,4.0,Deep Ocean Blue,Beige,All-wheel Drive
+2024 Ford Explorer Timberline,Ford,Explorer,New,2024,53190.0,16V GDI DOHC Turbo,4.0,Gasoline,15.0,10-Speed Automatic,Timberline,SUV,4.0,Star White,Ebony,Four-wheel Drive
+2024 Volkswagen Taos 1.5T SE,Volkswagen,Taos,New,2024,32751.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,25.0,7-Speed DSG Automatic with Tiptronic,1.5T SE,SUV,4.0,Blue,Black Cloud,All-wheel Drive
+2024 Volkswagen Jetta 1.4T S,Volkswagen,Jetta,New,2024,24348.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,13.0,8-Speed Automatic with Tiptronic,1.4T S,Sedan,4.0,Pyrite Silver Metallic,Titan Black,Front-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,65221.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,344.0,Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Dodge Hornet R/T,Dodge,Hornet,New,2024,39491.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T,SUV,4.0,HOT TAMALE,Black,All-wheel Drive
+2024 Hyundai Tucson SEL,Hyundai,Tucson,New,2024,30305.0,16V PDI DOHC,4.0,Gasoline,11.0,8-Speed Automatic,SEL,SUV,4.0,White Pearl,Black,Front-wheel Drive
+2024 GMC Terrain Denali,GMC,Terrain,New,2024,44120.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,0.0,Automatic,Denali,SUV,4.0,Ebony,Jet Blk,All-wheel Drive
+2024 Hyundai Santa Cruz 2.5L SEL,Hyundai,Santa Cruz,New,2024,33160.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,2.5L SEL,Pickup Truck,4.0,Blue Stone,Black,All-wheel Drive
+2024 Ford Explorer XLT,Ford,Explorer,New,2024,40940.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,10-Speed Automatic,XLT,SUV,4.0,Star White,Ebony,Rear-wheel Drive
+2024 Jeep Compass Limited,Jeep,Compass,New,2024,34084.0,DOHC,4.0,Gasoline,12.0,8-Speed Automatic,Limited,SUV,4.0,Baltic Gray Metallic Clearcoat,Black,Four-wheel Drive
+2024 Chrysler Pacifica Touring-L,Chrysler,Pacifica,New,2024,48705.0,24V MPFI DOHC,6.0,Gasoline,8.0,9-Speed Automatic,Touring-L,Passenger Van,4.0,Diamond Black,Black,All-wheel Drive
+2024 Chevrolet Blazer EV 2LT,Chevrolet,Blazer EV,New,2024,52190.0,c,4.0,Electric,6.0,1-Speed Automatic,2LT,SUV,4.0,Radiant Red,Black,All-wheel Drive
+2024 RAM 2500 Tradesman,RAM,2500,New,2024,58855.0,16V MPFI OHV,8.0,Gasoline,0.0,Automatic,Tradesman,Pickup Truck,4.0,Granite,Black,Four-wheel Drive
+2024 Nissan Murano SV,Nissan,Murano,New,2024,39867.0,24V MPFI DOHC,6.0,Gasoline,2.0,Automatic CVT,SV,SUV,4.0,White,Graphite,Front-wheel Drive
+2024 Ford Transit-250 148 WB Medium Roof Cargo,Ford,Transit-250,New,2024,53595.0,24V PDI DOHC Flexible Fuel,6.0,E85 Flex Fuel,10.0,Automatic,148 WB Medium Roof Cargo,Cargo Van,3.0,Oxford White,Dark Palazzo Gray,Rear-wheel Drive
+2023 Jeep Grand Cherokee 4xe Trailhawk,Jeep,Grand Cherokee 4xe,New,2023,59547.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,185.0,8-Speed Automatic,Trailhawk,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive
+2024 Kia EV6 GT,Kia,EV6,New,2024,49820.0,c,4.0,Electric,13.0,Automatic,GT,SUV,4.0,Yacht Blue,Black,All-wheel Drive
+2024 Volkswagen Jetta 1.4T SE,Volkswagen,Jetta,New,2024,27175.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,5.0,8-Speed Automatic with Tiptronic,1.4T SE,Sedan,4.0,Pyrite Silver Metallic,Titan Black,Front-wheel Drive
+2024 Ford Mustang Mach-E Premium,Ford,Mustang Mach-E,New,2024,47790.0,c,4.0,Electric,5.0,1-Speed Automatic,Premium,SUV,4.0,Vapor Blue,Black,All-wheel Drive
+2024 Chevrolet Silverado 1500 RST,Chevrolet,Silverado 1500,New,2024,58610.0,16V GDI OHV,8.0,Gasoline,0.0,Automatic,RST,Pickup Truck,4.0,Summit White,Jet Black,Four-wheel Drive
+2024 Kia Seltos EX,Kia,Seltos,New,2024,29640.0,16V MPFI DOHC,4.0,Gasoline,16.0,Automatic CVT,EX,SUV,4.0,Steel Gray,Black,All-wheel Drive
+2024 Chevrolet Blazer 3LT,Chevrolet,Blazer,New,2024,43727.0,24V GDI DOHC,6.0,Gasoline,9.0,9-Speed Automatic,3LT,SUV,4.0,Copper Bronze,Jet Black,All-wheel Drive
+2024 GMC Terrain SLE,GMC,Terrain,New,2024,35870.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,0.0,Automatic,SLE,SUV,4.0,Summit White,Jet Blk Premium Clth,All-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,64670.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,15.0,Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive
+2024 Jeep Wrangler Sport S,Jeep,Wrangler,New,2024,46973.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,10.0,Automatic,Sport S,SUV,4.0,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+2024 Jeep Grand Cherokee 4xe Trailhawk,Jeep,Grand Cherokee 4xe,New,2024,54905.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,1.0,8-Speed Automatic,Trailhawk,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive
+2024 Mazda CX-90 PHEV Preferred,Mazda,CX-90 PHEV,New,2024,50915.0,16V GDI DOHC Hybrid,4.0,Hybrid,7.0,8-Speed Automatic,Preferred,SUV,4.0,Machine Gray Metallic,Black,All-wheel Drive
+2024 Acura MDX Advance,Acura,MDX,New,2024,65595.0,24V GDI SOHC,6.0,Gasoline,16.0,10-Speed Automatic,Advance,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,Latitude,SUV,4.0,Diamond Black,Black,Four-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,46835.0,16V MPFI OHV,8.0,Gasoline,21.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive
+2024 Subaru Outback Wilderness,Subaru,Outback,New,2024,44354.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,Automatic CVT,Wilderness,SUV,4.0,Magnetite,Gray,All-wheel Drive
+2024 Volkswagen Atlas Cross Sport 2.0T SEL,Volkswagen,Atlas Cross Sport,New,2024,51721.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,11.0,8-speed automatic,2.0T SEL,SUV,4.0,Silver Mist Metallic,Black,All-wheel Drive
+2024 Hyundai IONIQ 5 SE Standard Range,Hyundai,IONIQ 5,New,2024,44195.0,c,4.0,Electric,14.0,1-Speed Automatic,SE Standard Range,SUV,4.0,Atlas,Gray,Rear-wheel Drive
+2024 Audi Q8 e-tron S line Premium,Audi,Q8 e-tron,New,2024,86670.0,c,4.0,Electric,5.0,Automatic,S line Premium,SUV,4.0,Glacier White Metallic,Pearl Beige,All-wheel Drive
+2024 Volkswagen Jetta 1.4T S,Volkswagen,Jetta,New,2024,24348.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,6.0,8-Speed Automatic with Tiptronic,1.4T S,Sedan,4.0,Pure White,Titan Black,Front-wheel Drive
+2024 Hyundai Sonata Hybrid Limited,Hyundai,Sonata Hybrid,New,2024,38870.0,16V GDI DOHC Hybrid,4.0,Hybrid,14.0,6-Speed Automatic,Limited,Sedan,4.0,Portofino Gray,Dark Gray,Front-wheel Drive
+2024 Kia EV9 Light Long Range,Kia,EV9,New,2024,52388.0,c Motor,4.0,Electric,1.0,1-Speed Automatic,Light Long Range,SUV,4.0,Aurora Black Pearl,Gray,Rear-wheel Drive
+2024 Dodge Durango R/T,Dodge,Durango,New,2024,58709.0,16V MPFI OHV,8.0,Gasoline,15.0,8-Speed Automatic,R/T,SUV,4.0,Night,Black,All-wheel Drive
+2024 Dodge Hornet R/T EAWD,Dodge,Hornet,New,2024,42855.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,5.0,6-Speed Automatic,R/T EAWD,SUV,4.0,8 Ball,Black,All-wheel Drive
+2024 Dodge Hornet GT,Dodge,Hornet,New,2024,34990.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,9-Speed Automatic,GT,SUV,4.0,Q BALL,Black,All-wheel Drive
+2024 Kia Sportage Hybrid EX,Kia,Sportage Hybrid,New,2024,34835.0,"4 gasoline direct injection, DOHC, CVVT variable valve co",4.0,Hybrid,9.0,Automatic,EX,SUV,4.0,Gravity Gray,Black,All-wheel Drive
+2024 Ford Expedition XLT,Ford,Expedition,New,2024,69955.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,8.0,10-Speed Automatic,XLT,SUV,4.0,Silver,Black Onyx,Four-wheel Drive
+2024 Dodge Hornet R/T,Dodge,Hornet,New,2024,39581.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T,SUV,4.0,Blue Steel,Black,All-wheel Drive
+2024 Volkswagen Atlas 2.0T Peak Edition SE w/Technology,Volkswagen,Atlas,New,2024,49166.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,2.0T Peak Edition SE w/Technology,SUV,4.0,Avocado Green,Titan Black,All-wheel Drive
+2024 Hyundai IONIQ 5 Limited,Hyundai,IONIQ 5,New,2024,55365.0,c,4.0,Electric,10.0,1-Speed Automatic,Limited,SUV,4.0,Cyber Gray,Black,Rear-wheel Drive
+2024 Jeep Grand Cherokee L Limited,Jeep,Grand Cherokee L,New,2024,51360.0,24V MPFI DOHC,6.0,Gasoline,8.0,8-Speed Automatic,Limited,SUV,4.0,Bright White Clearcoat,Beige / Black,Rear-wheel Drive
+2024 Hyundai Tucson Limited,Hyundai,Tucson,New,2024,40474.0,"ream 2.5L I-4 port/direct injection, DOHC, CVVT variable",4.0,Gasoline,5.0,Automatic,Limited,SUV,4.0,Shimmering Silver,Gray,All-wheel Drive
+2024 BMW X7 xDrive40i,BMW,X7,New,2024,89450.0,24V GDI DOHC Turbo,6.0,Gasoline,10.0,8-Speed Automatic,xDrive40i,SUV,4.0,Black Sapphire Metallic,Cognac,All-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,Latitude,SUV,4.0,Metallic,Black,Four-wheel Drive
+2024 Toyota Tundra Hybrid Limited,Toyota,Tundra Hybrid,New,2024,62341.0,"MAX 3.4L V-6 port/direct injection, DOHC, variable valve",6.0,Hybrid,4357.0,10-Speed Automatic,Limited,Pickup Truck,4.0,Ice Cap,Black,Four-wheel Drive
+2024 Hyundai IONIQ 5 SE,Hyundai,IONIQ 5,New,2024,42015.0,c,4.0,Electric,7.0,1-Speed Automatic,SE,SUV,4.0,Black,Black,All-wheel Drive
+2024 Nissan Kicks SV,Nissan,Kicks,New,2024,24500.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,10.0,CVT,SV,SUV,4.0,Aspen White Tricoat,Charcoal,Front-wheel Drive
+2024 Buick Envista Preferred,Buick,Envista,New,2024,27075.0,12V GDI DOHC Turbo,3.0,Gasoline,6.0,6-Speed Automatic,Preferred,SUV,4.0,Sunrise Red Metallic,Ebony,Front-wheel Drive
+2024 Acura MDX Base,Acura,MDX,New,2024,51645.0,24V GDI SOHC,6.0,Gasoline,5.0,10-Speed Automatic,Base,SUV,4.0,Black,Black,Front-wheel Drive
+2024 Nissan Rogue SV,Nissan,Rogue,New,2024,35975.0,"o 1.5L I-3 gasoline direct injection, DOHC, CVTCS variabl",3.0,Gasoline,4.0,Automatic,SV,SUV,4.0,Gun Metallic,Charcoal,All-wheel Drive
+2024 Jeep Wagoneer Base,Jeep,Wagoneer,New,2024,63057.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,8.0,8-Speed Automatic,Base,SUV,4.0,Metallic,Black,Four-wheel Drive
+2024 Nissan Rogue SV,Nissan,Rogue,New,2024,36405.0,"o 1.5L I-3 gasoline direct injection, DOHC, CVTCS variabl",3.0,Gasoline,5.0,Automatic,SV,SUV,4.0,Deep Ocean Blue Pearl,Charcoal,All-wheel Drive
+2024 Jeep Wagoneer L Series II Carbide 4x4,Jeep,Wagoneer L,New,2024,86137.0,"ne 3L I-6 gasoline direct injection, DOHC, variable valve",6.0,Gasoline,5.0,Automatic,Series II Carbide 4x4,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+2024 Kia Sportage S,Kia,Sportage,New,2024,27969.0,"4 port/direct injection, DOHC, CVVT variable valve contro",4.0,Gasoline,0.0,8-Speed Automatic,S,SUV,4.0,Gravity Gray,Black,Front-wheel Drive
+2024 Acura MDX Base,Acura,MDX,New,2024,51645.0,24V GDI SOHC,6.0,Gasoline,5.0,10-Speed Automatic,Base,SUV,4.0,White,Black,Front-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,63223.0,24V DDI OHV Turbo Diesel,6.0,Diesel,13.0,Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,47785.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive
+2024 Nissan Murano Platinum,Nissan,Murano,New,2024,46000.0,24V MPFI DOHC,6.0,Gasoline,5.0,Automatic CVT,Platinum,SUV,4.0,Deep Ocean Blue,Beige,All-wheel Drive
+2024 Nissan Rogue SL,Nissan,Rogue,New,2024,41180.0,"o 1.5L I-3 gasoline direct injection, DOHC, CVTCS variabl",3.0,Gasoline,3.0,Automatic,SL,SUV,4.0,Boulder Gray Pearl,Charcoal,All-wheel Drive
+2024 Dodge Hornet R/T,Dodge,Hornet,New,2024,44720.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T,SUV,4.0,Blue Steel,Black,All-wheel Drive
+2024 Jeep Grand Cherokee L Limited,Jeep,Grand Cherokee L,New,2024,49390.0,OHV,6.0,Gasoline,8.0,8-Speed Automatic,Limited,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,8-Speed Automatic,Latitude,SUV,4.0,Metallic,Black,Four-wheel Drive
+2024 Mercedes-Benz EQE 350+ Base,Mercedes-Benz,EQE 350+,New,2024,76535.0,c,4.0,Electric,375.0,1-Speed Automatic,Base,Sedan,4.0,Polar White,Gray,Rear-wheel Drive
+2024 Buick Envista Avenir,Buick,Envista,New,2024,31805.0,12V GDI DOHC Turbo,3.0,Gasoline,8.0,6-Speed Automatic,Avenir,SUV,4.0,Ocean Blue Metallic,Ebony,Front-wheel Drive
+2024 Dodge Durango GT,Dodge,Durango,New,2024,44160.0,24V MPFI DOHC,6.0,Gasoline,12.0,8-Speed Automatic,GT,SUV,4.0,Vapor Gray,Black,Rear-wheel Drive
+2024 Hyundai Sonata SEL,Hyundai,Sonata,New,2024,28469.0,16V PDI DOHC,4.0,Gasoline,0.0,8-Speed Automatic,SEL,Sedan,4.0,White,Dark Gray,All-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,58930.0,24V DDI OHV Turbo Diesel,6.0,Diesel,13.0,6-Speed Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 GMC Terrain SLT,GMC,Terrain,New,2024,35236.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,9-Speed Automatic,SLT,SUV,4.0,Ebony Twilight Metallic,Jet Black,All-wheel Drive
+2024 Jeep Wagoneer Base,Jeep,Wagoneer,New,2024,60555.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,5.0,8-Speed Automatic,Base,SUV,4.0,Diamond Black,Black,Rear-wheel Drive
+2024 Ford Ranger XL,Ford,Ranger,New,2024,38740.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,10-Speed Automatic,XL,Pickup Truck,4.0,Carbonized Gray Metallic,Ebony,Four-wheel Drive
+2024 Audi SQ5 Premium Plus,Audi,SQ5,New,2024,0.0,oled Turbo Premium Unleaded V-6 3.0 L/183,6.0,Gasoline,14.0,Automatic,Premium Plus,SUV,4.0,Ultra Blue Metallic,Black,All-wheel Drive
+2024 RAM 3500 Tradesman Crew Cab 4x4 8' Box,RAM,3500,New,2024,66334.0,"High Output 6.7L I-6 diesel direct injection, VVT interc",6.0,Diesel,6.0,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,Bright White Clearcoat,Black Interior Color,Four-wheel Drive
+2024 Audi Q5 e 55 Premium Plus,Audi,Q5 e,New,2024,73020.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,12.0,7-Speed Automatic S tronic,55 Premium Plus,SUV,4.0,Gray Metallic,Black,All-wheel Drive
+2024 RAM 3500 Laramie,RAM,3500,New,2024,89555.0,24V DDI OHV Turbo Diesel,6.0,Diesel,12.0,Automatic,Laramie,Pickup Truck,4.0,Pearl White,Black,Four-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,65315.0,24V DDI OHV Turbo Diesel,6.0,Diesel,9.0,6-Speed Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Mazda CX-90 PHEV Premium Plus,Mazda,CX-90 PHEV,New,2024,58599.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,8.0,Automatic,Premium Plus,SUV,4.0,Soul,Black,All-wheel Drive
+2023 Ford Mustang Mach-E GT,Ford,Mustang Mach-E,New,2023,50473.0,c,4.0,Electric,12.0,1-Speed Automatic,GT,SUV,4.0,Rapid Red Metallic Tinted Clearcoat,Gray,All-wheel Drive
+2024 Dodge Hornet R/T Plus,Dodge,Hornet,New,2024,47234.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,0.0,6-Speed Automatic,R/T Plus,SUV,4.0,Gold,Black,All-wheel Drive
+2024 Chevrolet Silverado 1500 Custom,Chevrolet,Silverado 1500,New,2024,44161.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,8-Speed Automatic,Custom,Pickup Truck,4.0,Black,Jet Black,Four-wheel Drive
+2024 Chevrolet Silverado 1500 LT,Chevrolet,Silverado 1500,New,2024,49496.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,LT,Pickup Truck,4.0,Black,Jet Black,Four-wheel Drive
+2024 Chevrolet Silverado 1500 WT,Chevrolet,Silverado 1500,New,2024,43475.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,Automatic,WT,Pickup Truck,4.0,Black,Jet Black,Four-wheel Drive
+2023 Dodge Charger SXT,Dodge,Charger,New,2023,36083.0,24V MPFI DOHC,6.0,Gasoline,20.0,8-Speed Automatic,SXT,Sedan,4.0,White,Black,Rear-wheel Drive
+2024 Chevrolet Silverado 1500 RST,Chevrolet,Silverado 1500,New,2024,54559.0,16V GDI OHV,8.0,Gasoline,148.0,Automatic,RST,Pickup Truck,4.0,Sterling Gray Metallic,Jet Black,Four-wheel Drive
+2024 Mercedes-Benz Sprinter 2500 Standard Roof,Mercedes-Benz,Sprinter 2500,New,2024,60061.0,16V DDI DOHC Turbo Diesel,4.0,Diesel,58.0,9-Speed Automatic,Standard Roof,Cargo Van,3.0,Silver Gray,Black,Rear-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,28867.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,1.0,Automatic,Latitude,SUV,4.0,Baltic Gray Metallic Clearcoat,Black,Four-wheel Drive
+2024 Honda CR-V Hybrid Sport Touring,Honda,CR-V Hybrid,New,2024,42005.0,16V GDI DOHC Hybrid,4.0,Hybrid,1.0,Automatic CVT,Sport Touring,SUV,4.0,Radiant Red Metallic,Black,All-wheel Drive
+2024 Hyundai IONIQ 6 SEL,Hyundai,IONIQ 6,New,2024,45005.0,c,4.0,Electric,12.0,Automatic,SEL,Sedan,4.0,White,Black,Rear-wheel Drive
+2024 Hyundai Tucson Hybrid SEL Convenience,Hyundai,Tucson Hybrid,New,2024,35864.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Amazon Gray,Black,All-wheel Drive
+2023 Jeep Compass Latitude,Jeep,Compass,New,2023,30000.0,DOHC,4.0,Gasoline,0.0,8-Speed Automatic,Latitude,SUV,4.0,Red Line,Steel Gry Premium Cl,Four-wheel Drive
+2024 Kia Sportage X-Line,Kia,Sportage,New,2024,34000.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,X-Line,SUV,4.0,Glacial White Pearl,Black,All-wheel Drive
+2024 Jeep Compass Sport,Jeep,Compass,New,2024,29342.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,6.0,Automatic,Sport,SUV,4.0,Laser Blue Pearlcoat,Black,Four-wheel Drive
+2024 Ford Transit-150 Base,Ford,Transit-150,New,2024,55645.0,24V PDI DOHC Flexible Fuel,6.0,E85 Flex Fuel,59.0,10-Speed Automatic,Base,Cargo Van,3.0,Race Red,Ebony,All-wheel Drive
+2024 Audi Q8 e-tron Premium,Audi,Q8 e-tron,New,2024,83630.0,c,4.0,Electric,5.0,Automatic,Premium,SUV,4.0,Glacier White Metallic,Pearl Beige,All-wheel Drive
+2024 Jeep Wrangler 4-Door Sahara 4x4,Jeep,Wrangler,New,2024,59456.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,15.0,Automatic,4-Door Sahara 4x4,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Jeep Grand Cherokee Laredo,Jeep,Grand Cherokee,New,2024,39714.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,14.0,Automatic,Laredo,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive
+2024 Chevrolet Silverado 1500 LT,Chevrolet,Silverado 1500,New,2024,49628.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,LT,Pickup Truck,4.0,Radiant Red,Jet Black,Four-wheel Drive
+2024 Hyundai Tucson Hybrid Blue,Hyundai,Tucson Hybrid,New,2024,33089.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,25.0,6-Speed Automatic,Blue,SUV,4.0,Amazon Gray,Gray,All-wheel Drive
+2024 Mercedes-Benz EQE 350+ Base,Mercedes-Benz,EQE 350+,New,2024,79765.0,c,4.0,Electric,9.0,1-Speed Automatic,Base,Sedan,4.0,Twilight Blue Metallic,Gray,Rear-wheel Drive
+2023 Dodge Charger Scat Pack,Dodge,Charger,New,2023,65075.0,16V MPFI OHV,8.0,Gasoline,18.0,8-Speed Automatic,Scat Pack,Sedan,4.0,Blue,Black,Rear-wheel Drive
+2024 Jeep Compass Limited,Jeep,Compass,New,2024,38980.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,8-Speed Automatic,Limited,SUV,4.0,Diamond Black,Black,Four-wheel Drive
+2024 Hyundai Santa Fe Calligraphy,Hyundai,Santa Fe,New,2024,49905.0,Turbo DOHC,4.0,Gasoline,1.0,Automatic,Calligraphy,SUV,4.0,Green,Black,All-wheel Drive
+2024 Jeep Grand Cherokee 4xe 4x4,Jeep,Grand Cherokee 4xe,New,2024,58235.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,Automatic,4x4,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive
+2024 Volkswagen Taos 1.5T SE,Volkswagen,Taos,New,2024,27998.0,16V GDI DOHC Turbo,4.0,Gasoline,3.0,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4.0,Pyrite Silver Metallic,Black,All-wheel Drive
+2024 Chevrolet Equinox LS,Chevrolet,Equinox,New,2024,25515.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,8.0,6-Speed Automatic Electronic with Overdrive,LS,SUV,4.0,Summit White,Medium Ash Gray,Front-wheel Drive
+2024 Subaru Solterra Premium,Subaru,Solterra,New,2024,39934.0,c,4.0,Gasoline,5.0,1-Speed Automatic,Premium,SUV,4.0,Galactic,Black,All-wheel Drive
+2024 Jeep Wrangler 4xe Rubicon,Jeep,Wrangler 4xe,New,2024,66960.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,Rubicon,SUV,4.0,Earl Clearcoat,Black,Four-wheel Drive
+2024 Mazda CX-90 PHEV Base,Mazda,CX-90 PHEV,New,2024,53395.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,Base,SUV,4.0,Rhodium White Premium,Greige,All-wheel Drive
+2024 Hyundai IONIQ 5 Disney100 Platinum Edition,Hyundai,IONIQ 5,New,2024,61775.0,c,4.0,Electric,12.0,Automatic,Disney100 Platinum Edition,SUV,4.0,Gold,Gray,All-wheel Drive
+2024 RAM ProMaster 2500 High Roof,RAM,ProMaster 2500,New,2024,53272.0,24V MPFI DOHC,6.0,Gasoline,1.0,9-Speed Automatic,High Roof,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive
+2024 Lincoln Corsair Reserve,Lincoln,Corsair,New,2024,51361.0,16V GDI DOHC Turbo,4.0,Gasoline,3.0,8-Speed Automatic,Reserve,SUV,4.0,Infinite Black Metallic,Ebony,All-wheel Drive
+2024 GMC Savana 2500 Work Van,GMC,Savana 2500,New,2024,44595.0,"6 gasoline direct injection, variable valve control, regu",6.0,Gasoline,3.0,Automatic,Work Van,Cargo Van,3.0,Summit White,Black,Rear-wheel Drive
+2024 Chrysler Pacifica Hybrid Select,Chrysler,Pacifica Hybrid,New,2024,60600.0,24V MPFI DOHC Hybrid,6.0,Hybrid,10.0,Automatic CVT,Select,Passenger Van,4.0,Bright White Clearcoat,Black,Front-wheel Drive
+2024 Dodge Hornet GT,Dodge,Hornet,New,2024,38575.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,9-Speed Automatic,GT,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Acura ZDX A-SPEC,Acura,ZDX,New,2024,69850.0,c,0.0,Electric,0.0,Automatic,A-SPEC,SUV,4.0,Bright White Clearcoat,Black,All-wheel Drive
+2024 Nissan Altima 2.5 SV,Nissan,Altima,New,2024,31225.0,16V GDI DOHC,4.0,Gasoline,6.0,Automatic CVT,2.5 SV,Sedan,4.0,Black,Charcoal,Front-wheel Drive
+2024 Hyundai Sonata Hybrid SEL,Hyundai,Sonata Hybrid,New,2024,32520.0,16V GDI DOHC Hybrid,4.0,Hybrid,11.0,6-Speed Automatic,SEL,Sedan,4.0,Portofino Gray,Gray,Front-wheel Drive
+2023 Dodge Charger SXT,Dodge,Charger,New,2023,35821.0,24V MPFI DOHC,6.0,Gasoline,20.0,8-Speed Automatic,SXT,Sedan,4.0,Black,Black,Rear-wheel Drive
+2024 Mazda CX-90 PHEV Base,Mazda,CX-90 PHEV,New,2024,60200.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,33.0,Automatic,Base,SUV,4.0,Jet Black Mica,White,All-wheel Drive
+2024 Mercedes-Benz EQS 450 Base 4MATIC,Mercedes-Benz,EQS 450,New,2024,47229.5,c,4.0,Electric,8.0,Automatic,Base 4MATIC,Sedan,4.0,Graphite Gray Metallic,Gray,All-wheel Drive
+2024 Dodge Hornet GT AWD,Dodge,Hornet,New,2024,36532.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,14.0,9-Speed 948TE Automatic,GT AWD,SUV,4.0,Gray Cray,Black,All-wheel Drive
+2024 Jeep Grand Cherokee 4xe Anniversary Edition,Jeep,Grand Cherokee 4xe,New,2024,61506.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,Automatic,Anniversary Edition,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive
+2024 Mazda CX-90 PHEV Base,Mazda,CX-90 PHEV,New,2024,59625.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,2.0,8-Speed Automatic,Base,SUV,4.0,Deep Crystal Blue Mica,Black,All-wheel Drive
+2024 Mercedes-Benz EQS 450 Base 4MATIC,Mercedes-Benz,EQS 450,New,2024,109545.0,c,4.0,Electric,10.0,1-Speed Automatic,Base 4MATIC,SUV,4.0,Black,Black,All-wheel Drive
+2024 Dodge Hornet Hornet Gt Awd,Dodge,Hornet,New,2024,35480.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,0.0,Automatic,Hornet Gt Awd,SUV,4.0,Hot Tamale,Black,All-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,31200.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,8-Speed Automatic,Latitude,SUV,4.0,Silver Zynith,Black,Four-wheel Drive
+2024 Jeep Wrangler 4xe Sport S,Jeep,Wrangler 4xe,New,2024,54835.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,11.0,8-Speed A/T,Sport S,SUV,4.0,Silver Zynith Clearcoat,Black,Four-wheel Drive
+2024 Jeep Grand Cherokee Limited,Jeep,Grand Cherokee,New,2024,52115.0,24V MPFI DOHC,6.0,Gasoline,13.0,8-Speed Automatic,Limited,SUV,4.0,Metallic,Beige / Black,Four-wheel Drive
+2024 Volkswagen Taos 1.5T SE,Volkswagen,Taos,New,2024,32011.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,11.0,8-speed automatic,1.5T SE,SUV,4.0,Pure White,Black,Front-wheel Drive
+2024 RAM ProMaster 3500 High Roof,RAM,ProMaster 3500,New,2024,53099.0,24V MPFI DOHC,6.0,Gasoline,30.0,9-Speed Automatic,High Roof,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,46835.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive
+2024 Volkswagen Taos 1.5T SE,Volkswagen,Taos,New,2024,30383.0,16V GDI DOHC Turbo,4.0,Gasoline,13.0,8-Speed Automatic,1.5T SE,SUV,4.0,Pure Gray W/Black Roof,Black,Front-wheel Drive
+2024 Cadillac XT5 Luxury,Cadillac,XT5,New,2024,46890.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,9-Speed Automatic,Luxury,SUV,4.0,Crystal White Tri-Coat,Jet Black,Front-wheel Drive
+2024 Jeep Grand Cherokee Laredo,Jeep,Grand Cherokee,New,2024,37729.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,10.0,Automatic,Laredo,SUV,4.0,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive
+2024 Jeep Wrangler 4xe Sport,Jeep,Wrangler 4xe,New,2024,53535.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,4.0,8-Speed Automatic,Sport,SUV,4.0,Anvil Clearcoat,Black,Four-wheel Drive
+2023 Dodge Charger SXT,Dodge,Charger,New,2023,37490.0,24V MPFI DOHC,6.0,Gasoline,20.0,8-Speed Automatic,SXT,Sedan,4.0,Green,Black,Rear-wheel Drive
+2024 Dodge Hornet R/T Plus,Dodge,Hornet,New,2024,44600.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T Plus,SUV,4.0,Blue,Black,All-wheel Drive
+2024 Dodge Durango GT,Dodge,Durango,New,2024,45038.0,24V MPFI DOHC,6.0,Gasoline,5.0,8-Speed Automatic,GT,SUV,4.0,Vapor Gray,Black,All-wheel Drive
+2024 Acura MDX Technology,Acura,MDX,New,2024,56155.0,24V GDI SOHC,6.0,Gasoline,3.0,10-Speed Automatic,Technology,SUV,4.0,White,Black,All-wheel Drive
+2024 Jeep Wrangler Rubicon,Jeep,Wrangler,New,2024,60972.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,12.0,Automatic,Rubicon,SUV,4.0,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive
+2023 Jeep Gladiator Rubicon,Jeep,Gladiator,New,2023,53796.0,24V MPFI DOHC,6.0,Gasoline,0.0,8-Speed Automatic,Rubicon,Pickup Truck,4.0,High Velocity Clearcoat,Black,Four-wheel Drive
+2024 Dodge Hornet R/T EAWD,Dodge,Hornet,New,2024,41497.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,11.0,6-Speed Automatic,R/T EAWD,SUV,4.0,Hot Tamale,Black,All-wheel Drive
+2024 Volkswagen Taos 1.5T S,Volkswagen,Taos,New,2024,25311.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,7-Speed DSGA? Automatic w/ 4MO,1.5T S,SUV,4.0,Pyrite Silver Metallic,Black,All-wheel Drive
+2023 Dodge Charger SXT,Dodge,Charger,New,2023,35913.0,24V MPFI DOHC,6.0,Gasoline,15.0,8-Speed Automatic,SXT,Sedan,4.0,Blue,Black,Rear-wheel Drive
+2024 INFINITI QX50 LUXE,INFINITI,QX50,New,2024,48350.0,"o 2L I-4 port/direct injection, DOHC, variable valve cont",4.0,Gasoline,3.0,Variable,LUXE,SUV,4.0,Slate Gray,Pebble Gray,Front-wheel Drive
+2024 Nissan Versa 1.6 SV,Nissan,Versa,New,2024,21000.0,16V MPFI DOHC,4.0,Gasoline,9.0,Automatic CVT,1.6 SV,Sedan,4.0,Aspen White,Graphite,Front-wheel Drive
+2024 GMC Savana 2500 Work Van,GMC,Savana 2500,New,2024,44620.0,"6 gasoline direct injection, variable valve control, regu",6.0,Gasoline,12.0,Automatic,Work Van,Cargo Van,3.0,SILVER,Black,Rear-wheel Drive
+2024 Mercedes-Benz AMG GLE 53 Base,Mercedes-Benz,AMG GLE 53,New,2024,90995.0,24V GDI DOHC Turbo,6.0,Gasoline,10.0,9-Speed Automatic,Base,SUV,4.0,Blue,Black,All-wheel Drive
+2024 Mazda CX-90 PHEV Premium,Mazda,CX-90 PHEV,New,2024,56079.0,16V GDI DOHC Hybrid,4.0,Hybrid,0.0,8-Speed Automatic,Premium,SUV,4.0,Rhodium White Metallic,Black,All-wheel Drive
+2024 Ford F-350 XL,Ford,F-350,New,2024,52263.0,"8 variable valve control, regular unleaded, engine with 4",8.0,Gasoline,10.0,10-Speed Automatic,XL,Pickup Truck,2.0,Race Red,Medium Earth Gray,Four-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,46835.0,16V MPFI OHV,8.0,Gasoline,29.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive
+2024 Dodge Hornet R/T,Dodge,Hornet,New,2024,42991.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,14.0,6-Speed Automatic,R/T,SUV,4.0,HOT TAMALE,Black,All-wheel Drive
+2024 Jeep Grand Cherokee 4xe Trailhawk,Jeep,Grand Cherokee 4xe,New,2024,54910.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,8-Speed Automatic,Trailhawk,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive
+2024 Audi A5 Sportback S line Premium Plus,Audi,A5 Sportback,New,2024,56105.0,16V GDI DOHC Turbo,4.0,Gasoline,12.0,7-Speed Automatic with Auto-Shift,S line Premium Plus,Hatchback,4.0,Navarra Blue Metallic,Black,All-wheel Drive
+2024 Lincoln Nautilus Reserve,Lincoln,Nautilus,New,2024,64370.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,8-Speed Automatic,Reserve,SUV,4.0,Gray Metallic,Black Onyx,All-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,44790.0,24V MPFI DOHC,6.0,Gasoline,32.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive
+2024 Chevrolet Trailblazer RS,Chevrolet,Trailblazer,New,2024,32580.0,"1.3L I-3 gasoline direct injection, DOHC, variable valve",3.0,Gasoline,0.0,9-Speed Automatic,RS,SUV,4.0,Crimson Metallic,Jet Black w/Red Accents,All-wheel Drive
+2024 BMW i4 Gran Coupe eDrive40,BMW,i4 Gran Coupe,New,2024,69685.0,c,4.0,Electric,5.0,1-Speed Automatic,eDrive40,Hatchback,4.0,Black,Tacora Red,Rear-wheel Drive
+2024 Hyundai Santa Cruz 2.5L SEL,Hyundai,Santa Cruz,New,2024,34330.0,16V PDI DOHC,4.0,Gasoline,11.0,8-Speed Automatic,2.5L SEL,Pickup Truck,4.0,Atlas,Gray,All-wheel Drive
+2024 Dodge Hornet GT AWD,Dodge,Hornet,New,2024,37430.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,9.0,9-Speed A/T,GT AWD,SUV,4.0,Blu Bayou,Black,All-wheel Drive
+2024 Hyundai Santa Cruz 2.5T XRT,Hyundai,Santa Cruz,New,2024,42015.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4.0,Blue Stone,Black,All-wheel Drive
+2024 Hyundai Santa Cruz 2.5L SEL,Hyundai,Santa Cruz,New,2024,32925.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,2.5L SEL,Pickup Truck,4.0,Blue Stone,Black,All-wheel Drive
+2024 Jeep Wrangler 4xe Sahara,Jeep,Wrangler 4xe,New,2024,57870.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,Sahara,SUV,4.0,Pearlcoat,Black,Four-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,28265.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,8-Speed Automatic,Latitude,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Volkswagen Taos 1.5T SE,Volkswagen,Taos,New,2024,30618.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4.0,Pure White,Gray,All-wheel Drive
+2024 Ford Escape Active,Ford,Escape,New,2024,31985.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,2.0,8-Speed Automatic,Active,SUV,4.0,Carbonized Gray Metallic,Ebony Black,Front-wheel Drive
+2024 Ford Bronco Sport Outer Banks,Ford,Bronco Sport,New,2024,35210.0,oBoost,3.0,Gasoline,0.0,8-Speed Automatic,Outer Banks,SUV,4.0,Shadow Black,Ebony/Roast,Four-wheel Drive
+2024 Hyundai Santa Fe XRT,Hyundai,Santa Fe,New,2024,42455.0,Turbo DOHC,4.0,Gasoline,1.0,Automatic,XRT,SUV,4.0,Shimmering Silver,Black,All-wheel Drive
+2023 Hyundai IONIQ 6 SEL,Hyundai,IONIQ 6,New,2023,51820.0,c,4.0,Electric,12.0,1-Speed Automatic,SEL,Sedan,4.0,Gold,Gray,All-wheel Drive
+2024 Hyundai IONIQ 5 SEL,Hyundai,IONIQ 5,New,2024,49795.0,c,4.0,Electric,4.0,1-Speed Automatic,SEL,SUV,4.0,Atlas,Gray,Rear-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,31721.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Latitude,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Dodge Durango GT,Dodge,Durango,New,2024,44852.0,24V MPFI DOHC,6.0,Gasoline,13.0,8-Speed Automatic,GT,SUV,4.0,Vapor Gray,Black,All-wheel Drive
+2024 Dodge Hornet GT AWD,Dodge,Hornet,New,2024,32485.0,">
+
+    
+    <dt>VIN</dt>
+     ZACNDFAN0R3A12168",4.0,Gasoline,48.0,9 Spd Automatic,GT AWD,SUV,4.0,Blu Bayou,Black,All-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,46835.0,16V MPFI OHV,8.0,Gasoline,34.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive
+2024 Jeep Grand Cherokee L Laredo,Jeep,Grand Cherokee L,New,2024,39370.0,24V VVT,6.0,Gasoline,0.0,8-Speed Automatic,Laredo,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Dodge Hornet R/T,Dodge,Hornet,New,2024,45844.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,1.0,6-Speed Automatic,R/T,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Jeep Wagoneer L Series II,Jeep,Wagoneer L,New,2024,78543.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,16.0,8-Speed Automatic,Series II,SUV,4.0,Riverrock Green,Global Black,Four-wheel Drive
+2024 Hyundai Elantra HEV Blue,Hyundai,Elantra HEV,New,2024,27080.0,".6L I-4 gasoline direct injection, DOHC, D-CVVT variable",4.0,Hybrid,13.0,Automatic,Blue,Sedan,4.0,Serenity White,Medium Gray,Front-wheel Drive
+2024 RAM 3500 Laramie Crew Cab 4x4 8' Box,RAM,3500,New,2024,83940.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,6.0,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,Patriot Blue Pearlcoat,Black,Four-wheel Drive
+2024 Volkswagen Atlas Cross Sport 2.0T SEL R-Line,Volkswagen,Atlas Cross Sport,New,2024,48541.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic,2.0T SEL R-Line,SUV,4.0,Silver Bird Metallic,Mauro Brown,All-wheel Drive
+2024 RAM 3500 Laramie Crew Cab 4x4 8' Box,RAM,3500,New,2024,81036.0,"High Output 6.7L I-6 diesel direct injection, VVT interc",6.0,Diesel,0.0,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,White,Black,Four-wheel Drive
+2024 Mazda CX-90 PHEV Premium,Mazda,CX-90 PHEV,New,2024,54949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,8.0,Automatic,Premium,SUV,4.0,Soul,Black,All-wheel Drive
+2024 RAM 3500 Tradesman/SLT/Laramie/Limited,RAM,3500,New,2024,67562.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,13.0,Automatic,Tradesman/SLT/Laramie/Limited,Pickup Truck,4.0,White,Black Interior Color,Four-wheel Drive
+2024 Mazda CX-90 PHEV Premium Plus,Mazda,CX-90 PHEV,New,2024,58399.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,4.0,Automatic,Premium Plus,SUV,4.0,Rhodium White Premium,Black,All-wheel Drive
+2024 Lexus RX 500h F SPORT PERFORMANCE,Lexus,RX 500h,New,2024,73270.0,16V PDI DOHC Turbo Hybrid,4.0,Hybrid,21.0,6-Speed Automatic,F SPORT PERFORMANCE,SUV,4.0,Caviar,Black,All-wheel Drive
+2024 RAM 3500 Laramie Mega Cab 4x4 6'4' Box,RAM,3500,New,2024,89040.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,5.0,Aisin 6-Speed Automatic,Laramie Mega Cab 4x4 6&#39;4&#39; Box,Pickup Truck,4.0,Pearl White,Black,Four-wheel Drive
+2024 Hyundai IONIQ 5 SEL,Hyundai,IONIQ 5,New,2024,52905.0,c,4.0,Electric,12.0,1-Speed Automatic,SEL,SUV,4.0,Blue,Black,All-wheel Drive
+2024 Ford Mustang Mach-E Premium,Ford,Mustang Mach-E,New,2024,46920.0,c,4.0,Electric,10.0,1-Speed Automatic,Premium,SUV,4.0,Shadow Black,Black Onyx,All-wheel Drive
+2024 Chevrolet Silverado 1500 LT Trail Boss,Chevrolet,Silverado 1500,New,2024,65175.0,24V DDI DOHC Turbo Diesel,6.0,Diesel,0.0,Automatic,LT Trail Boss,Pickup Truck,4.0,Slate Gray Metallic,Jet Black,Four-wheel Drive
+2024 Nissan Versa 1.6 SR,Nissan,Versa,New,2024,20389.0,16V MPFI DOHC,4.0,Gasoline,11.0,Automatic CVT,1.6 SR,Sedan,4.0,Gun Metallic,Gray,Front-wheel Drive
+2024 Mazda CX-90 PHEV Preferred,Mazda,CX-90 PHEV,New,2024,50599.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,4.0,Automatic,Preferred,SUV,4.0,Rhodium White Premium,Greige,All-wheel Drive
+2023 Ford Mustang Mach-E GT,Ford,Mustang Mach-E,New,2023,46935.0,c,4.0,Electric,11.0,1-Speed Automatic,GT,SUV,4.0,Black,Black,All-wheel Drive
+2024 Hyundai Santa Fe SE 2.4,Hyundai,Santa Fe,New,2024,38100.0,Turbo DOHC,4.0,Gasoline,1.0,Automatic,SE 2.4,SUV,4.0,White,Gray,All-wheel Drive
+2024 Kia Sportage EX,Kia,Sportage,New,2024,31190.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,EX,SUV,4.0,Glacial White Pearl,Black,Front-wheel Drive
+2024 Jeep Wrangler 4xe Sport,Jeep,Wrangler 4xe,New,2024,50755.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,8.0,8-Speed Automatic,Sport,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Hyundai IONIQ 5 SEL,Hyundai,IONIQ 5,New,2024,42201.0,c,4.0,Electric,8.0,Automatic,SEL,SUV,4.0,Gold,Gray,Rear-wheel Drive
+2024 Honda Prologue TOURING,Honda,Prologue,New,2024,55800.0,c,4.0,Gasoline,8.0,1-Speed Automatic,TOURING,SUV,4.0,BX,Gray,All-wheel Drive
+2024 Hyundai Tucson Hybrid SEL Convenience,Hyundai,Tucson Hybrid,New,2024,35404.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SEL Convenience,SUV,4.0,White,Black,All-wheel Drive
+2024 Hyundai Tucson Hybrid N Line,Hyundai,Tucson Hybrid,New,2024,35656.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,9.0,6-Speed Automatic,N Line,SUV,4.0,Titanium Gray,Black,All-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,32660.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,8-Speed Automatic,Latitude,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Hyundai IONIQ 6 SE,Hyundai,IONIQ 6,New,2024,50850.0,;,4.0,Electric,10.0,Automatic,SE,Sedan,4.0,Serenity White,Black,All-wheel Drive
+2024 Jeep Wrangler 4xe Rubicon,Jeep,Wrangler 4xe,New,2024,61860.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,Rubicon,SUV,4.0,Anvil Clearcoat,Black,Four-wheel Drive
+2024 Volkswagen Taos 1.5T S,Volkswagen,Taos,New,2024,25895.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,7-Speed DSGA? Automatic w/ 4MO,1.5T S,SUV,4.0,Deep Black Pearl Effect,Black,All-wheel Drive
+2024 Nissan Kicks SR,Nissan,Kicks,New,2024,26600.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,15.0,CVT,SR,SUV,4.0,Scarlet Ember Tintcoat,Charcoal,Front-wheel Drive
+2024 BMW i5 M60,BMW,i5,New,2024,91825.0,c,4.0,Electric,7.0,1-Speed Automatic,M60,Sedan,4.0,Mineral White,Black,All-wheel Drive
+2024 Hyundai Santa Cruz 2.5L SEL,Hyundai,Santa Cruz,New,2024,37325.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,2.5L SEL,Pickup Truck,4.0,Sage Gray,Gray,All-wheel Drive
+2024 Jeep Grand Cherokee Limited,Jeep,Grand Cherokee,New,2024,52642.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,Limited,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive
+2024 Jeep Compass Limited,Jeep,Compass,New,2024,40235.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic,Limited,SUV,4.0,Sting Gray Clearcoat,Black,Four-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,46835.0,16V MPFI OHV,8.0,Gasoline,5.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive
+2024 Hyundai Santa Cruz 2.5T XRT,Hyundai,Santa Cruz,New,2024,42064.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4.0,Phantom Black,Black,All-wheel Drive
+2024 Hyundai Tucson Hybrid Limited,Hyundai,Tucson Hybrid,New,2024,39832.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,Limited,SUV,4.0,Deep Sea,Black,All-wheel Drive
+2024 Jeep Wagoneer Base,Jeep,Wagoneer,New,2024,65928.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,8.0,8-Speed Automatic,Base,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Dodge Hornet R/T EAWD,Dodge,Hornet,New,2024,41036.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,5.0,6-Speed Automatic,R/T EAWD,SUV,4.0,8 Ball,Black,All-wheel Drive
+2024 Volkswagen Taos 1.5T SEL,Volkswagen,Taos,New,2024,33331.0,16V GDI DOHC Turbo,4.0,Gasoline,13.0,7-Speed DSGA? Automatic w/ 4MO,1.5T SEL,SUV,4.0,Pure White,Black,All-wheel Drive
+2024 Dodge Hornet R/T Plus,Dodge,Hornet,New,2024,51835.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,33.0,6-Speed Automatic,R/T Plus,SUV,4.0,8 BALL,Black,All-wheel Drive
+2024 Hyundai IONIQ 5 SE,Hyundai,IONIQ 5,New,2024,42466.0,c,4.0,Electric,16.0,1-Speed Automatic,SE,SUV,4.0,Atlas,Gray,All-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,47340.0,16V MPFI OHV,8.0,Gasoline,34.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive
+2024 Jeep Grand Cherokee L Limited,Jeep,Grand Cherokee L,New,2024,54209.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Limited,SUV,4.0,Metallic,Global Black,Four-wheel Drive
+2024 RAM 3500 Laramie,RAM,3500,New,2024,86505.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,49.0,Automatic,Laramie,Pickup Truck,4.0,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+2024 Dodge Hornet Hornet R/T Plus Eawd,Dodge,Hornet,New,2024,48595.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Plus Eawd,SUV,4.0,8 Ball,Black,All-wheel Drive
+2023 Mazda MX-5 Miata RF Grand Touring,Mazda,MX-5 Miata RF,New,2023,38040.0,16V GDI DOHC,4.0,Gasoline,3.0,6-Speed Automatic,Grand Touring,Convertible,2.0,Snowflake White Pearl,Black,Rear-wheel Drive
+2024 Acura MDX Base,Acura,MDX,New,2024,52950.0,24V GDI SOHC,6.0,Gasoline,3.0,10-Speed Automatic,Base,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Jeep Grand Cherokee L Limited,Jeep,Grand Cherokee L,New,2024,52567.0,OHV,6.0,Gasoline,246.0,8-Speed Automatic,Limited,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+2024 Dodge Durango Pursuit,Dodge,Durango,New,2024,47229.5,16V MPFI OHV,8.0,Gasoline,28.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,47340.0,16V MPFI OHV,8.0,Gasoline,33.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive
+2024 Jeep Wagoneer Series II,Jeep,Wagoneer,New,2024,87488.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,22.0,8-Speed Automatic,Series II,SUV,4.0,Riverrock Green,Global Black,Four-wheel Drive
+2024 Hyundai IONIQ 5 SE,Hyundai,IONIQ 5,New,2024,43904.0,c,4.0,Electric,6.0,1-Speed Automatic,SE,SUV,4.0,Blue,Gray,All-wheel Drive
+2024 Chevrolet Blazer EV RS,Chevrolet,Blazer EV,New,2024,55090.0,c,4.0,Electric,9.0,1-Speed Automatic,RS,SUV,4.0,Radiant Red,Black,All-wheel Drive
+2024 Mercedes-Benz EQS 450 Base 4MATIC,Mercedes-Benz,EQS 450,New,2024,110395.0,c,4.0,Electric,5.0,Automatic,Base 4MATIC,Sedan,4.0,Obsidian Black Metallic,Black,All-wheel Drive
+2024 Jeep Grand Cherokee Laredo,Jeep,Grand Cherokee,New,2024,44737.0,OHV,6.0,Gasoline,6.0,8-Speed Automatic,Laredo,SUV,4.0,Metallic,Global Black,Four-wheel Drive
+2024 Volkswagen ID.4 Standard,Volkswagen,ID.4,New,2024,41693.0,"dd>
+
+    
+    <dt>VIN</dt>
+     1V2BMPE85RC003636",4.0,Electric,0.0,62 kWh battery,Standard,SUV,4.0,Deep Black Pearl Effect,Nutmeg,Rear-wheel Drive
+2024 Hyundai Santa Cruz 2.5T XRT,Hyundai,Santa Cruz,New,2024,41995.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4.0,Sage Gray,Black,All-wheel Drive
+2024 Honda CR-V Hybrid Sport-L,Honda,CR-V,New,2024,38855.0,"gasoline direct injection, DOHC, i-VTEC variable valve co",4.0,Hybrid,6.0,Automatic,Hybrid Sport-L,SUV,4.0,Still Night Pearl,Black,Front-wheel Drive
+2024 Jeep Grand Cherokee 4xe Trailhawk,Jeep,Grand Cherokee 4xe,New,2024,58909.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,34.0,Automatic,Trailhawk,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive
+2024 RAM 2500 Big Horn,RAM,2500,New,2024,65350.0,16V MPFI OHV,8.0,Gasoline,0.0,8-Speed Automatic,Big Horn,Pickup Truck,4.0,Patriot Blue Pearlcoat,Black,Four-wheel Drive
+2024 Jeep Grand Cherokee L Altitude,Jeep,Grand Cherokee L,New,2024,49411.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,6.0,Automatic,Altitude,SUV,4.0,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive
+2024 Jeep Wagoneer Series II,Jeep,Wagoneer,New,2024,72908.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,8.0,8-Speed Automatic,Series II,SUV,4.0,Diamond Black,Black,Four-wheel Drive
+2023 Jeep Compass Trailhawk,Jeep,Compass,New,2023,37105.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,8-Speed Automatic,Trailhawk,SUV,4.0,Granite Crystal Clearcoat Metallic,Ruby Red,Four-wheel Drive
+2024 Dodge Hornet R/T Plus,Dodge,Hornet,New,2024,50590.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,R/T Plus,SUV,4.0,8 BALL,Black,All-wheel Drive
+2024 Chevrolet Silverado 2500 LT,Chevrolet,Silverado 2500,New,2024,70190.0,"6.6L V-8 diesel direct injection, intercooled turbo, die",8.0,Diesel,5.0,Automatic,LT,Pickup Truck,4.0,Dark Ash Metallic,Gideon/Very Dark Atmosphere,Four-wheel Drive
+2024 Chevrolet Equinox LS,Chevrolet,Equinox,New,2024,25515.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,5.0,6-Speed Automatic Electronic with Overdrive,LS,SUV,4.0,Mosaic Black Metallic,Medium Ash Gray,Front-wheel Drive
+2024 Jeep Wrangler Rubicon,Jeep,Wrangler,New,2024,59542.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,10.0,Automatic,Rubicon,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 RAM ProMaster 2500 High Roof,RAM,ProMaster 2500,New,2024,53445.0,24V MPFI DOHC,6.0,Gasoline,6.0,9-Speed Automatic,High Roof,Cargo Van,3.0,Bright Silver Clearcoat Metallic,Black,Front-wheel Drive
+2024 RAM 2500 Laramie,RAM,2500,New,2024,79675.0,24V DDI OHV Turbo Diesel,6.0,Diesel,17.0,6-Speed Automatic,Laramie,Pickup Truck,4.0,Pearl White,Black,Four-wheel Drive
+2024 GMC Sierra 3500 SLT,GMC,Sierra 3500,New,2024,87075.0,der,8.0,Diesel (B20 capable),9.0,10-Speed Shiftable Automatic,SLT,Pickup Truck,4.0,Sterling Metallic,Dark Walnut / Slate,Four-wheel Drive
+2024 Ford Escape Active,Ford,Escape,New,2024,34799.0,12V PDI DOHC Turbo,3.0,Gasoline,3.0,8-Speed Automatic,Active,SUV,4.0,Carbonized Gray Metallic,Ebony,All-wheel Drive
+2024 RAM 2500 Laramie,RAM,2500,New,2024,67125.0,24V DDI OHV Turbo Diesel,6.0,Diesel,5.0,6-Speed Automatic,Laramie,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Jeep Grand Cherokee L Laredo,Jeep,Grand Cherokee L,New,2024,46721.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Laredo,SUV,4.0,Metallic,Global Black,Four-wheel Drive
+2024 Kia EV6 Wind,Kia,EV6,New,2024,43348.0,c,4.0,Electric,16.0,Automatic,Wind,SUV,4.0,Blue,Black,All-wheel Drive
+2024 Jeep Grand Cherokee 4xe Base,Jeep,Grand Cherokee 4xe,New,2024,56119.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,8-Speed Automatic,Base,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive
+2024 Volkswagen Taos 1.5T SE,Volkswagen,Taos,New,2024,28193.0,16V GDI DOHC Turbo,4.0,Gasoline,4.0,8-Speed Automatic,1.5T SE,SUV,4.0,Deep Black Pearl Effect,Black,Front-wheel Drive
+2024 Mazda CX-90 PHEV Premium Plus,Mazda,CX-90 PHEV,New,2024,58949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,26.0,Automatic,Premium Plus,SUV,4.0,Artisan Red Premium,Black,All-wheel Drive
+2024 Mazda CX-90 PHEV Premium,Mazda,CX-90 PHEV,New,2024,54949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,9.0,Automatic,Premium,SUV,4.0,Artisan Red Premium,Black,All-wheel Drive
+2024 Mazda CX-90 PHEV Premium,Mazda,CX-90 PHEV,New,2024,54949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,9.0,Automatic,Premium,SUV,4.0,Red,Greige,All-wheel Drive
+2024 Subaru Legacy Premium,Subaru,Legacy,New,2024,31042.0,16V GDI DOHC,4.0,Gasoline,5.0,Automatic CVT,Premium,Sedan,4.0,Ice Silver Metallic,Gray,All-wheel Drive
+2024 Dodge Hornet GT AWD,Dodge,Hornet,New,2024,34000.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,4440.0,9-speed automatic,GT AWD,SUV,4.0,Acapulco Gold,Black,All-wheel Drive
+2024 Mazda CX-90 PHEV Premium,Mazda,CX-90 PHEV,New,2024,54449.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,10.0,Automatic,Premium,SUV,4.0,Sonic,Greige,All-wheel Drive
+2024 Ford F-350 Lariat Super Duty,Ford,F-350,New,2024,77885.0,16V MPFI OHV,8.0,Gasoline,105.0,10-Speed Automatic,Lariat Super Duty,Pickup Truck,4.0,Black,Black Onyx,Four-wheel Drive
+2023 Chrysler 300 Touring,Chrysler,300,New,2023,47229.5,24V MPFI DOHC,6.0,Gasoline,10.0,8-Speed Automatic,Touring,Sedan,4.0,Velvet Red Pearlcoat,Black,Rear-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,31535.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,Latitude,SUV,4.0,Silver Zynith,Black,Four-wheel Drive
+2024 Mazda CX-90 PHEV Preferred,Mazda,CX-90 PHEV,New,2024,50349.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,37.0,Automatic,Preferred,SUV,4.0,Jet Black Mica,Black,All-wheel Drive
+2024 Acura MDX Technology,Acura,MDX,New,2024,56345.0,24V GDI SOHC,6.0,Gasoline,5.0,10-Speed Automatic,Technology,SUV,4.0,Gray,Black,Front-wheel Drive
+2024 BMW i4 Gran Coupe M50,BMW,i4 Gran Coupe,New,2024,73670.0,c,4.0,Electric,5.0,1-Speed Automatic,M50,Hatchback,4.0,White,Tacora Red,All-wheel Drive
+2024 Mazda CX-90 PHEV Preferred,Mazda,CX-90 PHEV,New,2024,50675.0,16V GDI DOHC Hybrid,4.0,Hybrid,0.0,8-Speed Automatic,Preferred,SUV,4.0,Rhodium White Metallic,Black,All-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,64516.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,14.0,Automatic,Tradesman,Pickup Truck,4.0,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive
+2024 Dodge Hornet GT,Dodge,Hornet,New,2024,36480.0,oled Turbo Premium Unleaded I-4 2.0 L/122,4.0,Gasoline,23.0,Automatic,GT,SUV,4.0,Gray Cray,Black,All-wheel Drive
+2024 Audi Q8 e-tron Premium,Audi,Q8 e-tron,New,2024,89780.0,c,4.0,Electric,5.0,Automatic,Premium,SUV,4.0,Glacier White Metallic,Black,All-wheel Drive
+2024 BMW i7 eDrive50,BMW,i7,New,2024,110445.0,c,4.0,Electric,5.0,1-Speed Automatic,eDrive50,Sedan,4.0,Black Sapphire Metallic,Black,Rear-wheel Drive
+2024 Volkswagen Jetta 1.4T SE,Volkswagen,Jetta,New,2024,26104.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,9.0,8-Speed Automatic with Tiptronic,1.4T SE,Sedan,4.0,Pyrite Silver Metallic,Titan Black,Front-wheel Drive
+2024 Dodge Hornet R/T,Dodge,Hornet,New,2024,42790.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,R/T,SUV,4.0,Blue Steel,Black,All-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,46835.0,16V MPFI OHV,8.0,Gasoline,30.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,47340.0,16V MPFI OHV,8.0,Gasoline,35.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive
+2024 BMW M235 Gran Coupe i xDrive,BMW,M235 Gran Coupe,New,2024,54545.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic,i xDrive,Sedan,4.0,Black Sapphire Metallic,Black,All-wheel Drive
+2024 RAM 3500 Big Horn,RAM,3500,New,2024,65774.0,24V DDI OHV Turbo Diesel,6.0,Diesel,13.0,6-Speed Automatic,Big Horn,Pickup Truck,4.0,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+2024 Nissan Rogue SV,Nissan,Rogue,New,2024,34305.0,"o 1.5L I-3 gasoline direct injection, DOHC, CVTCS variabl",3.0,Gasoline,4.0,Automatic,SV,SUV,4.0,Deep Ocean Blue Pearl,Charcoal,All-wheel Drive
+2024 Dodge Hornet R/T Plus,Dodge,Hornet,New,2024,44621.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,0.0,6-Speed Automatic,R/T Plus,SUV,4.0,Q BALL,Black,All-wheel Drive
+2024 Dodge Hornet R/T,Dodge,Hornet,New,2024,39763.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,0.0,6-Speed Automatic,R/T,SUV,4.0,Gold,Black,All-wheel Drive
+2024 RAM 3500 Tradesman Crew Cab 4x4 8' Box,RAM,3500,New,2024,67237.0,"High Output 6.7L I-6 diesel direct injection, VVT interc",6.0,Diesel,6.0,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,Granite Crystal Metallic Clearcoat,Black Interior Color,Four-wheel Drive
+2024 Honda CR-V Hybrid Sport,Honda,CR-V Hybrid,New,2024,36900.0,16V GDI DOHC Hybrid,4.0,Hybrid,1.0,Automatic CVT,Sport,SUV,4.0,Lunar Silver Metallic,Black,All-wheel Drive
+2024 Ford Expedition Limited,Ford,Expedition,New,2024,90350.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,89.0,10-Speed Automatic,Limited,SUV,4.0,Star White,Black Onyx,Four-wheel Drive
+2024 Ford Expedition Timberline,Ford,Expedition,New,2024,83910.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,65.0,10-Speed Automatic,Timberline,SUV,4.0,Green,Black Onyx,Four-wheel Drive
+2024 Audi Q8 e-tron Premium,Audi,Q8 e-tron,New,2024,84465.0,c,4.0,Electric,5.0,Automatic,Premium,SUV,4.0,Glacier White Metallic,Okapi Brown,All-wheel Drive
+2024 Chevrolet Silverado 1500 LT,Chevrolet,Silverado 1500,New,2024,49944.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,LT,Pickup Truck,4.0,Radiant Red,Jet Black,Four-wheel Drive
+2024 Kia Sportage S,Kia,Sportage,New,2024,32433.0,"4 port/direct injection, DOHC, CVVT variable valve contro",4.0,Gasoline,0.0,8-Speed Automatic,S,SUV,4.0,White Pearl,Black,All-wheel Drive
+2024 Kia Sportage SX,Kia,Sportage,New,2024,33095.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SX,SUV,4.0,Ebony Black,Black,Front-wheel Drive
+2024 Kia Sportage X-Pro Prestige,Kia,Sportage,New,2024,39990.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,X-Pro Prestige,SUV,4.0,Glacial White Pearl,Black,All-wheel Drive
+2024 Land Rover Range Rover Evoque Dynamic SE,Land Rover,Range Rover Evoque,New,2024,62145.0,16V GDI DOHC Turbo,4.0,Gasoline,19.0,9-Speed Automatic,Dynamic SE,SUV,4.0,Arroios Grey,Ebony,All-wheel Drive
+2024 Honda Odyssey Elite,Honda,Odyssey,New,2024,48364.0,24V GDI SOHC,6.0,Gasoline,4.0,10-Speed Automatic,Elite,Passenger Van,4.0,Lunar Silver Metallic,Gray,Front-wheel Drive
+2024 RAM 2500 Longhorn,RAM,2500,New,2024,83374.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,5.0,Automatic,Longhorn,Pickup Truck,4.0,Diamond Black Crystal Pearlcoat,Lt Mountain Brown/Brown,Four-wheel Drive
+2024 Honda Prologue TOURING,Honda,Prologue,New,2024,56550.0,c,4.0,Gasoline,1.0,1-Speed Automatic,TOURING,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Chevrolet Equinox FWD RS,Chevrolet,Equinox,New,2024,31222.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,2.0,6-Speed Automatic Electronic with Overdrive,FWD RS,SUV,4.0,Summit White,Jet Black With Red Accents,Front-wheel Drive
+2024 GMC Sierra 2500 Denali,GMC,Sierra 2500,New,2024,85845.0,32V DDI OHV Turbo Diesel,8.0,Diesel,2.0,10-Speed Automatic,Denali,Pickup Truck,4.0,White Frost Tri-Coat,Jet Black,Four-wheel Drive
+2024 Kia Sportage S,Kia,Sportage,New,2024,30034.0,"4 port/direct injection, DOHC, CVVT variable valve contro",4.0,Gasoline,0.0,8-Speed Automatic,S,SUV,4.0,Gray,Gry Lthette,Front-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,44170.0,24V MPFI DOHC,6.0,Gasoline,35.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive
+2024 Audi Q5 e Premium 55 TFSI e S line quattro S tronic,Audi,Q5 e,New,2024,69995.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,12.0,7-Speed Automatic S tronic,Premium 55 TFSI e S line quattro S tronic,SUV,4.0,Daytona Gray Pearl,Gray,All-wheel Drive
+2024 Volkswagen Jetta 1.4T SE,Volkswagen,Jetta,New,2024,27554.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,7.0,8-Speed Automatic with Tiptronic,1.4T SE,Sedan,4.0,Opal White Pearl,Titan Black,Front-wheel Drive
+2024 Nissan Titan SV,Nissan,Titan,New,2024,45716.0,"ce 5.6L V-8 gasoline direct injection, DOHC, variable val",8.0,Gasoline,10.0,Automatic,SV,Pickup Truck,4.0,Super Black,Black,Four-wheel Drive
+2024 Audi RS e-tron GT quattro,Audi,RS e-tron GT,New,2024,153690.0,c ZEV,4.0,Electric,10.0,1-Speed Automatic,quattro,Sedan,4.0,Tactical Green Metallic,Black,All-wheel Drive
+2024 Ford Edge ST-Line,Ford,Edge,New,2024,42715.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,8-Speed Automatic,ST-Line,SUV,4.0,Black,Ebony,All-wheel Drive
+2024 Hyundai Santa Cruz 2.5L SEL,Hyundai,Santa Cruz,New,2024,36970.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,2.5L SEL,Pickup Truck,4.0,Atlas,Black,All-wheel Drive
+2024 Volkswagen Jetta 1.5T SE,Volkswagen,Jetta,New,2024,26329.0,16V GDI DOHC Turbo,4.0,Gasoline,25.0,8-Speed Automatic,1.5T SE,Sedan,4.0,Opal White Pearl Effect,Black,Front-wheel Drive
+2024 Chevrolet Equinox 1LT,Chevrolet,Equinox,New,2024,30101.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,6-Speed Automatic,1LT,SUV,4.0,Summit White,Jet Black,All-wheel Drive
+2024 Mercedes-Benz EQS 450 Base 4MATIC,Mercedes-Benz,EQS 450,New,2024,47229.5,c,4.0,Electric,10.0,Automatic,Base 4MATIC,Sedan,4.0,Obsidian Black Metallic,Black,All-wheel Drive
+2024 Jeep Grand Cherokee 4xe Base,Jeep,Grand Cherokee 4xe,New,2024,54899.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,8-Speed Automatic,Base,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive
+2024 Kia Sportage S,Kia,Sportage,New,2024,32198.0,"4 port/direct injection, DOHC, CVVT variable valve contro",4.0,Gasoline,0.0,8-Speed Automatic,S,SUV,4.0,Ebony,Black,All-wheel Drive
+2024 Nissan Titan SV,Nissan,Titan,New,2024,54585.0,"ce 5.6L V-8 gasoline direct injection, DOHC, variable val",8.0,Gasoline,10.0,Automatic,SV,Pickup Truck,4.0,Glacier White,Black,Four-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,35999.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Latitude,SUV,4.0,Metallic,Black,Four-wheel Drive
+2024 Hyundai Tucson Hybrid SEL Convenience,Hyundai,Tucson Hybrid,New,2024,36882.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,6-Speed Automatic,SEL Convenience,SUV,4.0,White Pearl,Gray,All-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,47340.0,16V MPFI OHV,8.0,Gasoline,32.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive
+2024 INFINITI QX50 LUXE,INFINITI,QX50,New,2024,45055.0,"o 2L I-4 port/direct injection, DOHC, variable valve cont",4.0,Gasoline,25.0,Variable,LUXE,SUV,4.0,Black Obsidian,Pebble Gray,Front-wheel Drive
+2024 RAM 3500 Big Horn,RAM,3500,New,2024,69697.0,24V DDI OHV Turbo Diesel,6.0,Diesel,2.0,Automatic,Big Horn,Pickup Truck,4.0,White,Black / Diesel Gray,Four-wheel Drive
+2024 Ford Mustang Mach-E Premium,Ford,Mustang Mach-E,New,2024,49285.0,c,4.0,Electric,5.0,1-Speed Automatic,Premium,SUV,4.0,Green,Black,All-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,47785.0,16V MPFI OHV,8.0,Gasoline,34.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive
+2024 Jeep Wrangler 4xe Sport S,Jeep,Wrangler 4xe,New,2024,51083.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,8-Speed A/T,Sport S,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Kia EV6 Wind,Kia,EV6,New,2024,41528.0,c,4.0,Electric,14.0,Automatic,Wind,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Nissan Kicks SR,Nissan,Kicks,New,2024,27400.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,15.0,CVT,SR,SUV,4.0,Aspen White Tricoat/Super Black,Charcoal,Front-wheel Drive
+2024 Mazda CX-90 PHEV Base,Mazda,CX-90 PHEV,New,2024,52445.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,Base,SUV,4.0,Deep Crystal Blue Mica,Greige,All-wheel Drive
+2024 Hyundai Tucson Hybrid Blue,Hyundai,Tucson Hybrid,New,2024,34600.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,Blue,SUV,4.0,White Pearl,Gray,All-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,47165.0,16V MPFI OHV,8.0,Gasoline,39.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive
+2024 Jeep Compass Limited,Jeep,Compass,New,2024,34084.0,DOHC,4.0,Gasoline,12.0,8-Speed Automatic,Limited,SUV,4.0,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+2024 Jeep Grand Cherokee Limited,Jeep,Grand Cherokee,New,2024,50184.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,Limited,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive
+2024 Hyundai IONIQ 5 SEL,Hyundai,IONIQ 5,New,2024,45842.0,c,4.0,Electric,5.0,1-Speed Automatic,SEL,SUV,4.0,Atlas,Black,All-wheel Drive
+2024 Hyundai Santa Cruz 2.5T NIGHT,Hyundai,Santa Cruz,New,2024,40380.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,2.5T NIGHT,Pickup Truck,4.0,Phantom Black,Black,All-wheel Drive
+2024 Land Rover Discovery Sport Dynamic SE,Land Rover,Discovery Sport,New,2024,55353.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,9-Speed Automatic,Dynamic SE,SUV,4.0,Fuji White,Gray,All-wheel Drive
+2024 Mercedes-Benz Sprinter 3500 170 WB High Roof Extended Cargo,Mercedes-Benz,Sprinter 3500,New,2024,72357.0,16V DDI DOHC Turbo Diesel,4.0,Diesel,9.0,9-Speed Automatic,170 WB High Roof Extended Cargo,Cargo Van,3.0,Gray White,Black,Rear-wheel Drive
+2024 Hyundai Tucson Hybrid Blue,Hyundai,Tucson Hybrid,New,2024,34492.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,Blue,SUV,4.0,White Pearl,Black,All-wheel Drive
+2024 Hyundai Santa Cruz 2.5T XRT,Hyundai,Santa Cruz,New,2024,36000.0,16V PDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4.0,Atlas,Black,All-wheel Drive
+2024 Jeep Grand Cherokee Limited,Jeep,Grand Cherokee,New,2024,53160.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,Limited,SUV,4.0,Midnight Sky,Black,Four-wheel Drive
+2024 Jeep Grand Cherokee 4xe 4x4,Jeep,Grand Cherokee 4xe,New,2024,59116.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,Automatic,4x4,SUV,4.0,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive
+2024 Jeep Wrangler Rubicon,Jeep,Wrangler,New,2024,67510.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,10.0,Automatic,Rubicon,SUV,4.0,Anvil Clear Coat,Black,Four-wheel Drive
+2024 Honda Odyssey Elite,Honda,Odyssey,New,2024,48187.0,24V GDI SOHC,6.0,Gasoline,4.0,10-Speed Automatic,Elite,Passenger Van,4.0,Radiant Red Metallic II,Beige,Front-wheel Drive
+2024 Volkswagen Jetta 1.5T SE,Volkswagen,Jetta,New,2024,25923.0,16V GDI DOHC Turbo,4.0,Gasoline,25.0,8-Speed Automatic,1.5T SE,Sedan,4.0,Opal White Pearl Effect,Black,Front-wheel Drive
+2024 Jeep Grand Cherokee Limited,Jeep,Grand Cherokee,New,2024,50702.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,Limited,SUV,4.0,Metallic,Black,Four-wheel Drive
+2024 Volvo XC90 Recharge Plug-In Hybrid T8 Plus Bright Theme 7 Passenger,Volvo,XC90 Recharge Plug-In Hybrid,New,2024,75595.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,6.0,8-Speed Automatic,T8 Plus Bright Theme 7 Passenger,SUV,4.0,Bright,Charcoal,All-wheel Drive
+2024 Jeep Wrangler 4xe Sport,Jeep,Wrangler 4xe,New,2024,51845.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,7.0,8-Speed Automatic,Sport,SUV,4.0,Pearlcoat,Black,Four-wheel Drive
+2024 Cadillac XT5 Premium Luxury,Cadillac,XT5,New,2024,60915.0,24V GDI DOHC,6.0,Gasoline,31.0,9-Speed Automatic,Premium Luxury,SUV,4.0,Silver Metallic,Jet Black,Front-wheel Drive
+2024 RAM 3500 Big Horn,RAM,3500,New,2024,71167.0,24V DDI OHV Turbo Diesel,6.0,Diesel,9.0,6-Speed Automatic,Big Horn,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Hyundai Santa Cruz 2.5T XRT,Hyundai,Santa Cruz,New,2024,41975.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4.0,Phantom Black,Black,All-wheel Drive
+2024 Jeep Compass Limited,Jeep,Compass,New,2024,38481.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,8-Speed Automatic,Limited,SUV,4.0,Silver Zynith,Sepia / Black,Four-wheel Drive
+2024 Hyundai Sonata Hybrid SEL,Hyundai,Sonata Hybrid,New,2024,32520.0,16V GDI DOHC Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SEL,Sedan,4.0,Red,Gray,Front-wheel Drive
+2023 Kia Sorento SX,Kia,Sorento,New,2023,48861.0,"4 port/direct injection, DOHC, variable valve control, in",4.0,Gasoline,16.0,Automatic,SX,SUV,4.0,Wolf Gray,Black,All-wheel Drive
+2024 Chevrolet Equinox LS,Chevrolet,Equinox,New,2024,31537.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,6-Speed Automatic,LS,SUV,4.0,Summit White,Medium Ash Gray,All-wheel Drive
+2024 Jeep Grand Cherokee Altitude,Jeep,Grand Cherokee,New,2024,47175.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,0.0,Automatic,Altitude,SUV,4.0,PAS Baltic Grey Metallic Clear Coat,Global Black,Four-wheel Drive
+2024 Dodge Hornet R/T Plus,Dodge,Hornet,New,2024,51585.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,R/T Plus,SUV,4.0,8 BALL,Black,All-wheel Drive
+2023 Jeep Wagoneer L Series III,Jeep,Wagoneer L,New,2023,86097.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,9711.0,8-Speed Automatic,Series III,SUV,4.0,Riverrock Green,Sea Salt,Four-wheel Drive
+2024 Mercedes-Benz EQS 450 Base 4MATIC,Mercedes-Benz,EQS 450,New,2024,47229.5,c,4.0,Electric,4.0,Automatic,Base 4MATIC,Sedan,4.0,Polar White,Macchiato Beige,All-wheel Drive
+2024 Mercedes-Benz EQS 450 Base 4MATIC,Mercedes-Benz,EQS 450,New,2024,114850.0,c,4.0,Electric,8.0,1-Speed Automatic,Base 4MATIC,SUV,4.0,Bright White Clearcoat,Black,All-wheel Drive
+2024 Nissan Frontier SV,Nissan,Frontier,New,2024,37946.0,24V GDI DOHC,6.0,Gasoline,9.0,9-Speed Automatic,SV,Pickup Truck,4.0,Glacier White,Charcoal,Rear-wheel Drive
+2024 Chevrolet Equinox 1LT,Chevrolet,Equinox,New,2024,31301.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,6-Speed Automatic,1LT,SUV,4.0,Mosaic Black Metallic,Jet Black,All-wheel Drive
+2023 RAM 3500 Tradesman,RAM,3500,New,2023,63010.0,16V MPFI OHV,8.0,Gasoline,95.0,8-Speed Automatic,Tradesman,Pickup Truck,2.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Nissan Titan SV,Nissan,Titan,New,2024,50030.0,Unleaded V-8 5.6 L/339,8.0,Gasoline,1.0,Automatic,SV,Pickup Truck,4.0,Gun Metallic,Black,Four-wheel Drive
+2024 GMC Savana 2500 Work Van,GMC,Savana 2500,New,2024,42990.0,12V GDI OHV,6.0,Gasoline,0.0,8-Speed Automatic,Work Van,Cargo Van,3.0,Summit White,Medium Pewter,Rear-wheel Drive
+2024 Chevrolet Equinox RS,Chevrolet,Equinox,New,2024,32635.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,6-Speed Automatic,RS,SUV,4.0,Mosaic Black Metallic,Jet Black,Front-wheel Drive
+2023 Nissan Titan SV,Nissan,Titan,New,2023,46672.0,"ce 5.6L V-8 gasoline direct injection, DOHC, variable val",8.0,Gasoline,1.0,Automatic,SV,Pickup Truck,4.0,Super Black,Black,Four-wheel Drive
+2024 Honda HR-V LX,Honda,HR-V,New,2024,27450.0,"gasoline direct injection, DOHC, i-VTEC variable valve co",4.0,Gasoline,10.0,Automatic,LX,SUV,4.0,Deep Ocean Pearl,Nh-731p/Black,All-wheel Drive
+2024 Kia Niro Touring,Kia,Niro,New,2024,34310.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,13.0,6-SPEED AUTOMATIC,Touring,SUV,4.0,Aurora Black,Medium Gray,Front-wheel Drive
+2024 Buick Encore GX Avenir,Buick,Encore GX,New,2024,36190.0,12V GDI DOHC Turbo,3.0,Gasoline,7.0,9-Speed Automatic,Avenir,SUV,4.0,Ocean Blue Metallic,Ebony,All-wheel Drive
+2024 Mazda CX-90 PHEV Premium Plus,Mazda,CX-90 PHEV,New,2024,57849.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,4.0,Automatic,Premium Plus,SUV,4.0,Jet Black Mica,Black,All-wheel Drive
+2024 Ford Edge SEL,Ford,Edge,New,2024,44615.0,"t 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,9.0,8-Speed Automatic,SEL,SUV,4.0,Agate Black Metallic,Ebony,All-wheel Drive
+2024 Kia Sportage SX,Kia,Sportage,New,2024,34985.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SX,SUV,4.0,Wolf Gray,Black,Front-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,28867.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,10.0,Automatic,Latitude,SUV,4.0,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+2024 RAM ProMaster 2500 High Roof,RAM,ProMaster 2500,New,2024,53890.0,24V MPFI DOHC,6.0,Gasoline,3.0,9-Speed Automatic,High Roof,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive
+2024 Hyundai IONIQ 6 SEL,Hyundai,IONIQ 6,New,2024,48510.0,c,4.0,Electric,12.0,Automatic,SEL,Sedan,4.0,White,Gray,All-wheel Drive
+2023 Genesis Electrified G80 Base,Genesis,Electrified G80,New,2023,81525.0,c,4.0,Electric,153.0,1-Speed Automatic,Base,Sedan,4.0,Uyuni White,Black,All-wheel Drive
+2024 Hyundai IONIQ 5 Limited,Hyundai,IONIQ 5,New,2024,52515.0,c,4.0,Electric,5.0,1-Speed Automatic,Limited,SUV,4.0,Gold,Black,All-wheel Drive
+2024 Hyundai Tucson Hybrid SEL Convenience,Hyundai,Tucson Hybrid,New,2024,35364.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,33.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Phantom Black,Black,All-wheel Drive
+2024 Hyundai Tucson Hybrid N Line,Hyundai,Tucson Hybrid,New,2024,35885.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,15.0,6-Speed Automatic,N Line,SUV,4.0,Black Pearl,Black,All-wheel Drive
+2024 Mercedes-Benz GLE 450 4MATIC,Mercedes-Benz,GLE 450,New,2024,85630.0,24V GDI DOHC Turbo,6.0,Gasoline,7.0,9-Speed Automatic,4MATIC,SUV,4.0,Black,Black,All-wheel Drive
+2024 Jeep Grand Cherokee Laredo,Jeep,Grand Cherokee,New,2024,47530.0,OHV,6.0,Gasoline,5.0,8-Speed Automatic,Laredo,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive
+2024 Jeep Wagoneer Series II,Jeep,Wagoneer,New,2024,75888.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,8.0,8-Speed Automatic,Series II,SUV,4.0,Riverrock Green,Black,Four-wheel Drive
+2024 Chevrolet Silverado 1500 LT,Chevrolet,Silverado 1500,New,2024,49632.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,LT,Pickup Truck,4.0,Radiant Red,Jet Black,Four-wheel Drive
+2024 Mazda CX-90 PHEV Premium,Mazda,CX-90 PHEV,New,2024,55439.0,16V GDI DOHC Hybrid,4.0,Hybrid,0.0,8-Speed Automatic,Premium,SUV,4.0,Artisan Red Metallic,Black,All-wheel Drive
+2024 Volkswagen Taos 1.5T SE,Volkswagen,Taos,New,2024,30618.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4.0,Deep Black Pearl Effect,Gray,All-wheel Drive
+2024 Mercedes-Benz GLS 450 4MATIC,Mercedes-Benz,GLS 450,New,2024,98180.0,24V GDI DOHC Turbo,6.0,Gasoline,5.0,9-Speed Automatic,4MATIC,SUV,4.0,Polar White,Beige / Black,All-wheel Drive
+2024 Dodge Hornet R/T Plus,Dodge,Hornet,New,2024,44604.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T Plus,SUV,4.0,8 BALL,Black,All-wheel Drive
+2024 Acura MDX Technology,Acura,MDX,New,2024,57650.0,24V GDI SOHC,6.0,Gasoline,5.0,10-Speed Automatic,Technology,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,32269.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Latitude,SUV,4.0,Metallic,Black,Four-wheel Drive
+2024 Hyundai IONIQ 5 SE,Hyundai,IONIQ 5,New,2024,42466.0,c,4.0,Electric,7.0,1-Speed Automatic,SE,SUV,4.0,Atlas,Black,All-wheel Drive
+2024 Dodge Hornet R/T Plus,Dodge,Hornet,New,2024,45051.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T Plus,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Land Rover Discovery Sport Dynamic SE,Land Rover,Discovery Sport,New,2024,57508.0,16V GDI DOHC Turbo,4.0,Gasoline,19.0,9-Speed Automatic,Dynamic SE,SUV,4.0,Eiger Grey,Gray,All-wheel Drive
+2024 Ford Transit-250 Base,Ford,Transit-250,New,2024,51803.0,"6 port/direct injection, DOHC, variable valve control, re",6.0,Gasoline,1.0,Automatic,Base,Cargo Van,3.0,Oxford White,Dk Palazzo Gry Fron,Rear-wheel Drive
+2024 Mercedes-Benz EQS 450 Base 4MATIC,Mercedes-Benz,EQS 450,New,2024,114160.0,c,4.0,Electric,5.0,1-Speed Automatic,Base 4MATIC,SUV,4.0,Alpine Gray,Black,All-wheel Drive
+2024 Acura MDX Technology,Acura,MDX,New,2024,56800.0,24V GDI SOHC,6.0,Gasoline,5.0,10-Speed Automatic,Technology,SUV,4.0,Gray,Black,Front-wheel Drive
+2024 Jeep Grand Cherokee L Limited,Jeep,Grand Cherokee L,New,2024,52631.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Limited,SUV,4.0,Metallic,Global Black,Four-wheel Drive
+2024 Jeep Compass Limited,Jeep,Compass,New,2024,38500.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,8-Speed Automatic,Limited,SUV,4.0,Bright White,Black,Four-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,47229.5,16V MPFI OHV,8.0,Gasoline,98.0,8-Speed Automatic,Tradesman,Pickup Truck,2.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Chevrolet Trax LT,Chevrolet,Trax,New,2024,24680.0,12V GDI DOHC Turbo,3.0,Gasoline,5.0,6-Speed Automatic,LT,SUV,4.0,Cayenne Orange Metallic,Jet Black,Front-wheel Drive
+2024 BMW i5 M60,BMW,i5,New,2024,96895.0,c,4.0,Electric,37.0,1-Speed Automatic,M60,Sedan,4.0,Black Sapphire,Black,All-wheel Drive
+2024 Jeep Wrangler 4xe Rubicon X,Jeep,Wrangler 4xe,New,2024,54490.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,2.0,Automatic,Rubicon X,SUV,4.0,Bikini Pearl Coat,Black,Four-wheel Drive
+2024 RAM 3500 Laramie,RAM,3500,New,2024,80095.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,20.0,Automatic,Laramie,Pickup Truck,4.0,Flame Red Clearcoat,Black,Four-wheel Drive
+2024 Honda Odyssey Touring,Honda,Odyssey,New,2024,44350.0,"6 gasoline direct injection, i-VTEC variable valve contro",6.0,Gasoline,0.0,Automatic,Touring,Passenger Van,4.0,Platinum White Pearl,Black,Front-wheel Drive
+2023 RAM ProMaster 3500 High Roof,RAM,ProMaster 3500,New,2023,66375.0,"6 DOHC, variable valve control, regular unleaded, engine",6.0,Gasoline,17.0,Automatic,High Roof,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive
+2024 BMW i5 M60,BMW,i5,New,2024,93335.0,c,4.0,Electric,3.0,1-Speed Automatic,M60,Sedan,4.0,Black Sapphire,Black,All-wheel Drive
+2024 Chevrolet Silverado 1500 Custom Trail Boss,Chevrolet,Silverado 1500,New,2024,57635.0,"5.3L V-8 gasoline direct injection, variable valve contr",8.0,Gasoline,5.0,Automatic,Custom Trail Boss,Pickup Truck,4.0,Summit White,Jet Black,Four-wheel Drive
+2023 Chrysler Pacifica Touring L,Chrysler,Pacifica,New,2023,45300.0,"6 DOHC, VVT variable valve control, engine with cylinder",6.0,Gasoline,25.0,9-Speed 948TE Automatic,Touring L,Minivan,4.0,Fathom Blue Pearlcoat,Black/Alloy/Black,Front-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,8-Speed Automatic,Latitude,SUV,4.0,Diamond Black,Black,Four-wheel Drive
+2024 Dodge Hornet GT,Dodge,Hornet,New,2024,34637.0,16V GDI DOHC Turbo,4.0,Gasoline,54.0,9-Speed Automatic,GT,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Jeep Grand Cherokee Limited,Jeep,Grand Cherokee,New,2024,50184.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,Limited,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Jeep Wagoneer L Series II,Jeep,Wagoneer L,New,2024,87190.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,12.0,8-Speed Automatic,Series II,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+2024 Mazda CX-90 PHEV Base,Mazda,CX-90 PHEV,New,2024,55399.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,2.0,8-Speed Automatic,Base,SUV,4.0,Soul Red Crystal Metallic,Griege,All-wheel Drive
+2024 Hyundai Tucson Hybrid Limited,Hyundai,Tucson Hybrid,New,2024,41391.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,7.0,6-Speed Automatic,Limited,SUV,4.0,White Pearl,Gray,All-wheel Drive
+2024 Ford Bronco Sport Big Bend,Ford,Bronco Sport,New,2024,30020.0,oBoost,3.0,Gasoline,0.0,8-Speed Automatic,Big Bend,SUV,4.0,Oxford White,Ebony,Four-wheel Drive
+2023 Chrysler 300 Touring,Chrysler,300,New,2023,47229.5,24V MPFI DOHC,6.0,Gasoline,10.0,8-Speed Automatic,Touring,Sedan,4.0,Gloss Black,Black,Rear-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,46835.0,16V MPFI OHV,8.0,Gasoline,19.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive
+2024 BMW i5 eDrive40,BMW,i5,New,2024,74695.0,c,4.0,Electric,7.0,1-Speed Automatic,eDrive40,Sedan,4.0,Alpine White,Black,Rear-wheel Drive
+2024 Jeep Grand Cherokee L Overland,Jeep,Grand Cherokee L,New,2024,66360.0,"ar 3.6L V-6 DOHC, VVT variable valve control, regular unl",6.0,Gasoline,27.0,Automatic,Overland,SUV,4.0,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive
+2024 Nissan Kicks SR,Nissan,Kicks,New,2024,26500.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,15.0,CVT,SR,SUV,4.0,Scarlet Ember Tintcoat,Charcoal,Front-wheel Drive
+2023 Dodge Durango R/T,Dodge,Durango,New,2023,53995.0,16V MPFI OHV,8.0,Gasoline,12.0,8-Speed Automatic,R/T,SUV,4.0,DB Black Clearcoat,Black,All-wheel Drive
+2024 Land Rover Defender P400 X-Dynamic SE,Land Rover,Defender,New,2024,77645.0,24V GDI DOHC Turbo,6.0,Gasoline,9.0,8-Speed Automatic,P400 X-Dynamic SE,SUV,2.0,Gondwana Stone,Ebony,Four-wheel Drive
+2024 Jeep Wrangler 4xe Sahara,Jeep,Wrangler 4xe,New,2024,58648.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,8-Speed A/T,Sahara,SUV,4.0,Anvil Clear Coat,Black,Four-wheel Drive
+2024 Chrysler Pacifica Touring-L,Chrysler,Pacifica,New,2024,46450.0,24V MPFI DOHC,6.0,Gasoline,42.0,9-Speed Automatic,Touring-L,Passenger Van,4.0,Bright White Clearcoat,Black,All-wheel Drive
+2024 Jeep Compass Limited,Jeep,Compass,New,2024,47229.5,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Limited,SUV,4.0,Metallic,Black,Four-wheel Drive
+2024 Ford Edge SEL,Ford,Edge,New,2024,41195.0,16V GDI DOHC Turbo,4.0,Gasoline,5.0,8-Speed Automatic,SEL,SUV,4.0,Agate Black Metallic,Ebony,All-wheel Drive
+2024 Jeep Gladiator Sport,Jeep,Gladiator,New,2024,46791.0,24V MPFI DOHC,6.0,Gasoline,12.0,Automatic,Sport,Pickup Truck,4.0,Black Clearcoat,Black,Four-wheel Drive
+2024 GMC Yukon XL SLT,GMC,Yukon XL,New,2024,76648.0,"5.3L V-8 gasoline direct injection, variable valve contr",8.0,Gasoline,3.0,Automatic,SLT,SUV,4.0,WHITE,Black,Rear-wheel Drive
+2024 Audi SQ8 e-tron Premium Plus,Audi,SQ8 e-tron,New,2024,106215.0,c,4.0,Electric,12.0,Automatic,Premium Plus,SUV,4.0,Mythos Black Metallic,Black,All-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,47165.0,16V MPFI OHV,8.0,Gasoline,31.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive
+2024 Audi Q5 e 55 Prestige,Audi,Q5 e,New,2024,78695.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,12.0,7-Speed Automatic S tronic,55 Prestige,SUV,4.0,Silver Metallic,Black,All-wheel Drive
+2024 BMW X7 M60i,BMW,X7,New,2024,115445.0,32V GDI DOHC Twin Turbo,8.0,Gasoline,447.0,8-Speed Automatic,M60i,SUV,4.0,Mineral White Metallic,Black,All-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,34182.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Latitude,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Kia Sorento Hybrid EX,Kia,Sorento Hybrid,New,2024,39390.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Hybrid,10.0,Automatic,EX,SUV,4.0,Steel Gray,Black,Front-wheel Drive
+2024 Dodge Hornet GT Plus AWD,Dodge,Hornet,New,2024,38546.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,73.0,9-Speed 948TE Automatic,GT Plus AWD,SUV,4.0,8 Ball,Black,All-wheel Drive
+2024 Kia Seltos S,Kia,Seltos,New,2024,28630.0,16V MPFI DOHC,4.0,Gasoline,15.0,Automatic CVT,S,SUV,4.0,Snow White Pearl,Black,All-wheel Drive
+2024 RAM 2500 Tradesman,RAM,2500,New,2024,61865.0,16V MPFI OHV,8.0,Gasoline,0.0,8-Speed Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,26860.0,16V GDI DOHC Turbo,4.0,Gasoline,3.0,8-Speed Automatic,Latitude,SUV,4.0,Silver Zynith,Black,Four-wheel Drive
+2024 Jeep Compass Latitude Lux,Jeep,Compass,New,2024,29826.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,8-Speed Automatic,Latitude Lux,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Dodge Hornet R/T,Dodge,Hornet,New,2024,42597.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Kia Niro SX Touring,Kia,Niro,New,2024,37135.0,16V GDI DOHC Hybrid,4.0,Hybrid,399.0,Automatic,SX Touring,SUV,4.0,Runway Red,Medium Gray,Front-wheel Drive
+2024 Dodge Hornet R/T Plus,Dodge,Hornet,New,2024,52180.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,R/T Plus,SUV,4.0,Blue Steel,Black,All-wheel Drive
+2024 Dodge Hornet GT,Dodge,Hornet,New,2024,30900.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,9-Speed Automatic,GT,SUV,4.0,8 BALL,Black,All-wheel Drive
+2024 Jeep Grand Cherokee 4xe Anniversary Edition,Jeep,Grand Cherokee 4xe,New,2024,61506.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,3.0,Automatic,Anniversary Edition,SUV,4.0,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive
+2023 Buick Envision Preferred,Buick,Envision,New,2023,37135.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,9-Speed Automatic,Preferred,SUV,4.0,White Frost Tri-Coat,Ebony,All-wheel Drive
+2024 Ford Escape ST-Line,Ford,Escape,New,2024,33590.0,der,4.0,Hybrid,0.0,CVT,ST-Line,SUV,4.0,Agate Black,Ebony W/Red Stitching,Front-wheel Drive
+2024 Ford Escape S,Ford,Escape,New,2024,41765.0,der,4.0,Hybrid,0.0,CVT,S,SUV,4.0,Star White Metallic Tri-Coat,Ebony,Front-wheel Drive
+2024 Jeep Grand Cherokee L Limited,Jeep,Grand Cherokee L,New,2024,50377.0,OHV,6.0,Gasoline,7.0,8-Speed Automatic,Limited,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Chevrolet Silverado 1500 LT Trail Boss,Chevrolet,Silverado 1500,New,2024,65416.0,"5.3L V-8 gasoline direct injection, variable valve contr",8.0,Gasoline,5.0,automatic w/paddle shifters,LT Trail Boss,Pickup Truck,4.0,Slate Gray Metallic,Jet Black,Four-wheel Drive
+2024 Hyundai Santa Cruz 2.5T Limited,Hyundai,Santa Cruz,New,2024,43299.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,2.5T Limited,Pickup Truck,4.0,Phantom Black,Dark Gray,All-wheel Drive
+2024 Jeep Grand Cherokee Limited,Jeep,Grand Cherokee,New,2024,47744.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,12.0,Automatic,Limited,SUV,4.0,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive
+2024 Jeep Grand Cherokee L Limited,Jeep,Grand Cherokee L,New,2024,53455.0,24V VVT,6.0,Gasoline,0.0,8-Speed Automatic,Limited,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+2024 Ford Transit-250 Base,Ford,Transit-250,New,2024,52853.0,"6 port/direct injection, DOHC, variable valve control, re",6.0,Gasoline,0.0,Automatic,Base,Cargo Van,3.0,Oxford White,Dk Palazzo Gry Fron,Rear-wheel Drive
+2024 Ford Bronco Wildtrak,Ford,Bronco,New,2024,69035.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,9.0,10-Speed Automatic,Wildtrak,SUV,4.0,Azure Gray Metallic,Medium Sandstone,Four-wheel Drive
+2024 Kia Niro EX,Kia,Niro,New,2024,31860.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,17.0,A/T,EX,SUV,4.0,Snow White Pearl,Medium Gray,Front-wheel Drive
+2024 Subaru Outback Wilderness,Subaru,Outback,New,2024,44354.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,Automatic CVT,Wilderness,SUV,4.0,Autumn Green,Gray,All-wheel Drive
+2024 Hyundai Elantra HEV Blue,Hyundai,Elantra HEV,New,2024,27080.0,".6L I-4 gasoline direct injection, DOHC, D-CVVT variable",4.0,Hybrid,14.0,Automatic,Blue,Sedan,4.0,Serenity White,Medium Gray,Front-wheel Drive
+2024 Acura MDX Technology,Acura,MDX,New,2024,56800.0,24V GDI SOHC,6.0,Gasoline,5.0,10-Speed Automatic,Technology,SUV,4.0,Black,Black,Front-wheel Drive
+2024 Ford Mustang Mach-E Premium,Ford,Mustang Mach-E,New,2024,49770.0,c,4.0,Electric,10.0,1-Speed Automatic,Premium,SUV,4.0,Blue,Black,All-wheel Drive
+2023 Ford Mustang Mach-E GT,Ford,Mustang Mach-E,New,2023,46775.0,c,4.0,Electric,9.0,1-Speed Automatic,GT,SUV,4.0,Carbonized Gray Metallic,Black Onyx,All-wheel Drive
+2024 RAM 3500 Tradesman Crew Cab 4x4 8' Box,RAM,3500,New,2024,64214.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,6.0,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,Bright White Clearcoat,Black Interior Color,Four-wheel Drive
+2024 RAM 3500 Laramie Crew Cab 4x4 8' Box,RAM,3500,New,2024,82523.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,8.0,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+2024 Mercedes-Benz EQS 450 Base 4MATIC,Mercedes-Benz,EQS 450,New,2024,117985.0,c,4.0,Electric,1.0,Automatic,Base 4MATIC,Sedan,4.0,Obsidian Black Metallic,Black,All-wheel Drive
+2024 Chevrolet Silverado 1500 LT,Chevrolet,Silverado 1500,New,2024,49496.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,LT,Pickup Truck,4.0,Summit White,Jet Black,Four-wheel Drive
+2024 Chevrolet Silverado 1500 LT,Chevrolet,Silverado 1500,New,2024,43135.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,Automatic,LT,Pickup Truck,4.0,Black,Jet Black,Four-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,28867.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,8.0,Automatic,Latitude,SUV,4.0,Silver Zynith Metallic Clearcoat,Black,Four-wheel Drive
+2024 Kia Sportage X-Line,Kia,Sportage,New,2024,35490.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,X-Line,SUV,4.0,Gravity Gray,Black,All-wheel Drive
+2024 Honda Prologue TOURING,Honda,Prologue,New,2024,55800.0,c,4.0,Gasoline,8.0,1-Speed Automatic,TOURING,SUV,4.0,Pearl,Black,All-wheel Drive
+2024 Honda Prologue TOURING,Honda,Prologue,New,2024,55800.0,c,4.0,Gasoline,8.0,1-Speed Automatic,TOURING,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Hyundai Tucson Hybrid Blue,Hyundai,Tucson Hybrid,New,2024,33109.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,15.0,6-Speed Automatic,Blue,SUV,4.0,Deep Sea,Gray,All-wheel Drive
+2024 Mazda CX-90 PHEV Premium,Mazda,CX-90 PHEV,New,2024,54949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,8.0,Automatic,Premium,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Hyundai Tucson Hybrid Limited,Hyundai,Tucson Hybrid,New,2024,39832.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,25.0,6-Speed Automatic,Limited,SUV,4.0,Black Pearl,Gray,All-wheel Drive
+2024 Hyundai IONIQ 5 Limited,Hyundai,IONIQ 5,New,2024,51765.0,c,4.0,Electric,7.0,1-Speed Automatic,Limited,SUV,4.0,Teal,Dark Green,All-wheel Drive
+2024 Ford Mustang Mach-E Select,Ford,Mustang Mach-E,New,2024,45780.0,c,4.0,Electric,10.0,1-Speed Automatic,Select,SUV,4.0,Vapor Blue Metallic,Black Onyx,All-wheel Drive
+2024 RAM 2500 Tradesman,RAM,2500,New,2024,46670.0,16V MPFI OHV,8.0,Gasoline,5.0,8-Speed Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Ford Expedition Platinum,Ford,Expedition,New,2024,88135.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,6.0,10-Speed Automatic,Platinum,SUV,4.0,Black,Black Onyx,Four-wheel Drive
+2024 Hyundai IONIQ 5 SEL,Hyundai,IONIQ 5,New,2024,45289.0,c,4.0,Electric,5.0,1-Speed Automatic,SEL,SUV,4.0,Black,Black,All-wheel Drive
+2024 Ford Edge SE,Ford,Edge,New,2024,47229.5,16V GDI DOHC Turbo,4.0,Gasoline,823.0,8-Speed Automatic,SE,SUV,4.0,Oxford White,Ebony,All-wheel Drive
+2023 Jeep Gladiator Rubicon,Jeep,Gladiator,New,2023,54210.0,24V MPFI DOHC,6.0,Gasoline,0.0,8-Speed Automatic,Rubicon,Pickup Truck,4.0,High Velocity Clearcoat,Black,Four-wheel Drive
+2024 Jeep Grand Cherokee Altitude,Jeep,Grand Cherokee,New,2024,43585.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,5.0,Automatic,Altitude,SUV,4.0,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive
+2024 Chrysler Pacifica Touring-L,Chrysler,Pacifica,New,2024,46163.0,24V MPFI DOHC,6.0,Gasoline,8.0,9-Speed Automatic,Touring-L,Passenger Van,4.0,Bright White Clearcoat,Black,Front-wheel Drive
+2024 Jeep Wrangler 4xe Sport,Jeep,Wrangler 4xe,New,2024,49550.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,Sport,SUV,4.0,Anvil Clearcoat,Black,Four-wheel Drive
+2024 Volkswagen Jetta 1.5T S,Volkswagen,Jetta,New,2024,22260.0,16V GDI DOHC Turbo,4.0,Gasoline,28.0,8-Speed Automatic,1.5T S,Sedan,4.0,Pyrite Silver Metallic,Titan Black,Front-wheel Drive
+2024 Dodge Durango Pursuit,Dodge,Durango,New,2024,47229.5,24V MPFI DOHC,6.0,Gasoline,21.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive
+2024 Jeep Grand Cherokee Limited,Jeep,Grand Cherokee,New,2024,47744.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,9.0,Automatic,Limited,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive
+2024 Jeep Grand Cherokee 4xe Base,Jeep,Grand Cherokee 4xe,New,2024,54899.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,12.0,8-Speed Automatic,Base,SUV,4.0,Baltic Gray,Global Black,Four-wheel Drive
+2024 RAM 3500 Laramie,RAM,3500,New,2024,84860.0,24V DDI OHV Turbo Diesel,6.0,Diesel,6.0,6-Speed Automatic,Laramie,Pickup Truck,4.0,Pearl White,Black,Four-wheel Drive
+2024 RAM 2500 Tradesman,RAM,2500,New,2024,71846.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,5.0,Automatic,Tradesman,Pickup Truck,4.0,Diamond Black Crystal Pearlcoat,Black,Four-wheel Drive
+2024 Dodge Hornet R/T Plus EAWD,Dodge,Hornet,New,2024,46490.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,21.0,6-Speed Automatic,R/T Plus EAWD,SUV,4.0,Q Ball,Black,All-wheel Drive
+2024 Ford Mustang Mach-E Premium,Ford,Mustang Mach-E,New,2024,51785.0,c,4.0,Electric,12.0,1-Speed Automatic,Premium,SUV,4.0,Star White,Black,All-wheel Drive
+2024 Chevrolet Silverado 1500 LT,Chevrolet,Silverado 1500,New,2024,49180.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,LT,Pickup Truck,4.0,Summit White,Jet Black,Four-wheel Drive
+2024 Hyundai IONIQ 6 SEL,Hyundai,IONIQ 6,New,2024,50945.0,c,4.0,Electric,1.0,Automatic,SEL,Sedan,4.0,White,Black,All-wheel Drive
+2024 Volkswagen Taos 1.5T SEL,Volkswagen,Taos,New,2024,35683.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,5.0,7-Speed DSG Automatic with Tiptronic,1.5T SEL,SUV,4.0,Blue,Brown/Blk,All-wheel Drive
+2024 Ford Expedition Limited,Ford,Expedition,New,2024,84190.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,6.0,10-Speed Automatic,Limited,SUV,4.0,White,Black Onyx,Four-wheel Drive
+2024 Hyundai Sonata Hybrid Limited,Hyundai,Sonata Hybrid,New,2024,38870.0,16V GDI DOHC Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,Limited,Sedan,4.0,Carbon Blue,Black,Front-wheel Drive
+2023 RAM 3500 Tradesman,RAM,3500,New,2023,71999.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,252.0,Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Jeep Grand Cherokee Laredo,Jeep,Grand Cherokee,New,2024,47080.0,OHV,6.0,Gasoline,6.0,8-Speed Automatic,Laredo,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Jeep Wrangler 4xe Rubicon X,Jeep,Wrangler 4xe,New,2024,54226.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,2.0,Automatic,Rubicon X,SUV,4.0,Black Clearcoat,Black,Four-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,33255.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic,Latitude,SUV,4.0,Granite Crystal Clearcoat Metallic,Black,Four-wheel Drive
+2024 Hyundai IONIQ 5 SEL,Hyundai,IONIQ 5,New,2024,45373.0,c,4.0,Electric,3.0,1-Speed Automatic,SEL,SUV,4.0,Blue,Black,All-wheel Drive
+2024 Jeep Wrangler Sport S,Jeep,Wrangler,New,2024,48612.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,10.0,Automatic,Sport S,SUV,4.0,Black Clearcoat,Black,Four-wheel Drive
+2025 BMW X7 xDrive40i,BMW,X7,New,2025,90945.0,24V DOHC,6.0,Gasoline,4.0,8-Speed Automatic,xDrive40i,SUV,4.0,Aventurin Red Metallic,Black,All-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,47340.0,16V MPFI OHV,8.0,Gasoline,5.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive
+2024 Hyundai Santa Cruz 2.5L SEL,Hyundai,Santa Cruz,New,2024,37100.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,2.5L SEL,Pickup Truck,4.0,Phantom Black,Gray,All-wheel Drive
+2024 Mazda CX-90 PHEV Premium Plus,Mazda,CX-90 PHEV,New,2024,59205.0,16V GDI DOHC Hybrid,4.0,Hybrid,3.0,8-Speed Automatic,Premium Plus,SUV,4.0,Jet Black Mica,Black,All-wheel Drive
+2024 Ford Bronco Sport Big Bend,Ford,Bronco Sport,New,2024,31390.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,13.0,Automatic,Big Bend,SUV,4.0,Carbonized Gray Metallic,Ebony,Four-wheel Drive
+2024 Hyundai Palisade SEL,Hyundai,Palisade,New,2024,46905.0,24V GDI DOHC,6.0,Gasoline,25.0,8-Speed Automatic,SEL,SUV,4.0,Steel / Graphite,Gray / Black,All-wheel Drive
+2024 Hyundai Santa Cruz 2.5T XRT,Hyundai,Santa Cruz,New,2024,36499.0,16V PDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4.0,Phantom Black,Black,All-wheel Drive
+2024 BMW i4 Gran Coupe M50,BMW,i4 Gran Coupe,New,2024,79300.0,c,4.0,Electric,5.0,1-Speed Automatic,M50,Hatchback,4.0,Blue,Oyster,All-wheel Drive
+2024 RAM 2500 Power Wagon,RAM,2500,New,2024,74990.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,15.0,Automatic,Power Wagon,Pickup Truck,4.0,Olive Green Pearlcoat,Black,Four-wheel Drive
+2024 Honda CR-V Hybrid Sport-L,Honda,CR-V Hybrid,New,2024,40355.0,16V GDI DOHC Hybrid,4.0,Hybrid,68.0,Automatic CVT,Sport-L,SUV,4.0,Platinum White Pearl,Black,All-wheel Drive
+2023 Jeep Grand Cherokee Laredo,Jeep,Grand Cherokee,New,2023,43000.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,16.0,8-speed automatic,Laredo,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive
+2024 Dodge Hornet GT,Dodge,Hornet,New,2024,47229.5,16V GDI DOHC Turbo,4.0,Gasoline,8.0,9-Speed Automatic,GT,SUV,4.0,Blue,Black,All-wheel Drive
+2024 Hyundai Sonata Hybrid Limited,Hyundai,Sonata Hybrid,New,2024,38870.0,16V GDI DOHC Hybrid,4.0,Hybrid,9.0,6-Speed Automatic,Limited,Sedan,4.0,Red,Black,Front-wheel Drive
+2024 BMW 740 i,BMW,740,New,2024,103045.0,24V GDI DOHC Turbo,6.0,Gasoline,19.0,8-Speed Automatic,i,Sedan,4.0,Black Sapphire Metallic,Black,Rear-wheel Drive
+2024 Volkswagen Taos 1.5T SE,Volkswagen,Taos,New,2024,28997.0,16V GDI DOHC Turbo,4.0,Gasoline,3.0,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4.0,Blue Dusk,Black,All-wheel Drive
+2024 Volkswagen Taos 1.5T SE,Volkswagen,Taos,New,2024,29066.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,5.0,8-Speed Automatic with Tiptronic,1.5T SE,SUV,4.0,Pure White,Black,Front-wheel Drive
+2024 RAM 3500 Big Horn,RAM,3500,New,2024,47229.5,24V DDI OHV Turbo Diesel,6.0,Diesel,23.0,6-Speed Automatic,Big Horn,Pickup Truck,4.0,Diamond Black,Black,Four-wheel Drive
+2024 GMC Terrain SLE,GMC,Terrain,New,2024,33092.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,9-Speed Automatic,SLE,SUV,4.0,Volcanic Red,Jet Black,All-wheel Drive
+2024 Hyundai Palisade SEL,Hyundai,Palisade,New,2024,47100.0,24V GDI DOHC,6.0,Gasoline,26.0,8-Speed Automatic,SEL,SUV,4.0,Hyper White,Black,All-wheel Drive
+2024 Volkswagen Taos 1.5T SE,Volkswagen,Taos,New,2024,32406.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,11.0,8-speed automatic,1.5T SE,SUV,4.0,Deep Black Pearl,Black,Front-wheel Drive
+2024 Ford Explorer XLT,Ford,Explorer,New,2024,40145.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,10-Speed Automatic,XLT,SUV,4.0,Carbonized Gray Metallic,Ebony,Rear-wheel Drive
+2024 Nissan Kicks SV,Nissan,Kicks,New,2024,24600.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,15.0,CVT,SV,SUV,4.0,Aspen White Tricoat/Super Black,Charcoal,Front-wheel Drive
+2024 Jeep Grand Cherokee 4xe Summit,Jeep,Grand Cherokee 4xe,New,2024,69201.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,8-Speed Automatic,Summit,SUV,4.0,Velvet Red Pearlcoat,Tupelo,Four-wheel Drive
+2024 Nissan Versa S,Nissan,Versa,New,2024,17994.0,16V MPFI DOHC,4.0,Gasoline,8.0,Automatic CVT,S,Sedan,4.0,Electric Blue Metallic,Charcoal,Front-wheel Drive
+2024 Ford Escape ST-Line Elite,Ford,Escape,New,2024,40630.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,ST-Line Elite,SUV,4.0,Iconic Silver Metallic,Red,All-wheel Drive
+2024 Jeep Grand Cherokee Laredo,Jeep,Grand Cherokee,New,2024,49075.0,OHV,6.0,Gasoline,1.0,8-Speed Automatic,Laredo,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive
+2024 Volkswagen Jetta 1.4T S,Volkswagen,Jetta,New,2024,23160.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,7.0,8-Speed Automatic with Tiptronic,1.4T S,Sedan,4.0,Deep Black Pearl,Titan Black,Front-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,46835.0,16V MPFI OHV,8.0,Gasoline,31.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive
+2024 Ford Mustang Mach-E Premium,Ford,Mustang Mach-E,New,2024,52180.0,c,4.0,Electric,25.0,1-Speed Automatic,Premium,SUV,4.0,Glacier Gray,Black,All-wheel Drive
+2024 Hyundai IONIQ 5 Limited,Hyundai,IONIQ 5,New,2024,59255.0,c,4.0,Electric,10.0,1-Speed Automatic,Limited,SUV,4.0,Blue,Gray,All-wheel Drive
+2024 Jeep Grand Cherokee 4xe Trailhawk,Jeep,Grand Cherokee 4xe,New,2024,67784.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,35.0,8-Speed Automatic,Trailhawk,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive
+2024 Hyundai Santa Cruz 2.5T NIGHT,Hyundai,Santa Cruz,New,2024,40449.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,2.5T NIGHT,Pickup Truck,4.0,Hampton Gray,Black,All-wheel Drive
+2024 Chevrolet Equinox 1LT,Chevrolet,Equinox,New,2024,30188.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,3.0,6-Speed Automatic Electronic with Overdrive,1LT,SUV,4.0,Sterling Gray Metallic,Medium Ash Gray,Front-wheel Drive
+2024 Mazda CX-90 PHEV Base,Mazda,CX-90 PHEV,New,2024,59420.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,Automatic,Base,SUV,4.0,Artisan Red Premium,Black,All-wheel Drive
+2024 Mazda CX-90 PHEV Base,Mazda,CX-90 PHEV,New,2024,60080.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,Base,SUV,4.0,Deep Crystal Blue Mica,Black,All-wheel Drive
+2023 Buick Envision Essence,Buick,Envision,New,2023,42785.0,16V GDI DOHC Turbo,4.0,Gasoline,13.0,9-Speed Automatic,Essence,SUV,4.0,Ebony Twilight Metallic,Ebony,All-wheel Drive
+2024 Audi Q8 e-tron Premium,Audi,Q8 e-tron,New,2024,84530.0,c,4.0,Electric,5.0,Automatic,Premium,SUV,4.0,Glacier White Metallic,Okapi Brown,All-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,47280.0,16V MPFI OHV,8.0,Gasoline,13.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,30525.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Latitude,SUV,4.0,Metallic,Black,Four-wheel Drive
+2024 Honda Passport TrailSport,Honda,Passport,New,2024,44850.0,24V GDI SOHC,6.0,Gasoline,3.0,9-Speed Automatic,TrailSport,SUV,4.0,Sky,Black,All-wheel Drive
+2024 Cadillac LYRIQ Sport w/1SF,Cadillac,LYRIQ,New,2024,83665.0,c Motor,4.0,Electric,728.0,Automatic,Sport w/1SF,SUV,4.0,Crystal White Tricoat,Noir w/Santorini Blue Accents,Rear-wheel Drive
+2024 Nissan Titan SV,Nissan,Titan,New,2024,47105.0,Unleaded V-8 5.6 L/339,8.0,Gasoline,5.0,Automatic,SV,Pickup Truck,4.0,Glacier White,Black,Four-wheel Drive
+2024 Jeep Compass Limited,Jeep,Compass,New,2024,38736.0,DOHC,4.0,Gasoline,12.0,8-Speed Automatic,Limited,SUV,4.0,Laser Blue Pearlcoat,Black,Four-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,28265.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,Latitude,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Jeep Wrangler 4xe Sahara,Jeep,Wrangler 4xe,New,2024,58230.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,17.0,8-Speed Automatic,Sahara,SUV,4.0,Anvil Clearcoat,Black,Four-wheel Drive
+2024 Jeep Wrangler 4xe Rubicon,Jeep,Wrangler 4xe,New,2024,67190.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,12.0,8-Speed Automatic,Rubicon,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Hyundai IONIQ 5 SEL,Hyundai,IONIQ 5,New,2024,45738.0,c,4.0,Electric,5.0,1-Speed Automatic,SEL,SUV,4.0,Atlas,Gray,All-wheel Drive
+2024 Ford Escape Active,Ford,Escape,New,2024,30278.0,der,3.0,Gasoline,0.0,8-Speed Shiftable Automatic,Active,SUV,4.0,Iconic Silver,Ebony,Front-wheel Drive
+2024 Ford Escape ST-Line,Ford,Escape,New,2024,34572.0,12V PDI DOHC Turbo,3.0,Gasoline,10.0,8-Speed Automatic,ST-Line,SUV,4.0,Star White,Ebony,All-wheel Drive
+2024 Jeep Wrangler 4xe Rubicon,Jeep,Wrangler 4xe,New,2024,66960.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,Rubicon,SUV,4.0,Black Clearcoat,Black,Four-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,31535.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,Latitude,SUV,4.0,Metallic,Black,Four-wheel Drive
+2024 Chevrolet Equinox LS,Chevrolet,Equinox,New,2024,30955.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,3.0,Automatic,LS,SUV,4.0,Summit White,Medium Ash Gray,All-wheel Drive
+2024 Dodge Hornet GT,Dodge,Hornet,New,2024,34698.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,9-Speed Automatic,GT,SUV,4.0,Gold,Black,All-wheel Drive
+2024 Ford Escape ST-Line,Ford,Escape,New,2024,32138.0,12V PDI DOHC Turbo,3.0,Gasoline,10.0,8-Speed Automatic,ST-Line,SUV,4.0,Iconic Silver Metallic,Ebony,All-wheel Drive
+2024 Ford Transit-250 Base,Ford,Transit-250,New,2024,61248.0,"6 port/direct injection, DOHC, variable valve control, re",6.0,Gasoline,0.0,Automatic,Base,Cargo Van,3.0,Oxford White,Gray,Rear-wheel Drive
+2024 Ford Mustang Mach-E Premium,Ford,Mustang Mach-E,New,2024,46920.0,c,4.0,Electric,10.0,1-Speed Automatic,Premium,SUV,4.0,Green,Black,All-wheel Drive
+2024 Jeep Grand Cherokee Laredo,Jeep,Grand Cherokee,New,2024,40925.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,0.0,Automatic,Laredo,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive
+2024 Chevrolet Silverado 1500 ZR2,Chevrolet,Silverado 1500,New,2024,76475.0,16V GDI OHV,8.0,Gasoline,2.0,10-Speed Automatic,ZR2,Pickup Truck,4.0,Summit White,Gray,Four-wheel Drive
+2023 Ford Mustang Mach-E Premium,Ford,Mustang Mach-E,New,2023,45525.0,c,4.0,Electric,10.0,1-Speed Automatic,Premium,SUV,4.0,Gray,Gray,All-wheel Drive
+2024 Jeep Grand Cherokee Summit,Jeep,Grand Cherokee,New,2024,65360.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,0.0,Automatic,Summit,SUV,4.0,Diamond Black Crystal Pearlcoat,Tupelo/Black,Four-wheel Drive
+2024 Chevrolet Silverado 1500 Custom Trail Boss,Chevrolet,Silverado 1500,New,2024,47650.0,16V GDI OHV,8.0,Gasoline,5.0,10-Speed Automatic,Custom Trail Boss,Pickup Truck,4.0,Summit White,Black,Four-wheel Drive
+2024 Honda Odyssey EX-L,Honda,Odyssey,New,2024,41705.0,24V GDI SOHC,6.0,Gasoline,4.0,10-Speed Automatic,EX-L,Passenger Van,4.0,Lunar Silver Metallic,Gray,Front-wheel Drive
+2024 Hyundai IONIQ 5 Disney100 Platinum Edition,Hyundai,IONIQ 5,New,2024,54495.0,c,4.0,Electric,10.0,1-Speed Automatic,Disney100 Platinum Edition,SUV,4.0,Gold,Gray,All-wheel Drive
+2024 Hyundai Elantra HEV Limited,Hyundai,Elantra HEV,New,2024,30335.0,16V GDI DOHC Hybrid,4.0,Hybrid,0.0,Automatic,Limited,Sedan,4.0,Gray Pearl,Melange,Front-wheel Drive
+2024 Hyundai Tucson Hybrid Blue,Hyundai,Tucson Hybrid,New,2024,33695.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,6-Speed Automatic,Blue,SUV,4.0,White Pearl,Black,All-wheel Drive
+2024 Volkswagen Jetta 1.5T SEL,Volkswagen,Jetta,New,2024,29374.0,16V GDI DOHC Turbo,4.0,Gasoline,28.0,8-Speed Automatic,1.5T SEL,Sedan,4.0,Opal White Pearl Effect,Volcano Brown,Front-wheel Drive
+2024 Jeep Wrangler 4xe Sport,Jeep,Wrangler 4xe,New,2024,51350.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,8.0,8-Speed Automatic,Sport,SUV,4.0,Anvil Clearcoat,Black,Four-wheel Drive
+2024 Hyundai Tucson Hybrid SEL Convenience,Hyundai,Tucson Hybrid,New,2024,35744.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,15.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Black Pearl,Gray,All-wheel Drive
+2023 Jeep Wrangler 4xe Sahara,Jeep,Wrangler 4xe,New,2023,63715.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,8.0,8-Speed Automatic,Sahara,SUV,4.0,Silver Zynith Clearcoat,Black,Four-wheel Drive
+2024 Hyundai Elantra HEV Blue,Hyundai,Elantra HEV,New,2024,25975.0,16V GDI DOHC Hybrid,4.0,Hybrid,15.0,6-Speed DCT Automatic,Blue,Sedan,4.0,Gray Pearl,Black,Front-wheel Drive
+2023 Hyundai IONIQ 6 SEL,Hyundai,IONIQ 6,New,2023,39997.0,c,4.0,Electric,27.0,1-Speed Automatic,SEL,Sedan,4.0,Onyx Black,Black,All-wheel Drive
+2024 Toyota Tundra Hybrid Limited,Toyota,Tundra Hybrid,New,2024,68256.0,"MAX 3.4L V-6 port/direct injection, DOHC, variable valve",6.0,Hybrid,10.0,10-Speed Automatic,Limited,Pickup Truck,4.0,Celestial Silver Metallic,Black SofTex-trimmed [softex],Four-wheel Drive
+2024 RAM ProMaster 3500 Base,RAM,ProMaster 3500,New,2024,67749.0,24V MPFI DOHC,6.0,Gasoline,181.0,9-Speed Automatic,Base,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive
+2024 Jeep Grand Cherokee L Limited,Jeep,Grand Cherokee L,New,2024,49735.0,24V VVT,6.0,Gasoline,0.0,8-Speed Automatic,Limited,SUV,4.0,Bright White Clearcoat,Wicker Beige/Black,Four-wheel Drive
+2024 Dodge Hornet R/T Plus,Dodge,Hornet,New,2024,49885.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,2.0,6-Speed Automatic,R/T Plus,SUV,4.0,Gold,Black,All-wheel Drive
+2024 Toyota Corolla Cross LE,Toyota,Corolla Cross,New,2024,30499.0,16V PDI DOHC,4.0,Gasoline,1.0,Automatic CVT,LE,SUV,4.0,CELESTITE,Ash,All-wheel Drive
+2024 Kia EV6 Wind,Kia,EV6,New,2024,41991.0,c,4.0,Electric,14.0,Automatic,Wind,SUV,4.0,Glacier,Black,All-wheel Drive
+2024 Ford Explorer XLT,Ford,Explorer,New,2024,40145.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,10-Speed Automatic,XLT,SUV,4.0,Iconic Silver Metallic,Ebony,Rear-wheel Drive
+2024 Mazda CX-90 PHEV Premium,Mazda,CX-90 PHEV,New,2024,54939.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,3.0,Automatic,Premium,SUV,4.0,Rhodium,Greige,All-wheel Drive
+2024 Jeep Wagoneer L Series II,Jeep,Wagoneer L,New,2024,83845.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,8.0,8-Speed Automatic,Series II,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2023 Mercedes-Benz Sprinter 2500 High Roof,Mercedes-Benz,Sprinter 2500,New,2023,58665.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,0.0,Automatic,High Roof,Cargo Van,3.0,Bright White Clearcoat,Black,Rear-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,46835.0,16V MPFI OHV,8.0,Gasoline,23.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive
+2024 Chevrolet Equinox EV RS,Chevrolet,Equinox EV,New,2024,47495.0,"<dt>VIN</dt>
+     3GN7DNRPXRS232327",4.0,Gasoline,0.0,Automatic,RS,SUV,4.0,Sterling Gray Metallic,Black,Front-wheel Drive
+2024 Jeep Grand Wagoneer Series III,Jeep,Grand Wagoneer,New,2024,124250.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,0.0,8-Speed Automatic,Series III,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive
+2024 Mercedes-Benz Sprinter 2500 High Roof,Mercedes-Benz,Sprinter 2500,New,2024,65129.0,"diesel direct injection, DOHC, intercooled turbo, diesel,",4.0,Diesel,0.0,Automatic,High Roof,Pickup Truck,3.0,Bright White Clearcoat,Black,Rear-wheel Drive
+2024 Ford Mustang Mach-E Select,Ford,Mustang Mach-E,New,2024,49785.0,c,4.0,Electric,5.0,1-Speed Automatic,Select,SUV,4.0,Glacier Gray,Black,All-wheel Drive
+2025 Honda CR-V Hybrid Sport Touring,Honda,CR-V Hybrid,New,2025,42150.0,16V GDI DOHC Turbo,4.0,Gasoline,1.0,1-Speed CVT with Overdrive,Sport Touring,SUV,4.0,Canyon,Black,All-wheel Drive
+2024 Cadillac XT5 Luxury,Cadillac,XT5,New,2024,47225.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,5.0,9-Speed Automatic,Luxury,SUV,4.0,Stellar Black Metallic,Jet Black,All-wheel Drive
+2024 Hyundai Santa Cruz 2.5L SEL,Hyundai,Santa Cruz,New,2024,31610.0,16V PDI DOHC,4.0,Gasoline,3.0,8-Speed Automatic,2.5L SEL,Pickup Truck,4.0,Sage Gray,Black,All-wheel Drive
+2024 Toyota Tundra Hybrid 1794 Edition,Toyota,Tundra Hybrid,New,2024,72977.0,24V PDI DOHC Twin Turbo Hybrid,6.0,Hybrid,7.0,10-Speed Automatic,1794 Edition,Pickup Truck,4.0,Smoked Mesquite,Tan,Four-wheel Drive
+2024 Dodge Hornet GT AWD,Dodge,Hornet,New,2024,36734.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,14.0,9-Speed 948TE Automatic,GT AWD,SUV,4.0,Blu Bayou,Black,All-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,61330.0,24V DDI OHV Turbo Diesel,6.0,Diesel,6.0,6-Speed Automatic,Tradesman,Pickup Truck,2.0,Flame Red Clearcoat,Black,Four-wheel Drive
+2024 Hyundai Kona SEL,Hyundai,Kona,New,2024,32009.0,16V MPFI DOHC,4.0,Gasoline,1.0,Automatic CVT,SEL,SUV,4.0,Atlas,Black,All-wheel Drive
+2024 Chevrolet Silverado 1500 LT,Chevrolet,Silverado 1500,New,2024,49229.0,16V GDI OHV,8.0,Gasoline,17.0,Automatic,LT,Pickup Truck,4.0,Black,Jet Black,Four-wheel Drive
+2023 INFINITI QX55 SENSORY,INFINITI,QX55,New,2023,54200.0,16V PDI DOHC Turbo,4.0,Gasoline,0.0,Automatic CVT,SENSORY,SUV,4.0,Graphite Shadow,Graphite,All-wheel Drive
+2023 Jeep Compass Sport,Jeep,Compass,New,2023,25999.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,14.0,Automatic,Sport,SUV,4.0,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+2024 Mazda CX-90 PHEV Base,Mazda,CX-90 PHEV,New,2024,56995.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,30.0,Automatic,Base,SUV,4.0,Rhodium White Premium,Black,All-wheel Drive
+2024 Chevrolet Equinox 1LT,Chevrolet,Equinox,New,2024,34472.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,6-Speed Automatic,1LT,SUV,4.0,Radiant Red,Jet Black,All-wheel Drive
+2024 Nissan Kicks SR,Nissan,Kicks,New,2024,25410.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SR,SUV,4.0,Boulder Gray Metallic,Charcoal,Front-wheel Drive
+2024 Dodge Hornet R/T,Dodge,Hornet,New,2024,47229.5,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,18.0,6-Speed Automatic,R/T,SUV,4.0,HOT TAMALE,Black,All-wheel Drive
+2024 Dodge Hornet R/T Plus,Dodge,Hornet,New,2024,49885.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,8.0,6-Speed Automatic,R/T Plus,SUV,4.0,Blue Steel,Black,All-wheel Drive
+2024 Toyota Corolla LE,Toyota,Corolla,New,2024,22623.0,16V PDI DOHC,4.0,Gasoline,8.0,Automatic CVT,LE,Sedan,4.0,Silver,Black,Front-wheel Drive
+2024 Hyundai IONIQ 5 SEL,Hyundai,IONIQ 5,New,2024,45830.0,c,4.0,Electric,0.0,Automatic,SEL,SUV,4.0,Atlas,Gray,All-wheel Drive
+2024 Volkswagen Jetta 1.4T SEL,Volkswagen,Jetta,New,2024,29895.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,10.0,8-Speed Automatic with Tiptronic,1.4T SEL,Sedan,4.0,Deep Black Pearl,Titan Black,Front-wheel Drive
+2024 Hyundai IONIQ 5 SEL,Hyundai,IONIQ 5,New,2024,44713.0,c,4.0,Electric,13.0,1-Speed Automatic,SEL,SUV,4.0,Atlas,Gray,All-wheel Drive
+2024 RAM ProMaster 3500 Base,RAM,ProMaster 3500,New,2024,68095.0,24V MPFI DOHC,6.0,Gasoline,186.0,9-Speed Automatic,Base,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive
+2024 Volkswagen Jetta 1.4T S,Volkswagen,Jetta,New,2024,24348.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,7.0,8-Speed Automatic with Tiptronic,1.4T S,Sedan,4.0,Pure White,Titan Black,Front-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,65260.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,15.0,Automatic,Tradesman,Pickup Truck,4.0,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive
+2024 GMC Terrain Denali,GMC,Terrain,New,2024,40980.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,9-Speed Automatic,Denali,SUV,4.0,White Frost Tri-Coat,Light Platinum,All-wheel Drive
+2024 Hyundai Tucson Hybrid SEL Convenience,Hyundai,Tucson Hybrid,New,2024,37275.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Amazon Gray,Gray,All-wheel Drive
+2024 RAM 3500 Laramie,RAM,3500,New,2024,72294.0,24V DDI OHV Turbo Diesel,6.0,Diesel,33.0,Automatic,Laramie,Pickup Truck,4.0,Diamond Black,Black,Four-wheel Drive
+2024 Mazda CX-90 PHEV Base,Mazda,CX-90 PHEV,New,2024,51625.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,Base,SUV,4.0,Deep Crystal Blue Mica,Black,All-wheel Drive
+2024 Hyundai Kona Limited,Hyundai,Kona,New,2024,30829.0,16V GDI DOHC Turbo,4.0,Gasoline,15.0,8-Speed Automatic,Limited,SUV,4.0,Abyss Black Pearl,Black,Front-wheel Drive
+2024 Dodge Hornet R/T Plus,Dodge,Hornet,New,2024,44826.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T Plus,SUV,4.0,HOT TAMALE,Black,All-wheel Drive
+2024 Dodge Hornet GT,Dodge,Hornet,New,2024,38122.0,16V GDI DOHC Turbo,4.0,Gasoline,18.0,9-Speed Automatic,GT,SUV,4.0,Blue Steel,Black,All-wheel Drive
+2024 Jeep Grand Cherokee L Altitude,Jeep,Grand Cherokee L,New,2024,47451.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,3.0,Automatic,Altitude,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive
+2024 Jeep Wrangler 4xe Sahara,Jeep,Wrangler 4xe,New,2024,58840.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,4.0,8-Speed Automatic,Sahara,SUV,4.0,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+2024 Dodge Hornet GT AWD,Dodge,Hornet,New,2024,32837.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,10.0,Automatic,GT AWD,SUV,4.0,8 Ball,Black,All-wheel Drive
+2024 Ford Bronco Sport Big Bend,Ford,Bronco Sport,New,2024,31390.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,9.0,Automatic,Big Bend,SUV,4.0,Eruption Green Metallic,Bk,Four-wheel Drive
+2024 Chrysler Pacifica Touring-L,Chrysler,Pacifica,New,2024,54403.0,24V MPFI DOHC,6.0,Gasoline,14.0,9-Speed Automatic,Touring-L,Passenger Van,4.0,Diamond Black,Black,All-wheel Drive
+2024 Toyota Tundra Hybrid Platinum,Toyota,Tundra Hybrid,New,2024,71146.0,"MAX 3.4L V-6 port/direct injection, DOHC, variable valve",6.0,Hybrid,10.0,10-Speed Automatic,Platinum,Pickup Truck,4.0,Supersonic Red,Black,Rear-wheel Drive
+2024 Jeep Wagoneer Series II,Jeep,Wagoneer,New,2024,84935.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,1.0,8-Speed Automatic,Series II,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+2023 Ford F-150 XLT,Ford,F-150,New,2023,52495.0,EcoBoost,6.0,Gasoline,26.0,10-Speed Automatic,XLT,Pickup Truck,4.0,Oxford White,Black,Four-wheel Drive
+2024 RAM 2500 Tradesman 4x4 Crew Cab 8 Box,RAM,2500,New,2024,61481.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,15.0,6-Speed A/T,Tradesman 4x4 Crew Cab 8 Box,Pickup Truck,4.0,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive
+2024 Mazda CX-90 PHEV Base,Mazda,CX-90 PHEV,New,2024,51700.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,Base,SUV,4.0,Deep Crystal Blue Mica,Black,All-wheel Drive
+2024 Chevrolet Silverado 1500 Custom,Chevrolet,Silverado 1500,New,2024,42947.0,16V GDI DOHC Turbo,4.0,Gasoline,5.0,8-Speed Automatic,Custom,Pickup Truck,4.0,Red,Black,Rear-wheel Drive
+2024 Dodge Hornet GT AWD,Dodge,Hornet,New,2024,34329.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,6.0,Automatic,GT AWD,SUV,4.0,Q Ball,Black,All-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,62154.0,16V MPFI OHV,8.0,Gasoline,197.0,8-Speed Automatic,Tradesman,Pickup Truck,2.0,Bright White Clearcoat,Diesel Gray / Black,Four-wheel Drive
+2024 Audi A3 Premium,Audi,A3,New,2024,39375.0,16V GDI DOHC Turbo,4.0,Gasoline,76.0,7-Speed Automatic with Auto-Shift,Premium,Sedan,4.0,Florett Silver Metallic,Black,Front-wheel Drive
+2024 Jeep Wrangler 4xe Rubicon,Jeep,Wrangler 4xe,New,2024,65295.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,26.0,8-Speed Automatic,Rubicon,SUV,4.0,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+2024 Jeep Wrangler 4xe Rubicon,Jeep,Wrangler 4xe,New,2024,64930.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,12.0,8-Speed Automatic,Rubicon,SUV,4.0,Black Clearcoat,Black,Four-wheel Drive
+2023 Ford Mustang Mach-E Premium,Ford,Mustang Mach-E,New,2023,46540.0,c,4.0,Electric,6.0,1-Speed Automatic,Premium,SUV,4.0,Shadow Black,Black Onyx,All-wheel Drive
+2024 Mazda CX-90 PHEV Premium,Mazda,CX-90 PHEV,New,2024,54949.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,3.0,Automatic,Premium,SUV,4.0,Machine,Black,All-wheel Drive
+2024 Dodge Hornet R/T Plus,Dodge,Hornet,New,2024,47142.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,0.0,6-Speed Automatic,R/T Plus,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Hyundai Santa Cruz 2.5T XRT,Hyundai,Santa Cruz,New,2024,41955.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,2.5T XRT,Pickup Truck,4.0,Atlas,Black,All-wheel Drive
+2024 Ford Escape Active,Ford,Escape,New,2024,36860.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,8.0,8-Speed A/T,Active,SUV,4.0,Vapor Blue Metallic,Ebony,All-wheel Drive
+2024 RAM 3500 Big Horn,RAM,3500,New,2024,76300.0,24V DDI OHV Turbo Diesel,6.0,Diesel,6.0,6-Speed Automatic,Big Horn,Pickup Truck,4.0,Diamond Black,Black,Four-wheel Drive
+2024 RAM ProMaster 3500 Base,RAM,ProMaster 3500,New,2024,68095.0,24V MPFI DOHC,6.0,Gasoline,188.0,9-Speed Automatic,Base,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive
+2024 Ford F-150 STX,Ford,F-150,New,2024,45605.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,8.0,Automatic,STX,Pickup Truck,4.0,Oxford White,Black,Four-wheel Drive
+2024 Nissan Kicks S,Nissan,Kicks,New,2024,24305.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,15.0,CVT,S,SUV,4.0,Gun Metallic,Charcoal,Front-wheel Drive
+2024 Ford Explorer XLT,Ford,Explorer,New,2024,46870.0,16V GDI DOHC Turbo,4.0,Gasoline,2500.0,10-Speed Automatic,XLT,SUV,4.0,Star White,Sandstone,Rear-wheel Drive
+2024 Hyundai Kona Limited,Hyundai,Kona,New,2024,33840.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,8-Speed Automatic,Limited,SUV,4.0,Orange Pearl,Black,All-wheel Drive
+2024 Chevrolet Silverado 1500 LT,Chevrolet,Silverado 1500,New,2024,50058.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,LT,Pickup Truck,4.0,Radiant Red,Jet Black,Four-wheel Drive
+2024 Honda CR-V Hybrid Sport-L,Honda,CR-V Hybrid,New,2024,37505.0,16V GDI DOHC Hybrid,4.0,Hybrid,0.0,Automatic CVT,Sport-L,SUV,4.0,Platinum White Pearl,Black,Front-wheel Drive
+2024 Hyundai Sonata Hybrid SEL,Hyundai,Sonata Hybrid,New,2024,33005.0,16V GDI DOHC Hybrid,4.0,Hybrid,13.0,6-Speed Automatic,SEL,Sedan,4.0,White,Black,Front-wheel Drive
+2024 Acura MDX Base,Acura,MDX,New,2024,53700.0,24V GDI SOHC,6.0,Gasoline,5.0,10-Speed Automatic,Base,SUV,4.0,Silver,Black,All-wheel Drive
+2024 Mercedes-Benz Sprinter 3500 High Roof,Mercedes-Benz,Sprinter 3500,New,2024,62295.0,"diesel direct injection, DOHC, intercooled turbo, diesel,",4.0,Diesel,8.0,Automatic,High Roof,Cargo Van,3.0,Iridium Silver,Black,Rear-wheel Drive
+2024 GMC Sierra 2500 Denali,GMC,Sierra 2500,New,2024,90220.0,32V DDI OHV Turbo Diesel,8.0,Diesel,0.0,10-Speed Automatic,Denali,Pickup Truck,4.0,Onyx Black,Jet Black,Four-wheel Drive
+2024 Hyundai Santa Cruz 2.5T Limited,Hyundai,Santa Cruz,New,2024,47229.5,16V PDI DOHC Turbo,4.0,Gasoline,13.0,8-Speed Automatic with Auto-Shift,2.5T Limited,Pickup Truck,4.0,Atlas,Black,All-wheel Drive
+2024 Jeep Compass Limited,Jeep,Compass,New,2024,33696.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,8-Speed Automatic,Limited,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Jeep Grand Cherokee L Limited,Jeep,Grand Cherokee L,New,2024,54641.0,24V MPFI DOHC,6.0,Gasoline,23.0,8-Speed Automatic,Limited,SUV,4.0,Diamond Black,Beige / Black,Rear-wheel Drive
+2024 Cadillac LYRIQ Luxury,Cadillac,LYRIQ,New,2024,60115.0,c,4.0,Electric,1.0,1-Speed Automatic,Luxury,SUV,4.0,Emerald,Black,Rear-wheel Drive
+2024 Hyundai Tucson SEL,Hyundai,Tucson,New,2024,32750.0,16V PDI DOHC,4.0,Gasoline,3425.0,8-Speed Automatic,SEL,SUV,4.0,White Pearl,Gray,Front-wheel Drive
+2024 Mercedes-Benz GLE 350 Base 4MATIC,Mercedes-Benz,GLE 350,New,2024,47229.5,16V GDI DOHC Turbo,4.0,Gasoline,10.0,9-Speed Automatic,Base 4MATIC,SUV,4.0,Black,Black,All-wheel Drive
+2024 Mazda CX-90 PHEV Preferred,Mazda,CX-90 PHEV,New,2024,50595.0,16V GDI DOHC Hybrid,4.0,Hybrid,1.0,8-Speed Automatic,Preferred,SUV,4.0,Rhodium White Metallic,Black,All-wheel Drive
+2025 Ford Explorer Platinum,Ford,Explorer,New,2025,53915.0,"<dt>VIN</dt>
+     1FMUK7HH1SGA05728",4.0,Gasoline,8.0,10-Speed Automatic,Platinum,SUV,4.0,Star White Metallic Tri-Coat,Mojave Dusk/Onyx,Rear-wheel Drive
+2024 Jeep Wagoneer Base,Jeep,Wagoneer,New,2024,77473.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,14.0,8-Speed Automatic,Base,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive
+2024 INFINITI QX50 SPORT,INFINITI,QX50,New,2024,49404.0,ER,4.0,Gasoline,7.0,(CVT) CONT VAR.,SPORT,SUV,4.0,Radiant White,Monaco Red,Front-wheel Drive
+2024 Hyundai Elantra HEV Limited,Hyundai,Elantra HEV,New,2024,30870.0,16V GDI DOHC Hybrid,4.0,Hybrid,9.0,Automatic,Limited,Sedan,4.0,White,Black,Front-wheel Drive
+2024 Buick Enclave Premium,Buick,Enclave,New,2024,56872.0,24V GDI DOHC,6.0,Gasoline,0.0,9-Speed Automatic,Premium,SUV,4.0,Ebony Twilight Metallic,Dark Galvanized,All-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,34730.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Latitude,SUV,4.0,Metallic,Black,Four-wheel Drive
+2024 Chrysler Pacifica Limited,Chrysler,Pacifica,New,2024,55183.0,24V MPFI DOHC,6.0,Gasoline,13.0,9-Speed Automatic,Limited,Passenger Van,4.0,Bright White Clearcoat,Black,All-wheel Drive
+2024 Hyundai Tucson SEL,Hyundai,Tucson,New,2024,32625.0,16V PDI DOHC,4.0,Gasoline,2077.0,8-Speed Automatic,SEL,SUV,4.0,White Pearl,Gray,Front-wheel Drive
+2024 Nissan Versa S,Nissan,Versa,New,2024,20849.0,16V MPFI DOHC,4.0,Gasoline,6.0,Automatic CVT,S,Sedan,4.0,Cloud White,Charcoal,Front-wheel Drive
+2024 Audi A5 Sportback S line Premium,Audi,A5 Sportback,New,2024,52405.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,7-Speed Automatic with Auto-Shift,S line Premium,Hatchback,4.0,Glacier White Metallic,Black,All-wheel Drive
+2024 RAM 3500 Big Horn,RAM,3500,New,2024,67159.0,24V DDI OHV Turbo Diesel,6.0,Diesel,21.0,6-Speed Automatic,Big Horn,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Ford Edge SE,Ford,Edge,New,2024,40260.0,16V GDI DOHC Turbo,4.0,Gasoline,3.0,8-Speed Automatic,SE,SUV,4.0,Carbonized Gray Metallic,Ebony,All-wheel Drive
+2024 Mercedes-Benz GLS 450 4MATIC,Mercedes-Benz,GLS 450,New,2024,95230.0,24V GDI DOHC Turbo,6.0,Gasoline,8.0,9-Speed Automatic,4MATIC,SUV,4.0,Polar White,Macchiato Beige,All-wheel Drive
+2024 Hyundai Tucson Hybrid SEL Convenience,Hyundai,Tucson Hybrid,New,2024,35835.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Black Pearl,Black,All-wheel Drive
+2024 Hyundai Tucson Hybrid SEL Convenience,Hyundai,Tucson Hybrid,New,2024,35775.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Amazon Gray,Gray,All-wheel Drive
+2024 RAM 3500 Big Horn,RAM,3500,New,2024,72600.0,24V DDI OHV Turbo Diesel,6.0,Diesel,6.0,6-Speed Automatic,Big Horn,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Chevrolet Silverado 1500 WT,Chevrolet,Silverado 1500,New,2024,47410.0,16V GDI OHV,8.0,Gasoline,5.0,10-Speed Automatic,WT,Pickup Truck,4.0,Summit White,Jet Black,Four-wheel Drive
+2024 Kia Niro EX,Kia,Niro,New,2024,30935.0,16V GDI DOHC Hybrid,4.0,Hybrid,11.0,6-Speed Automatic,EX,SUV,4.0,Snow White Pearl,Charcoal,Front-wheel Drive
+2024 Jeep Compass Sport,Jeep,Compass,New,2024,27087.0,16V GDI DOHC Turbo,4.0,Gasoline,9.0,8-Speed Automatic,Sport,SUV,4.0,Diamond Black,Black,Four-wheel Drive
+2024 Ford Edge ST-Line,Ford,Edge,New,2024,47229.5,16V GDI DOHC Turbo,4.0,Gasoline,5.0,8-Speed Automatic,ST-Line,SUV,4.0,Iconic Silver,Ebony,All-wheel Drive
+2024 RAM 3500 Big Horn,RAM,3500,New,2024,78895.0,"<dt>VIN</dt>
+     3C63R3HLXRG198198",6.0,Diesel,7.0,Aisin 6-Speed Automatic,Big Horn,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Ford Edge Titanium,Ford,Edge,New,2024,44710.0,16V GDI DOHC Turbo,4.0,Gasoline,48.0,8-Speed Automatic,Titanium,SUV,4.0,Rapid Red Metallic Tinted Clearcoat,Medium Soft Ceramic,All-wheel Drive
+2024 Nissan Sentra SV,Nissan,Sentra,New,2024,21637.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,4.0,Automatic,SV,Sedan,4.0,Gun Metallic,Charcoal,Front-wheel Drive
+2024 Kia Seltos S,Kia,Seltos,New,2024,28535.0,16V MPFI DOHC,4.0,Gasoline,15.0,Automatic CVT,S,SUV,4.0,White,Black,All-wheel Drive
+2024 Jeep Grand Cherokee L Limited,Jeep,Grand Cherokee L,New,2024,50923.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,4.0,Automatic,Limited,SUV,4.0,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive
+2024 Nissan Versa 1.6 SR,Nissan,Versa,New,2024,21889.0,16V MPFI DOHC,4.0,Gasoline,6.0,Automatic CVT,1.6 SR,Sedan,4.0,Electric Blue Metallic,Gray,Front-wheel Drive
+2024 Hyundai Kona SEL,Hyundai,Kona,New,2024,29182.0,16V MPFI DOHC,4.0,Gasoline,0.0,Automatic CVT,SEL,SUV,4.0,Cyber Gray Metallic,Black,Front-wheel Drive
+2024 Nissan Kicks SR,Nissan,Kicks,New,2024,21123.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,6.0,CVT with Xtronic,SR,SUV,4.0,Electric Blue Metallic,Charcoal,Front-wheel Drive
+2024 RAM 3500 Tradesman Crew Cab 4x4 8' Box,RAM,3500,New,2024,63518.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,24.0,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,Granite Crystal Metallic Clearcoat,Black Interior Color,Four-wheel Drive
+2024 RAM 3500 Laramie,RAM,3500,New,2024,79934.0,24V DDI OHV Turbo Diesel,6.0,Diesel,22.0,Automatic,Laramie,Pickup Truck,4.0,Pearl White,Black,Four-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,47340.0,16V MPFI OHV,8.0,Gasoline,22.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive
+2024 Jeep Grand Cherokee L Altitude,Jeep,Grand Cherokee L,New,2024,46243.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,175.0,Automatic,Altitude,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+2024 Dodge Hornet R/T,Dodge,Hornet,New,2024,42876.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,147.0,6-Speed Automatic,R/T,SUV,4.0,8 BALL,Black,All-wheel Drive
+2024 GMC Sierra 3500 Denali,GMC,Sierra 3500,New,2024,102287.0,32V DDI OHV Turbo Diesel,8.0,Diesel,4.0,10-Speed Automatic,Denali,Pickup Truck,4.0,Summit White,Jet Black,Four-wheel Drive
+2024 Jeep Grand Cherokee L Limited,Jeep,Grand Cherokee L,New,2024,55020.0,OHV,6.0,Gasoline,5.0,8-Speed Automatic,Limited,SUV,4.0,Metallic,Global Black,Four-wheel Drive
+2024 Jeep Grand Cherokee Laredo,Jeep,Grand Cherokee,New,2024,40344.0,OHV,6.0,Gasoline,6.0,8-Speed Automatic,Laredo,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Hyundai Kona N Line,Hyundai,Kona,New,2024,33491.0,16V GDI DOHC Turbo,4.0,Gasoline,12.0,8-Speed Automatic,N Line,SUV,4.0,Abyss Black Pearl,Black,All-wheel Drive
+2024 Hyundai Tucson Hybrid Limited,Hyundai,Tucson Hybrid,New,2024,40754.0,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4.0,Hybrid,12.0,Automatic,Limited,SUV,4.0,Black Pearl,Black,All-wheel Drive
+2024 Mercedes-Benz EQS 450 Base 4MATIC,Mercedes-Benz,EQS 450,New,2024,111245.0,c,4.0,Electric,10.0,8-Speed Automatic,Base 4MATIC,Sedan,4.0,White,Black,All-wheel Drive
+2024 Jaguar I-PACE EV400 R-Dynamic HSE,Jaguar,I-PACE,New,2024,77053.0,"d>
+
+    
+    <dt>VIN</dt>
+     SADHM2S12R1631756",4.0,Gasoline,8.0,Automatic,EV400 R-Dynamic HSE,SUV,5.0,Santorini Black,Ebony,All-wheel Drive
+2024 RAM 3500 Laramie Crew Cab 4x4 8' Box,RAM,3500,New,2024,83640.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,6.0,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,Red,Black,Four-wheel Drive
+2024 Hyundai IONIQ 5 SEL,Hyundai,IONIQ 5,New,2024,46246.0,c,4.0,Electric,7.0,1-Speed Automatic,SEL,SUV,4.0,Cyber Gray,Gray,All-wheel Drive
+2024 Toyota RAV4 Prime XSE,Toyota,RAV4 Prime,New,2024,50209.0,16V PDI DOHC Hybrid,4.0,Hybrid,0.0,Automatic CVT,XSE,SUV,4.0,Silver Sky Metallic,Black,All-wheel Drive
+2024 RAM 2500 Big Horn,RAM,2500,New,2024,69720.0,16V MPFI OHV,8.0,Gasoline,0.0,8-Speed Automatic,Big Horn,Pickup Truck,4.0,Diamond Black,Black,Four-wheel Drive
+2024 Chevrolet Silverado 1500 RST,Chevrolet,Silverado 1500,New,2024,88478.0,16V GDI OHV,8.0,Gasoline,2.0,Automatic,RST,Pickup Truck,4.0,Summit White,Jet Black,Four-wheel Drive
+2024 Hyundai Kona Limited,Hyundai,Kona,New,2024,35389.0,16V GDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic,Limited,SUV,4.0,Cyber Gray Metallic,Gray,All-wheel Drive
+2024 Hyundai Tucson Hybrid N Line,Hyundai,Tucson Hybrid,New,2024,36600.0,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4.0,Hybrid,12.0,Automatic,N Line,SUV,4.0,Black Pearl,Black w/Red Accents,All-wheel Drive
+2023 Jeep Grand Wagoneer Series II,Jeep,Grand Wagoneer,New,2023,110150.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,650.0,8-Speed Automatic,Series II,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive
+2024 Jeep Grand Cherokee L Overland,Jeep,Grand Cherokee L,New,2024,67105.0,"ar 3.6L V-6 DOHC, VVT variable valve control, regular unl",6.0,Gasoline,3.0,Automatic,Overland,SUV,4.0,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive
+2024 Hyundai Tucson Hybrid N Line,Hyundai,Tucson Hybrid,New,2024,36600.0,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4.0,Hybrid,10.0,Automatic,N Line,SUV,4.0,Titan Gray,Black w/Red Accents,All-wheel Drive
+2024 BMW i4 Gran Coupe xDrive40,BMW,i4 Gran Coupe,New,2024,72435.0,c,4.0,Electric,5.0,1-Speed Automatic,xDrive40,Hatchback,4.0,White,Tacora Red,All-wheel Drive
+2024 Mazda CX-90 PHEV Preferred,Mazda,CX-90 PHEV,New,2024,50955.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,0.0,Automatic,Preferred,SUV,4.0,Machine,Black,All-wheel Drive
+2024 Hyundai Santa Cruz 2.5T NIGHT,Hyundai,Santa Cruz,New,2024,40434.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,2.5T NIGHT,Pickup Truck,4.0,Hampton Gray,Black,All-wheel Drive
+2024 Kia Sportage EX,Kia,Sportage,New,2024,30740.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,EX,SUV,4.0,Black,Black,Front-wheel Drive
+2024 Mercedes-Benz Sprinter 2500 Crew 144 WB,Mercedes-Benz,Sprinter 2500,New,2024,66902.0,"diesel direct injection, DOHC, intercooled turbo, diesel,",4.0,Diesel,10.0,Automatic,Crew 144 WB,Cargo Van,3.0,Gray,Black,Rear-wheel Drive
+2024 Hyundai IONIQ 5 Limited,Hyundai,IONIQ 5,New,2024,59255.0,c,4.0,Electric,10.0,1-Speed Automatic,Limited,SUV,4.0,Black,Gray,All-wheel Drive
+2024 Cadillac LYRIQ Sport w/1SJ,Cadillac,LYRIQ,New,2024,75090.0,c Motor,4.0,Electric,9.0,Automatic,Sport w/1SJ,SUV,4.0,Celestial Metallic,Noir w/Santorini Blue Accents,Rear-wheel Drive
+2024 Chevrolet Silverado 1500 Custom Trail Boss,Chevrolet,Silverado 1500,New,2024,54190.0,16V GDI OHV,8.0,Gasoline,5.0,10-Speed Automatic,Custom Trail Boss,Pickup Truck,4.0,Dark Ash Metallic,Black,Four-wheel Drive
+2024 GMC Sierra 2500 Pro,GMC,Sierra 2500,New,2024,47763.0,16V GDI OHV,8.0,Gasoline,0.0,10-Speed Automatic,Pro,Pickup Truck,2.0,Summit White,Jet Black,Rear-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,68600.0,24V DDI OHV Turbo Diesel,6.0,Diesel,0.0,6-Speed Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black / Diesel Gray,Four-wheel Drive
+2023 Hyundai IONIQ 6 SE,Hyundai,IONIQ 6,New,2023,53820.0,c ZEV 320hp,4.0,Electric,129.0,Automatic,SE,Sedan,4.0,Gravity Gold Matte,Gray,All-wheel Drive
+2024 Mercedes-Benz GLE 450 4MATIC,Mercedes-Benz,GLE 450,New,2024,74290.0,24V GDI DOHC Turbo,6.0,Gasoline,6.0,9-Speed Automatic,4MATIC,SUV,4.0,Polar White,Black,All-wheel Drive
+2024 Jeep Compass Latitude Lux,Jeep,Compass,New,2024,33668.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,8-Speed Automatic,Latitude Lux,SUV,4.0,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+2024 Jeep Wagoneer Series III,Jeep,Wagoneer,New,2024,89595.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,1.0,8-Speed Automatic,Series III,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive
+2024 Ford Mustang Mach-E Premium,Ford,Mustang Mach-E,New,2024,55485.0,c,4.0,Electric,3.0,1-Speed Automatic,Premium,SUV,4.0,Star White,Gray,All-wheel Drive
+2024 Dodge Hornet Hornet R/T Eawd,Dodge,Hornet,New,2024,43524.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Eawd,SUV,4.0,8 Ball,Black,All-wheel Drive
+2024 Ford Escape Active,Ford,Escape,New,2024,33071.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,4.0,8-Speed Automatic,Active,SUV,4.0,Oxford White,Space Gray,All-wheel Drive
+2024 Hyundai Santa Cruz 2.5L SE,Hyundai,Santa Cruz,New,2024,30490.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,2.5L SE,Pickup Truck,4.0,Atlas,Gray,All-wheel Drive
+2023 RAM ProMaster 3500 High Roof,RAM,ProMaster 3500,New,2023,61006.0,24V MPFI DOHC,6.0,Gasoline,5.0,9-Speed Automatic,High Roof,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive
+2024 Hyundai Santa Cruz 2.5T Limited,Hyundai,Santa Cruz,New,2024,43684.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,2.5T Limited,Pickup Truck,4.0,Phantom Black,Black,All-wheel Drive
+2024 Chrysler Voyager LX,Chrysler,Voyager,New,2024,38954.0,24V MPFI DOHC,6.0,Gasoline,8.0,9-Speed Automatic,LX,Passenger Van,4.0,Bright White Clearcoat,Black,Front-wheel Drive
+2024 GMC Sierra 1500 SLT,GMC,Sierra 1500,New,2024,59466.0,16V GDI OHV,8.0,Gasoline,0.0,10-Speed Automatic,SLT,Pickup Truck,4.0,Volcanic Red,Jet Black,Four-wheel Drive
+2023 Ford Transit Connect XLT,Ford,Transit Connect,New,2023,38036.0,"gasoline direct injection, DOHC, iVCT variable valve cont",4.0,Gasoline,4.0,8-Speed Automatic,XLT,Cargo Van,4.0,Frozen White,Ebony,Front-wheel Drive
+2024 Toyota Tundra Hybrid Limited,Toyota,Tundra Hybrid,New,2024,60573.0,"MAX 3.4L V-6 port/direct injection, DOHC, variable valve",6.0,Hybrid,1.0,10-Speed Automatic,Limited,Pickup Truck,4.0,Magnetic Gray Metallic,Boulder,Four-wheel Drive
+2024 RAM 2500 Tradesman,RAM,2500,New,2024,59620.0,16V MPFI OHV,8.0,Gasoline,0.0,Automatic,Tradesman,Pickup Truck,4.0,Diamond Black,Black,Four-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic,Latitude,SUV,4.0,Silver Zynith,Black,Four-wheel Drive
+2024 Hyundai IONIQ 5 SEL,Hyundai,IONIQ 5,New,2024,42295.0,c,4.0,Electric,0.0,Automatic,SEL,SUV,4.0,Atlas,Gray,Rear-wheel Drive
+2024 Jeep Compass Trailhawk,Jeep,Compass,New,2024,41230.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,9.0,Automatic,Trailhawk,SUV,4.0,Sting-Gray Clearcoat,Ruby Red/Black,Four-wheel Drive
+2023 Jeep Gladiator Rubicon,Jeep,Gladiator,New,2023,54210.0,24V MPFI DOHC,6.0,Gasoline,0.0,8-Speed Automatic,Rubicon,Pickup Truck,4.0,Sarge Green Clearcoat,Black,Four-wheel Drive
+2024 Hyundai IONIQ 5 SEL,Hyundai,IONIQ 5,New,2024,44565.0,c,4.0,Electric,7.0,1-Speed Automatic,SEL,SUV,4.0,Gold,Gray,All-wheel Drive
+2024 Hyundai Kona SEL,Hyundai,Kona,New,2024,29111.0,16V MPFI DOHC,4.0,Gasoline,11.0,Automatic CVT,SEL,SUV,4.0,Mirage,Gray,Front-wheel Drive
+2024 GMC Sierra 2500 Denali Ultimate,GMC,Sierra 2500,New,2024,96860.0,32V DDI OHV Turbo Diesel,8.0,Diesel,0.0,10-Speed Automatic,Denali Ultimate,Pickup Truck,4.0,White Frost Tri-Coat,Alpine Umber,Four-wheel Drive
+2024 Kia Sportage SX,Kia,Sportage,New,2024,34635.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,SX,SUV,4.0,White,Black,Front-wheel Drive
+2024 Ford Maverick Lariat,Ford,Maverick,New,2024,41045.0,16V GDI DOHC Turbo,4.0,Gasoline,4.0,8-Speed Automatic,Lariat,Pickup Truck,4.0,Cactus Green / Gray,Black,All-wheel Drive
+2024 Jeep Wagoneer Series II,Jeep,Wagoneer,New,2024,79487.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,18.0,8-Speed Automatic,Series II,SUV,4.0,Riverrock Green,Black,Four-wheel Drive
+2024 Volkswagen Jetta 1.4T S,Volkswagen,Jetta,New,2024,23160.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,13.0,8-Speed Automatic with Tiptronic,1.4T S,Sedan,4.0,Pure White,Titan Black,Front-wheel Drive
+2024 Jeep Wagoneer L Base,Jeep,Wagoneer L,New,2024,74366.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,4.0,8-Speed Automatic,Base,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive
+2024 Hyundai Tucson Hybrid Limited,Hyundai,Tucson Hybrid,New,2024,40979.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,12.0,6-Speed Automatic,Limited,SUV,4.0,Amazon Gray,Black,All-wheel Drive
+2024 Ford Edge SE,Ford,Edge,New,2024,39025.0,"t 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,5.0,Automatic,SE,SUV,4.0,Carbonized Gray Metallic,Ebony,All-wheel Drive
+2024 Hyundai IONIQ 5 SEL,Hyundai,IONIQ 5,New,2024,45269.0,c,4.0,Electric,4.0,1-Speed Automatic,SEL,SUV,4.0,Teal,Gray,All-wheel Drive
+2024 Jeep Wagoneer L Series II,Jeep,Wagoneer L,New,2024,81160.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,4.0,8-Speed Automatic,Series II,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive
+2024 Ford Edge SE,Ford,Edge,New,2024,47229.5,16V GDI DOHC Turbo,4.0,Gasoline,1342.0,8-Speed Automatic,SE,SUV,4.0,Metallic,Ebony,All-wheel Drive
+2024 Nissan Versa 1.6 SV,Nissan,Versa,New,2024,21195.0,"4 DOHC, variable valve control, regular unleaded, engine",4.0,Gasoline,0.0,CVT,1.6 SV,Sedan,4.0,Aspen White Tricoat,Graphite,Front-wheel Drive
+2024 Jeep Grand Cherokee 4xe Base,Jeep,Grand Cherokee 4xe,New,2024,63440.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,Base,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive
+2024 Hyundai Kona Limited,Hyundai,Kona,New,2024,33969.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Limited,SUV,4.0,Red Metallic,Gray,Front-wheel Drive
+2024 Ford Edge SEL,Ford,Edge,New,2024,38598.0,"t 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,10.0,Automatic,SEL,SUV,4.0,Carbonized Gray Metallic,Dune,All-wheel Drive
+2024 GMC Sierra 1500 Denali Ultimate,GMC,Sierra 1500,New,2024,84405.0,16V GDI OHV,8.0,Gasoline,12.0,10-Speed Automatic,Denali Ultimate,Pickup Truck,4.0,White Frost Tri-Coat,Alpine Umber,Four-wheel Drive
+2024 Jeep Grand Cherokee Limited,Jeep,Grand Cherokee,New,2024,52810.0,24V MPFI DOHC,6.0,Gasoline,5.0,8-Speed Automatic,Limited,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive
+2024 Chevrolet Silverado 1500 LT Trail Boss,Chevrolet,Silverado 1500,New,2024,63145.0,24V DDI DOHC Turbo Diesel,6.0,Diesel,5.0,10-Speed Automatic,LT Trail Boss,Pickup Truck,4.0,Slate Gray Metallic,Black,Four-wheel Drive
+2024 GMC Terrain AT4,GMC,Terrain,New,2024,34940.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,9-Speed Automatic,AT4,SUV,4.0,Ebony Twilight Metallic,Jet Black,All-wheel Drive
+2024 Dodge Hornet GT AWD,Dodge,Hornet,New,2024,37498.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,12.0,Automatic,GT AWD,SUV,4.0,8 Ball,Black,All-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,58950.0,24V DDI OHV Turbo Diesel,6.0,Diesel,12.0,6-Speed Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Volkswagen Taos 1.5T SE,Volkswagen,Taos,New,2024,32751.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,51.0,7-Speed DSG Automatic with Tiptronic,1.5T SE,SUV,4.0,Deep Black Pearl,Black,All-wheel Drive
+2023 Dodge Charger SXT,Dodge,Charger,New,2023,41890.0,24V MPFI DOHC,6.0,Gasoline,18.0,8-Speed Automatic,SXT,Sedan,4.0,Silver,Black,All-wheel Drive
+2024 Jeep Compass Trailhawk,Jeep,Compass,New,2024,38000.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,10.0,Automatic,Trailhawk,SUV,4.0,Bright White Clearcoat,Ruby Red/Black,Four-wheel Drive
+2023 Ford Transit-350 Base,Ford,Transit-350,New,2023,57000.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,5581.0,10-Speed Automatic,Base,Cargo Van,3.0,White,Gray,Rear-wheel Drive
+2024 Jeep Grand Cherokee L Laredo,Jeep,Grand Cherokee L,New,2024,48201.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Laredo,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive
+2024 Audi Q5 e 55 Premium Plus,Audi,Q5 e,New,2024,73360.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,12.0,7-Speed Automatic S tronic,55 Premium Plus,SUV,4.0,Glacier White,Black,All-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,47340.0,16V MPFI OHV,8.0,Gasoline,33.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive
+2024 RAM 3500 Tradesman Crew Cab 4x4 8' Box,RAM,3500,New,2024,64111.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,6.0,Automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,Black,Black Interior Color,Four-wheel Drive
+2024 Kia Sorento LX,Kia,Sorento,New,2024,33590.0,16V PDI DOHC,4.0,Gasoline,12.0,8-Speed Automatic,LX,SUV,4.0,Ebony Black,Black,Front-wheel Drive
+2024 INFINITI QX50 LUXE,INFINITI,QX50,New,2024,46855.0,"o 2L I-4 port/direct injection, DOHC, variable valve cont",4.0,Gasoline,11.0,Variable,LUXE,SUV,4.0,Radiant White,Pebble Gray,Front-wheel Drive
+2024 Jeep Grand Cherokee L Limited,Jeep,Grand Cherokee L,New,2024,58779.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Limited,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive
+2024 Subaru Outback Premium,Subaru,Outback,New,2024,32490.0,16V GDI DOHC,4.0,Gasoline,8.0,Automatic CVT,Premium,SUV,4.0,Crystal White Pearl,Black,All-wheel Drive
+2024 Ford Edge Titanium,Ford,Edge,New,2024,45995.0,"t 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,4723.0,8-Speed Automatic,Titanium,SUV,4.0,Agate Black Metallic,Ebony,All-wheel Drive
+2024 Jeep Wagoneer Series II,Jeep,Wagoneer,New,2024,73999.0,16V GDI DOHC Turbo,6.0,Gasoline,59.0,8-Speed Automatic,Series II,SUV,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Nissan Pathfinder SL 4WD,Nissan,Pathfinder,New,2024,42155.0,"6 gasoline direct injection, DOHC, variable valve control",6.0,Gasoline,6.0,Automatic,SL 4WD,SUV,4.0,Deep Ocean Blue Pearl,Charcoal,Four-wheel Drive
+2023 Ford Transit-350 ,Ford,Transit-350,New,2023,54525.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,0.0,10-Speed Automatic,,Cargo Van,3.0,Oxford White,Dark Palazzo Gray,Rear-wheel Drive
+2024 Jeep Grand Cherokee Laredo,Jeep,Grand Cherokee,New,2024,47030.0,OHV,6.0,Gasoline,5.0,8-Speed Automatic,Laredo,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive
+2024 Jeep Grand Cherokee Laredo,Jeep,Grand Cherokee,New,2024,42425.0,OHV,6.0,Gasoline,5.0,8-Speed Automatic,Laredo,SUV,4.0,Silver Zynith,Black,Four-wheel Drive
+2024 Dodge Hornet GT Plus,Dodge,Hornet,New,2024,42436.0,16V GDI DOHC Turbo,4.0,Gasoline,18.0,9-Speed Automatic,GT Plus,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Jeep Grand Cherokee Laredo,Jeep,Grand Cherokee,New,2024,47229.5,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Laredo,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive
+2024 Jeep Grand Cherokee L Limited,Jeep,Grand Cherokee L,New,2024,56015.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,8.0,Automatic,Limited,SUV,4.0,Baltic Gray Metallic Clearcoat,Wicker Beige/Global Black,Four-wheel Drive
+2024 BMW 530 i,BMW,530,New,2024,47229.5,16V GDI DOHC Turbo,4.0,Gasoline,5.0,8-Speed Automatic,i,Sedan,4.0,Mineral White Metallic,Espresso,Rear-wheel Drive
+2024 Acura MDX Base,Acura,MDX,New,2024,52350.0,24V GDI SOHC,6.0,Gasoline,16.0,10-Speed Automatic,Base,SUV,4.0,Silver,Black,All-wheel Drive
+2024 Kia EV6 Wind,Kia,EV6,New,2024,41991.0,c,4.0,Electric,13.0,Automatic,Wind,SUV,4.0,Aurora Black Pearl,Black,All-wheel Drive
+2024 Honda HR-V LX,Honda,HR-V,New,2024,25950.0,"gasoline direct injection, DOHC, i-VTEC variable valve co",4.0,Gasoline,14.0,Automatic,LX,SUV,4.0,Modern Steel Metallic,Nh-797m/Black,Front-wheel Drive
+2024 Honda Passport TrailSport,Honda,Passport,New,2024,46350.0,24V GDI SOHC,6.0,Gasoline,0.0,9-Speed Automatic,TrailSport,SUV,4.0,Sky,Black,All-wheel Drive
+2024 Honda HR-V LX,Honda,HR-V,New,2024,27450.0,"gasoline direct injection, DOHC, i-VTEC variable valve co",4.0,Gasoline,5.0,Automatic,LX,SUV,4.0,Deep Ocean Pearl,Nh-731p/Black,All-wheel Drive
+2024 Kia Sportage EX,Kia,Sportage,New,2024,33375.0,16V PDI DOHC,4.0,Gasoline,148.0,8-Speed Automatic,EX,SUV,4.0,Ebony Black,Gray,All-wheel Drive
+2024 Kia Sportage X-Pro Prestige,Kia,Sportage,New,2024,39935.0,16V PDI DOHC,4.0,Gasoline,12.0,8-Speed Automatic,X-Pro Prestige,SUV,4.0,Glacier White Pearl,Black,All-wheel Drive
+2024 Kia Sportage X-Line,Kia,Sportage,New,2024,35435.0,16V PDI DOHC,4.0,Gasoline,16.0,8-Speed Automatic,X-Line,SUV,4.0,Gravity Gray,Black,All-wheel Drive
+2024 Jeep Grand Cherokee 4xe Base,Jeep,Grand Cherokee 4xe,New,2024,56119.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,20.0,8-Speed Automatic,Base,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive
+2024 Dodge Hornet GT,Dodge,Hornet,New,2024,36810.0,16V GDI DOHC Turbo,4.0,Gasoline,15.0,9-Speed Automatic,GT,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Dodge Hornet GT AWD,Dodge,Hornet,New,2024,35585.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,0.0,Automatic,GT AWD,SUV,4.0,Blue Steele,Black,All-wheel Drive
+2024 Hyundai Santa Cruz 2.5T NIGHT,Hyundai,Santa Cruz,New,2024,40375.0,16V PDI DOHC Turbo,4.0,Gasoline,1.0,8-Speed Automatic with Auto-Shift,2.5T NIGHT,Pickup Truck,4.0,Hampton Gray,Black,All-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,35835.0,16V GDI DOHC Turbo,4.0,Gasoline,14.0,8-Speed Automatic,Latitude,SUV,4.0,White,Black,Four-wheel Drive
+2024 Hyundai Tucson Hybrid Limited,Hyundai,Tucson Hybrid,New,2024,41720.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,Limited,SUV,4.0,Amazon Gray,Gray,All-wheel Drive
+2024 Hyundai Tucson Hybrid Limited,Hyundai,Tucson Hybrid,New,2024,41720.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,Limited,SUV,4.0,Deep Sea,Gray,All-wheel Drive
+2024 Jeep Grand Cherokee 4xe Base,Jeep,Grand Cherokee 4xe,New,2024,62255.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,26.0,8-Speed Automatic,Base,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive
+2024 Audi A5 Sportback S line Premium Plus,Audi,A5 Sportback,New,2024,57835.0,16V GDI DOHC Turbo,4.0,Gasoline,12.0,7-Speed Automatic with Auto-Shift,S line Premium Plus,Hatchback,4.0,Mythos Black Metallic,Okapi Brown,All-wheel Drive
+2024 Jeep Grand Wagoneer Series III,Jeep,Grand Wagoneer,New,2024,108537.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,4501.0,8-Speed Automatic,Series III,SUV,4.0,Bright White Clearcoat,Tupelo,Four-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,63609.0,24V DDI OHV Turbo Diesel,6.0,Diesel,13.0,Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Ford Transit-250 Base,Ford,Transit-250,New,2024,64025.0,"6 port/direct injection, DOHC, variable valve control, re",6.0,Gasoline,0.0,Automatic,Base,Cargo Van,3.0,Oxford White,Dk Palazzo Gry Clth Front,All-wheel Drive
+2024 RAM 3500 Laramie,RAM,3500,New,2024,86420.0,24V DDI OHV Turbo Diesel,6.0,Diesel,10.0,Automatic,Laramie,Pickup Truck,4.0,Pearl White,Black,Four-wheel Drive
+2024 RAM 2500 Big Horn,RAM,2500,New,2024,77525.0,16V MPFI OHV,8.0,Gasoline,0.0,8-Speed Automatic,Big Horn,Pickup Truck,4.0,Granite Crystal Clearcoat Metallic,Black,Four-wheel Drive
+2024 Dodge Hornet GT,Dodge,Hornet,New,2024,36195.0,16V GDI DOHC Turbo,4.0,Gasoline,5.0,9-Speed Automatic,GT,SUV,4.0,Blue Steel,Black,All-wheel Drive
+2024 Kia Sportage X-Line,Kia,Sportage,New,2024,35040.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,X-Line,SUV,4.0,Black,Black,All-wheel Drive
+2024 Jeep Wagoneer Base,Jeep,Wagoneer,New,2024,64434.0,rbo Regular Unleaded I-6 3.0 L/183,6.0,Gasoline,20.0,Automatic,Base,SUV,4.0,Diamond Black Crystal Pearlcoat,Black,Four-wheel Drive
+2024 RAM 3500 Big Horn,RAM,3500,New,2024,67422.0,24V DDI OHV Turbo Diesel,6.0,Diesel,27.0,6-Speed Automatic,Big Horn,Pickup Truck,4.0,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+2024 Cadillac LYRIQ Luxury,Cadillac,LYRIQ,New,2024,60310.0,c,4.0,Electric,4.0,1-Speed Automatic,Luxury,SUV,4.0,Crystal White Tri-Coat,Black,All-wheel Drive
+2024 Jeep Grand Cherokee 4xe Base,Jeep,Grand Cherokee 4xe,New,2024,61179.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,26.0,8-Speed Automatic,Base,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+2023 Jeep Grand Cherokee 4xe Trailhawk,Jeep,Grand Cherokee 4xe,New,2023,67650.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,555.0,8-Speed Automatic,Trailhawk,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive
+2024 Mercedes-Benz Sprinter 2500 144 WB Standard Roof Crew,Mercedes-Benz,Sprinter 2500,New,2024,61276.0,16V DDI DOHC Turbo Diesel,4.0,Diesel,10.0,9-Speed Automatic,144 WB Standard Roof Crew,Cargo Van,3.0,Arctic White,Black,Rear-wheel Drive
+2024 BMW X7 xDrive40i,BMW,X7,New,2024,94895.0,24V GDI DOHC Turbo,6.0,Gasoline,1946.0,8-Speed Automatic,xDrive40i,SUV,4.0,Tanzanite Blue II Metallic,Silverstone,All-wheel Drive
+2024 Kia Seltos SX,Kia,Seltos,New,2024,31490.0,16V GDI DOHC Turbo,4.0,Gasoline,350.0,8-Speed Automatic,SX,SUV,4.0,Gravity Gray,Black,All-wheel Drive
+2024 Ford Expedition XLT,Ford,Expedition,New,2024,70115.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,8.0,10-Speed Automatic,XLT,SUV,4.0,Black,Black Onyx,Four-wheel Drive
+2024 Jeep Wagoneer L Series II,Jeep,Wagoneer L,New,2024,77522.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,10.0,8-Speed Automatic,Series II,SUV,4.0,Diamond Black,Black,Four-wheel Drive
+2024 Jeep Grand Cherokee 4xe Overland,Jeep,Grand Cherokee 4xe,New,2024,78655.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,8.0,8-Speed Automatic,Overland,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive
+2024 Nissan Kicks SR,Nissan,Kicks,New,2024,24105.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SR,SUV,4.0,Electric Blue Metallic,Charcoal,Front-wheel Drive
+2024 Buick Envista Sport Touring,Buick,Envista,New,2024,28000.0,12V GDI DOHC Turbo,3.0,Gasoline,5.0,6-Speed Automatic,Sport Touring,SUV,4.0,Sunrise Red Metallic,Ebony,Front-wheel Drive
+2024 Kia Sportage SX,Kia,Sportage,New,2024,33390.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SX,SUV,4.0,Ebony Black,Black,Front-wheel Drive
+2024 Jeep Grand Cherokee 4xe Trailhawk,Jeep,Grand Cherokee 4xe,New,2024,60884.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,2.0,8-Speed Automatic,Trailhawk,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive
+2024 Dodge Hornet GT AWD,Dodge,Hornet,New,2024,40880.0,"ne 2L I-4 gasoline direct injection, DOHC, variable valve",4.0,Gasoline,24.0,Automatic,GT AWD,SUV,4.0,Acapulco Gold,Black,All-wheel Drive
+2024 Dodge Hornet GT,Dodge,Hornet,New,2024,39555.0,16V GDI DOHC Turbo,4.0,Gasoline,1.0,9-Speed Automatic,GT,SUV,4.0,HOT TAMALE,Black,All-wheel Drive
+2024 Ford Bronco Sport Free Wheeling,Ford,Bronco Sport,New,2024,35077.0,"t 1.5L I-3 port/direct injection, DOHC, Ti-VCT variable v",3.0,Gasoline,14.0,Automatic,Free Wheeling,SUV,4.0,Shadow Black,Ebony,Four-wheel Drive
+2024 Cadillac XT5 Luxury,Cadillac,XT5,New,2024,47290.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,3.0,Automatic,Luxury,SUV,4.0,Argent Silver Metallic,Jet Black,All-wheel Drive
+2024 Jeep Grand Cherokee Limited,Jeep,Grand Cherokee,New,2024,44759.0,24V MPFI DOHC,6.0,Gasoline,6.0,8-Speed Automatic,Limited,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive
+2025 Chevrolet Trax ACTIV,Chevrolet,Trax,New,2025,26190.0,der,6.0,Gasoline,1.0,Automatic,ACTIV,SUV,4.0,Summit White,Black,Front-wheel Drive
+2024 Mercedes-Benz GLA 250 Base 4MATIC,Mercedes-Benz,GLA 250,New,2024,53710.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,8.0,8 Speed Dual Clutch,Base 4MATIC,SUV,4.0,White,Black,All-wheel Drive
+2024 Dodge Hornet R/T,Dodge,Hornet,New,2024,47229.5,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,21.0,6-Speed Automatic,R/T,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Ford Expedition King Ranch,Ford,Expedition,New,2024,86490.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,6.0,10-Speed Automatic,King Ranch,SUV,4.0,Black,Java,Four-wheel Drive
+2024 RAM 3500 Laramie,RAM,3500,New,2024,84701.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,15.0,Automatic,Laramie,Pickup Truck,4.0,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive
+2024 BMW X7 xDrive40i,BMW,X7,New,2024,88695.0,24V GDI DOHC Turbo,6.0,Gasoline,9.0,8-Speed Automatic,xDrive40i,SUV,4.0,Sparkling,Black,All-wheel Drive
+2024 Kia Sportage X-Line,Kia,Sportage,New,2024,33573.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,X-Line,SUV,4.0,Gravity Gray,Black,All-wheel Drive
+2024 Mercedes-Benz Sprinter 2500 144 WB Standard Roof Passenger,Mercedes-Benz,Sprinter 2500,New,2024,69017.0,16V DDI DOHC Turbo Diesel,4.0,Diesel,10.0,9-Speed Automatic,144 WB Standard Roof Passenger,Passenger Van,3.0,Jet Black,Black,Rear-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,60925.0,24V DDI OHV Turbo Diesel,6.0,Diesel,10.0,Automatic,Tradesman,Pickup Truck,4.0,Delmonico Red Pearlcoat,Black,Four-wheel Drive
+2024 Cadillac LYRIQ Luxury,Cadillac,LYRIQ,New,2024,73110.0,c,4.0,Electric,19.0,1-Speed Automatic,Luxury,SUV,4.0,Emerald,Gray,All-wheel Drive
+2024 Kia Telluride SX X-Pro,Kia,Telluride,New,2024,51965.0,"II 3.8L V-6 gasoline direct injection, DOHC, D-CVVT varia",6.0,Gasoline,8.0,Automatic,SX X-Pro,SUV,4.0,Gray,Black,All-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,63670.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,22.0,Automatic,Tradesman,Pickup Truck,4.0,Flame Red Clearcoat,Diesel Gray/Black,Four-wheel Drive
+2024 Ford Bronco Sport Big Bend,Ford,Bronco Sport,New,2024,35010.0,12V PDI DOHC Turbo,3.0,Gasoline,10.0,8-Speed Automatic,Big Bend,SUV,4.0,Hot Pepper Red Metallic Tinted Clearcoat,Ebony,Four-wheel Drive
+2024 Mazda CX-90 3.3 Turbo Premium Plus,Mazda,CX-90,New,2024,49900.0,24V GDI DOHC Turbo,6.0,Gasoline,0.0,8-Speed Automatic,3.3 Turbo Premium Plus,SUV,4.0,Machine Gray Metallic,Black,All-wheel Drive
+2024 Mercedes-Benz GLE 450 4MATIC,Mercedes-Benz,GLE 450,New,2024,75925.0,24V GDI DOHC Turbo,6.0,Gasoline,7.0,9-Speed Automatic,4MATIC,SUV,4.0,Polar White,Black,All-wheel Drive
+2024 RAM 3500 Laramie,RAM,3500,New,2024,93303.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,10.0,Automatic,Laramie,Pickup Truck,4.0,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive
+2024 Mazda CX-90 PHEV Premium Plus,Mazda,CX-90 PHEV,New,2024,58049.0,DOHC 16V LEV3-SULEV30,4.0,PHEV Hybrid Fuel,4.0,Automatic,Premium Plus,SUV,4.0,Platinum,Black,All-wheel Drive
+2024 Jeep Grand Cherokee L Altitude,Jeep,Grand Cherokee L,New,2024,49260.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,10.0,Automatic,Altitude,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive
+2024 Ford Edge SE,Ford,Edge,New,2024,47229.5,16V GDI DOHC Turbo,4.0,Gasoline,5.0,8-Speed Automatic,SE,SUV,4.0,Metallic,Ebony,All-wheel Drive
+2024 Ford Transit-150 Base,Ford,Transit-150,New,2024,52640.0,24V PDI DOHC Flexible Fuel,6.0,E85 Flex Fuel,6.0,10-Speed Automatic,Base,Cargo Van,3.0,Oxford White,Gray,Rear-wheel Drive
+2024 Kia Sportage SX-Prestige,Kia,Sportage,New,2024,38040.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,SX-Prestige,SUV,4.0,Black,Black,All-wheel Drive
+2024 Hyundai Kona Limited,Hyundai,Kona,New,2024,32491.0,16V GDI DOHC Turbo,4.0,Gasoline,10.0,8-Speed Automatic,Limited,SUV,4.0,Abyss Black Pearl,Black,Front-wheel Drive
+2024 Mercedes-Benz GLA 250 Base 4MATIC,Mercedes-Benz,GLA 250,New,2024,51725.0,16V GDI DOHC Turbo,4.0,Gasoline,7.0,8-Speed Automatic with Auto-Shift,Base 4MATIC,SUV,4.0,Midnight Black,Black,All-wheel Drive
+2024 Chevrolet Silverado 1500 LT,Chevrolet,Silverado 1500,New,2024,58720.0,24V DDI DOHC Turbo Diesel,6.0,Diesel,0.0,Automatic,LT,Pickup Truck,4.0,Sterling Gray Metallic,Jet Black,Four-wheel Drive
+2024 Genesis Electrified GV70 Advanced,Genesis,Electrified GV70,New,2024,60490.0,c,4.0,Electric,11.0,1-Speed Automatic,Advanced,SUV,4.0,Vik Black,Black,All-wheel Drive
+2024 BMW i7 M70,BMW,i7,New,2024,195895.0,c,4.0,Electric,0.0,1-Speed Automatic,M70,Sedan,4.0,Gray Metallic,Caramel,All-wheel Drive
+2024 Hyundai Tucson Hybrid SEL Convenience,Hyundai,Tucson Hybrid,New,2024,37215.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,8.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Black Pearl,Gray,All-wheel Drive
+2024 Kia Sportage SX,Kia,Sportage,New,2024,32995.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SX,SUV,4.0,Ebony Black,Black,Front-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,47340.0,16V MPFI OHV,8.0,Gasoline,14.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive
+2024 Mazda CX-90 3.3 Turbo S Premium,Mazda,CX-90,New,2024,54800.0,24V GDI DOHC Turbo,6.0,Gasoline,0.0,8-Speed Automatic,3.3 Turbo S Premium,SUV,4.0,Rhodium White Metallic,White,All-wheel Drive
+2024 Jeep Grand Cherokee 4xe Base,Jeep,Grand Cherokee 4xe,New,2024,49285.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,15.0,8-Speed Automatic,Base,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive
+2024 Dodge Hornet Hornet R/T Plus Eawd,Dodge,Hornet,New,2024,49895.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Plus Eawd,SUV,4.0,Gray Cray,Black,All-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,28860.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,8-Speed Automatic,Latitude,SUV,4.0,Hydro Blue Pearlcoat,Black,Four-wheel Drive
+2024 Jeep Grand Cherokee 4xe Base,Jeep,Grand Cherokee 4xe,New,2024,63440.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,8-Speed Automatic,Base,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive
+2025 Honda CR-V EX-L,Honda,CR-V,New,2025,38305.0,"d>
+
+    
+    <dt>VIN</dt>
+     7FARS4H71SE000866",4.0,Gasoline,0.0,Automatic CVT,EX-L,SUV,4.0,Urban Gray Pearl,Black,All-wheel Drive
+2024 Dodge Durango R/T,Dodge,Durango,New,2024,57486.0,16V MPFI OHV,8.0,Gasoline,10.0,8-Speed Automatic,R/T,SUV,4.0,Destroyer Gray Clearcoat,Black,All-wheel Drive
+2024 Dodge Hornet R/T,Dodge,Hornet,New,2024,40085.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,16.0,6-Speed Automatic,R/T,SUV,4.0,Blue,Black,All-wheel Drive
+2024 Volvo S60 Recharge Plug-In Hybrid T8 Plus Dark Theme,Volvo,S60 Recharge Plug-In Hybrid,New,2024,57545.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,3.0,8-Speed Automatic,T8 Plus Dark Theme,Sedan,4.0,Onyx Black Metallic,Charcoal,All-wheel Drive
+2024 Ford Transit-350 Base,Ford,Transit-350,New,2024,74391.0,"6 port/direct injection, DOHC, variable valve control, re",6.0,Gasoline,85.0,Automatic,Base,Cargo Van,3.0,Oxford White,gray,All-wheel Drive
+2023 Kia Sorento EX,Kia,Sorento,New,2023,44876.0,"4 port/direct injection, DOHC, variable valve control, in",4.0,Gasoline,16.0,Automatic,EX,SUV,4.0,Ebony Black,Black,All-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,64965.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,16.0,Automatic,Tradesman,Pickup Truck,4.0,Granite Crystal Metallic Clearcoat,Diesel Gray/Black,Four-wheel Drive
+2024 Ford Escape Platinum,Ford,Escape,New,2024,38481.0,16V MPFI DOHC Hybrid,4.0,Hybrid,10.0,Automatic,Platinum,SUV,4.0,Agate Black Metallic,Ebony,All-wheel Drive
+2024 RAM 3500 Laramie,RAM,3500,New,2024,77085.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,16.0,Automatic,Laramie,Pickup Truck,4.0,Pearl White,Black,Four-wheel Drive
+2024 Mazda CX-90 PHEV Base,Mazda,CX-90 PHEV,New,2024,58825.0,"TIV-G 2.5L I-4 gasoline direct injection, DOHC, variable",4.0,Gasoline,5.0,8-Speed Automatic,Base,SUV,4.0,Deep Crystal Blue Mica,White,All-wheel Drive
+2024 Nissan Kicks SR,Nissan,Kicks,New,2024,26335.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SR,SUV,4.0,Boulder Gray Metallic,Charcoal,Front-wheel Drive
+2024 Dodge Hornet Hornet R/T Plus Eawd,Dodge,Hornet,New,2024,49720.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Plus Eawd,SUV,4.0,Acapulco Gold,Black,All-wheel Drive
+2024 Chevrolet Silverado 1500 Custom,Chevrolet,Silverado 1500,New,2024,50565.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,8-Speed Automatic,Custom,Pickup Truck,4.0,Black,Jet Black,Four-wheel Drive
+2024 Chevrolet Equinox RS,Chevrolet,Equinox,New,2024,38717.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,6-Speed Automatic,RS,SUV,4.0,Radiant Red,Jet Black,All-wheel Drive
+2024 Cadillac XT6 Luxury FWD,Cadillac,XT6,New,2024,50415.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,9-Speed Automatic,Luxury FWD,SUV,4.0,Crystal White Tri-Coat,Jet Black,Front-wheel Drive
+2024 Ford Transit-250 148 WB Medium Roof Cargo,Ford,Transit-250,New,2024,50486.0,24V PDI DOHC Flexible Fuel,6.0,E85 Flex Fuel,24.0,10-Speed Automatic with Overdrive,148 WB Medium Roof Cargo,Cargo Van,3.0,Oxford White,Dark Palazzo,Rear-wheel Drive
+2024 Kia Sportage X-Pro Prestige,Kia,Sportage,New,2024,40250.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,X-Pro Prestige,SUV,4.0,Black,Black,All-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,47340.0,16V MPFI OHV,8.0,Gasoline,11.0,8-Speed Automatic,Pursuit,SUV,4.0,DB Black Crystal Clearcoat,Black,All-wheel Drive
+2024 Subaru Impreza Sport,Subaru,Impreza,New,2024,29068.0,16V GDI DOHC,4.0,Gasoline,5.0,Automatic CVT,Sport,Hatchback,4.0,Pure Red,Black,All-wheel Drive
+2025 Mazda CX-70 3.3 Turbo S Premium,Mazda,CX-70,New,2025,54620.0,o,6.0,Gasoline,0.0,8-Speed Automatic,3.3 Turbo S Premium,SUV,4.0,41w,Red,All-wheel Drive
+2024 Chrysler Voyager LX,Chrysler,Voyager,New,2024,38954.0,24V MPFI DOHC,6.0,Gasoline,5.0,9-Speed Automatic,LX,Passenger Van,4.0,Bright White Clearcoat,Black,Front-wheel Drive
+2024 Jeep Grand Cherokee Limited,Jeep,Grand Cherokee,New,2024,49842.0,24V MPFI DOHC,6.0,Gasoline,8.0,8-Speed Automatic,Limited,SUV,4.0,Bright White Clearcoat,Beige / Black,Four-wheel Drive
+2024 Nissan Murano SL,Nissan,Murano,New,2024,46510.0,24V MPFI DOHC,6.0,Gasoline,6.0,Automatic CVT,SL,SUV,4.0,Scarlet Ember,Graphite,All-wheel Drive
+2024 Hyundai Tucson Hybrid Limited,Hyundai,Tucson Hybrid,New,2024,40933.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,7.0,6-Speed Automatic,Limited,SUV,4.0,Black Pearl,Gray,All-wheel Drive
+2024 BMW X3 sDrive30i,BMW,X3,New,2024,49395.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,5.0,8-Speed Automatic Sport,sDrive30i,SUV,4.0,Jet Black,Cognac,Rear-wheel Drive
+2024 RAM 2500 Tradesman Regular Cab 4x4 8' Box,RAM,2500,New,2024,53750.0,"4L V-8 VVT variable valve control, regular unleaded, engi",8.0,Gasoline,0.0,Automatic,Tradesman Regular Cab 4x4 8&#39; Box,Pickup Truck,2.0,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive
+2024 Subaru Outback Limited,Subaru,Outback,New,2024,39822.0,16V GDI DOHC,4.0,Gasoline,8.0,Automatic CVT,Limited,SUV,4.0,Crystal White Pearl,Black,All-wheel Drive
+2024 Jeep Wagoneer L Series II,Jeep,Wagoneer L,New,2024,88135.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,21.0,8-Speed Automatic,Series II,SUV,4.0,Velvet Red Pearlcoat,Black,Four-wheel Drive
+2024 Ford Escape ST-Line,Ford,Escape,New,2024,30798.0,12V PDI DOHC Turbo,3.0,Gasoline,8.0,Automatic,ST-Line,SUV,4.0,Agate Black Metallic,Red,Front-wheel Drive
+2023 Volvo C40 Recharge Pure Electric Twin Ultimate,Volvo,C40 Recharge Pure Electric,New,2023,62240.0,c Motor,0.0,Electric,0.0,Automatic,Twin Ultimate,SUV,4.0,Gray,Charcoal,All-wheel Drive
+2023 Jeep Compass Trailhawk,Jeep,Compass,New,2023,38300.0,"gasoline direct injection, DOHC, variable valve control,",4.0,Gasoline,24.0,Automatic,Trailhawk,SUV,4.0,Bright White Clearcoat,Ruby Red/Black,Four-wheel Drive
+2024 Volkswagen Taos 1.5T S,Volkswagen,Taos,New,2024,25311.0,16V GDI DOHC Turbo,4.0,Gasoline,5.0,7-Speed DSGA? Automatic w/ 4MO,1.5T S,SUV,4.0,Pyrite Silver Metallic,Black,All-wheel Drive
+2024 Jeep Grand Cherokee L Laredo,Jeep,Grand Cherokee L,New,2024,49201.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Laredo,SUV,4.0,Metallic,Global Black,Four-wheel Drive
+2024 Volkswagen Taos 1.5T SE,Volkswagen,Taos,New,2024,29386.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4.0,Pure White,Black,All-wheel Drive
+2023 Jeep Wagoneer L Base,Jeep,Wagoneer L,New,2023,72835.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,20.0,8-Speed Automatic,Base,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive
+2024 Volkswagen Taos 1.5T SE,Volkswagen,Taos,New,2024,28994.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4.0,Platinum Gray Metallic,Black,All-wheel Drive
+2024 Dodge Hornet Hornet R/T Plus Eawd,Dodge,Hornet,New,2024,49895.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Plus Eawd,SUV,4.0,Hot Tamale,Black,All-wheel Drive
+2024 Hyundai Tucson Hybrid SEL Convenience,Hyundai,Tucson Hybrid,New,2024,36280.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,241.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Shimmering Silver,Gray,All-wheel Drive
+2024 Ford Expedition Limited,Ford,Expedition,New,2024,80374.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,13.0,10-Speed Automatic,Limited,SUV,4.0,Black,Black Onyx,Four-wheel Drive
+2024 RAM ProMaster 1500 Low Roof,RAM,ProMaster 1500,New,2024,51380.0,24V MPFI DOHC,6.0,Gasoline,10.0,9-Speed Automatic,Low Roof,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive
+2024 Dodge Hornet Hornet R/T Plus Eawd,Dodge,Hornet,New,2024,52180.0,"4 gasoline direct injection, DOHC, Multiair variable valv",4.0,Gasoline,0.0,6-Spd Aisin F21-250 PHEV Auto Trans,Hornet R/T Plus Eawd,SUV,4.0,Blue Steele,Black,All-wheel Drive
+2024 Dodge Hornet GT,Dodge,Hornet,New,2024,47229.5,16V GDI DOHC Turbo,4.0,Gasoline,11.0,9-Speed Automatic,GT,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Volkswagen Taos 1.5T SE,Volkswagen,Taos,New,2024,28998.0,16V GDI DOHC Turbo,4.0,Gasoline,11.0,7-Speed DSGA? Automatic w/ 4MO,1.5T SE,SUV,4.0,Platinum Gray Metallic,Black,All-wheel Drive
+2024 Nissan Kicks SV,Nissan,Kicks,New,2024,24979.0,"4 DOHC, CVTCS variable valve control, regular unleaded, e",4.0,Gasoline,5.0,CVT with Xtronic,SV,SUV,4.0,Scarlet Ember Tintcoat/Super Black,Charcoal,Front-wheel Drive
+2024 Ford Transit-350 148 WB Medium Roof Cargo,Ford,Transit-350,New,2024,52530.0,24V PDI DOHC Flexible Fuel,6.0,E85 Flex Fuel,1.0,8-Speed Automatic,148 WB Medium Roof Cargo,Cargo Van,3.0,White,Black,Rear-wheel Drive
+2024 Hyundai IONIQ 5 SE,Hyundai,IONIQ 5,New,2024,38201.0,c,4.0,Electric,12.0,Automatic,SE,SUV,4.0,Teal,Gray,Rear-wheel Drive
+2023 RAM ProMaster 2500 High Roof,RAM,ProMaster 2500,New,2023,50245.0,"6 DOHC, variable valve control, regular unleaded, engine",6.0,Gasoline,0.0,Automatic,High Roof,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive
+2024 Ford Edge ST-Line,Ford,Edge,New,2024,47229.5,16V GDI DOHC Turbo,4.0,Gasoline,697.0,8-Speed Automatic,ST-Line,SUV,4.0,Star White,Ebony,All-wheel Drive
+2024 Kia EV6 Wind,Kia,EV6,New,2024,41528.0,c,4.0,Electric,13.0,Automatic,Wind,SUV,4.0,Blue,Black,All-wheel Drive
+2024 Jeep Grand Cherokee 4xe Base,Jeep,Grand Cherokee 4xe,New,2024,49082.0,"gasoline direct injection, DOHC, intercooled turbo, premi",4.0,Gasoline,51.0,8-Speed Automatic,Base,SUV,4.0,Bright White Clearcoat,Wicker Beige/Black,Four-wheel Drive
+2024 Subaru Impreza RS,Subaru,Impreza,New,2024,32098.0,16V GDI DOHC,4.0,Gasoline,5.0,Automatic CVT,RS,Hatchback,4.0,Crystal Black Silica,Black,All-wheel Drive
+2024 Jeep Grand Cherokee 4xe Base,Jeep,Grand Cherokee 4xe,New,2024,53791.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,8-Speed Automatic,Base,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+2024 Jeep Grand Cherokee L Laredo,Jeep,Grand Cherokee L,New,2024,49139.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Laredo,SUV,4.0,Velvet Red Pearlcoat,Global Black,Four-wheel Drive
+2024 Ford Expedition XLT,Ford,Expedition,New,2024,72135.0,24V PDI DOHC Twin Turbo,6.0,Gasoline,7.0,10-Speed Automatic,XLT,SUV,4.0,Black,Black Onyx,Four-wheel Drive
+2024 Honda CR-V EX-L,Honda,CR-V,New,2024,37965.0,16V GDI DOHC Turbo,4.0,Gasoline,0.0,Automatic CVT,EX-L,SUV,4.0,Still Night Pearl,Black,All-wheel Drive
+2024 Kia Soul S,Kia,Soul,New,2024,21000.0,"DOHC, D-CVVT variable valve control, regular unleaded, en",4.0,Gasoline,5.0,Automatic,S,Hatchback,4.0,Midnight Sapphire,Black,Front-wheel Drive
+2024 Hyundai Tucson Hybrid SEL Convenience,Hyundai,Tucson Hybrid,New,2024,37335.0,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4.0,Hybrid,1.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Black Pearl,Black,All-wheel Drive
+2024 Kia Sportage X-Line,Kia,Sportage,New,2024,33785.0,16V PDI DOHC,4.0,Gasoline,1.0,8-Speed Automatic,X-Line,SUV,4.0,Red,Black,All-wheel Drive
+2023 Chrysler 300 Touring L,Chrysler,300,New,2023,35994.0,24V MPFI DOHC,6.0,Gasoline,10.0,8-Speed Automatic,Touring L,Sedan,4.0,Gloss Black,Black,Rear-wheel Drive
+2024 GMC Sierra 2500 Pro,GMC,Sierra 2500,New,2024,48268.0,16V GDI OHV,8.0,Gasoline,3.0,10-Speed Automatic,Pro,Pickup Truck,2.0,Summit White,Jet Black,Rear-wheel Drive
+2024 Dodge Hornet R/T Plus,Dodge,Hornet,New,2024,45141.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T Plus,SUV,4.0,Blue Steel,Black,All-wheel Drive
+2024 Volkswagen Taos 1.5T S,Volkswagen,Taos,New,2024,28098.0,"4 gasoline direct injection, DOHC, variable valve control",4.0,Gasoline,66.0,7-Speed DSG Automatic with Tiptronic,1.5T S,SUV,4.0,Deep Black Pearl,Gray/Black,All-wheel Drive
+2024 Nissan Kicks SR,Nissan,Kicks,New,2024,24430.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SR,SUV,4.0,Electric Blue Metallic,Charcoal,Front-wheel Drive
+2024 Nissan Kicks SR,Nissan,Kicks,New,2024,24430.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SR,SUV,4.0,Super Black,Charcoal,Front-wheel Drive
+2024 Nissan Kicks SR,Nissan,Kicks,New,2024,25080.0,16V MPFI DOHC,4.0,Gasoline,12.0,Automatic CVT,SR,SUV,4.0,Aspen White / Super Black,Charcoal,Front-wheel Drive
+2024 Mercedes-Benz AMG C 43 Base 4MATIC,Mercedes-Benz,AMG C 43,New,2024,73960.0,16V PDI DOHC Turbo,4.0,Gasoline,5.0,9-Speed Automatic,Base 4MATIC,Sedan,4.0,Obsidian Black Metallic,Black,All-wheel Drive
+2024 Jeep Grand Cherokee L Laredo,Jeep,Grand Cherokee L,New,2024,46659.0,OHV,6.0,Gasoline,10.0,8-Speed Automatic,Laredo,SUV,4.0,Diamond Black,Global Black,Four-wheel Drive
+2024 Dodge Hornet R/T,Dodge,Hornet,New,2024,43490.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,18.0,6-Speed Automatic,R/T,SUV,4.0,Gray,Black,All-wheel Drive
+2023 Dodge Durango Pursuit,Dodge,Durango,New,2023,47280.0,16V MPFI OHV,8.0,Gasoline,22.0,8-Speed Automatic,Pursuit,SUV,4.0,White Knuckle Clearcoat,Black,All-wheel Drive
+2024 RAM 3500 Laramie Crew Cab 4x4 8' Box,RAM,3500,New,2024,80927.0,"6.7L I-6 diesel direct injection, VVT intercooled turbo,",6.0,Diesel,11.0,Automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4.0,White,Black,Four-wheel Drive
+2024 Chevrolet Equinox 1LT,Chevrolet,Equinox,New,2024,33977.0,16V GDI DOHC Turbo,4.0,Gasoline,6.0,6-Speed Automatic,1LT,SUV,4.0,Summit White,Jet Black,All-wheel Drive
+2024 Kia Sportage X-Line,Kia,Sportage,New,2024,35795.0,16V PDI DOHC,4.0,Gasoline,41.0,8-Speed Automatic,X-Line,SUV,4.0,Wolf Gray,Black,All-wheel Drive
+2024 Ford Maverick XLT,Ford,Maverick,New,2024,36550.0,16V GDI DOHC Turbo,4.0,Gasoline,4.0,8-Speed Automatic,XLT,Pickup Truck,4.0,Carbonized Gray Metallic,Black Onyx,All-wheel Drive
+2024 Hyundai Tucson Hybrid SEL Convenience,Hyundai,Tucson Hybrid,New,2024,37805.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,10.0,6-Speed Automatic,SEL Convenience,SUV,4.0,White Pearl,Gray,All-wheel Drive
+2024 Jeep Wagoneer Series II,Jeep,Wagoneer,New,2024,74625.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,10.0,8-Speed Automatic,Series II,SUV,4.0,Silver,Global Black,Four-wheel Drive
+2024 Kia Sportage X-Line,Kia,Sportage,New,2024,35400.0,16V PDI DOHC,4.0,Gasoline,141.0,8-Speed Automatic,X-Line,SUV,4.0,Jungle Green,Black,All-wheel Drive
+2024 Dodge Hornet R/T Plus,Dodge,Hornet,New,2024,43613.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,R/T Plus,SUV,4.0,Gray,Black,All-wheel Drive
+2024 Jeep Grand Cherokee L Altitude,Jeep,Grand Cherokee L,New,2024,49836.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,7.0,Automatic,Altitude,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive
+2024 Hyundai Kona SE,Hyundai,Kona,New,2024,27555.0,16V MPFI DOHC,4.0,Gasoline,0.0,Automatic CVT,SE,SUV,4.0,Orange Pearl,Black,All-wheel Drive
+2024 Ford Escape Active,Ford,Escape,New,2024,29305.0,12V PDI DOHC Turbo,3.0,Gasoline,10.0,8-Speed Automatic,Active,SUV,4.0,Carbonized Gray Metallic,Ebony,Front-wheel Drive
+2024 Ford Edge SE,Ford,Edge,New,2024,40015.0,16V GDI DOHC Turbo,4.0,Gasoline,2.0,8-Speed Automatic,SE,SUV,4.0,Gray,Ebony,All-wheel Drive
+2024 Kia Sportage SX-Prestige,Kia,Sportage,New,2024,35195.0,16V PDI DOHC,4.0,Gasoline,10.0,8-Speed Automatic,SX-Prestige,SUV,4.0,Ebony Black,Black,Front-wheel Drive
+2024 Kia EV6 Wind,Kia,EV6,New,2024,43439.0,c,4.0,Electric,14.0,Automatic,Wind,SUV,4.0,Aurora Black Pearl,Black,All-wheel Drive
+2024 Ford Bronco Sport Outer Banks,Ford,Bronco Sport,New,2024,35615.0,oBoost,3.0,Gasoline,0.0,8-Speed Automatic,Outer Banks,SUV,4.0,Cactus Gray,Navy Pier,Four-wheel Drive
+2024 Kia Forte LXS,Kia,Forte,New,2024,21070.0,16V MPFI DOHC,4.0,Gasoline,8.0,Automatic CVT,LXS,Sedan,4.0,Steel Gray,Black,Front-wheel Drive
+2024 Nissan Versa S,Nissan,Versa,New,2024,20842.0,16V MPFI DOHC,4.0,Gasoline,4.0,Automatic CVT,S,Sedan,4.0,Gun Metallic,Charcoal,Front-wheel Drive
+2024 Ford Explorer XLT,Ford,Explorer,New,2024,43685.0,16V GDI DOHC Turbo,4.0,Gasoline,8.0,10-Speed Automatic,XLT,SUV,4.0,Carbonized Gray Metallic,Ebony,Rear-wheel Drive
+2024 Jeep Wagoneer L Base,Jeep,Wagoneer L,New,2024,66770.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,20.0,8-Speed Automatic,Base,SUV,4.0,Silver Zynith,Global Black,Four-wheel Drive
+2024 RAM ProMaster 1500 Low Roof,RAM,ProMaster 1500,New,2024,48822.0,24V MPFI DOHC,6.0,Gasoline,12.0,9-Speed Automatic,Low Roof,Cargo Van,3.0,Bright White Clearcoat,Black,Front-wheel Drive
+2024 Hyundai Tucson Hybrid SEL Convenience,Hyundai,Tucson Hybrid,New,2024,37220.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Deep Sea,Gray,All-wheel Drive
+2024 Jeep Grand Cherokee 4xe Trailhawk,Jeep,Grand Cherokee 4xe,New,2024,67164.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,29.0,8-Speed Automatic,Trailhawk,SUV,4.0,Metallic,Global Black,Four-wheel Drive
+2024 Hyundai Tucson Hybrid SEL Convenience,Hyundai,Tucson Hybrid,New,2024,37309.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,5.0,6-Speed Automatic,SEL Convenience,SUV,4.0,Amazon Gray,Black,All-wheel Drive
+2024 Jeep Grand Cherokee 4xe Overland,Jeep,Grand Cherokee 4xe,New,2024,77314.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,6.0,8-Speed Automatic,Overland,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive
+2024 Jeep Grand Cherokee 4xe Overland,Jeep,Grand Cherokee 4xe,New,2024,70312.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,24.0,8-Speed Automatic,Overland,SUV,4.0,Midnight Sky,Global Black,Four-wheel Drive
+2024 Jeep Compass Latitude,Jeep,Compass,New,2024,36331.0,16V GDI DOHC Turbo,4.0,Gasoline,17.0,8-Speed Automatic,Latitude,SUV,4.0,Silver Zynith,Black,Four-wheel Drive
+2024 Jeep Grand Cherokee 4xe Base,Jeep,Grand Cherokee 4xe,New,2024,62343.0,16V GDI DOHC Turbo Hybrid,4.0,Hybrid,11.0,8-Speed Automatic,Base,SUV,4.0,Bright White Clearcoat,Global Black,Four-wheel Drive
+2024 RAM 3500 Tradesman,RAM,3500,New,2024,67446.0,oled Turbo Diesel I-6 6.7 L/408,6.0,Diesel,296.0,Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive
+2024 Hyundai Tucson Hybrid Limited,Hyundai,Tucson Hybrid,New,2024,40835.0,"ream 1.6L I-4 gasoline direct injection, DOHC, CVVD varia",4.0,Hybrid,16.0,Automatic,Limited,SUV,4.0,Amazon Gray,Black,All-wheel Drive
+2024 Jeep Gladiator Sport,Jeep,Gladiator,New,2024,54620.0,24V MPFI DOHC,6.0,Gasoline,5.0,Automatic,Sport,Pickup Truck,4.0,Granite Crystal Clearcoat Metallic,Black,Four-wheel Drive
+2024 Jeep Grand Cherokee L Limited,Jeep,Grand Cherokee L,New,2024,59674.0,"ar 3.6L V-6 DOHC, variable valve control, regular unleade",6.0,Gasoline,8.0,Automatic,Limited,SUV,4.0,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive
+2024 RAM 2500 Tradesman,RAM,2500,New,2024,69315.0,24V DDI OHV Turbo Diesel,6.0,Diesel,0.0,Automatic,Tradesman,Pickup Truck,4.0,Bright White Clearcoat,Black,Four-wheel Drive
+2024 Mercedes-Benz Sprinter 2500 Standard Roof,Mercedes-Benz,Sprinter 2500,New,2024,59037.0,16V DDI DOHC Turbo Diesel,4.0,Diesel,10.0,9-Speed Automatic,Standard Roof,Cargo Van,3.0,Arctic White,Black,Rear-wheel Drive
+2024 Jeep Wagoneer Base,Jeep,Wagoneer,New,2024,69085.0,24V GDI DOHC Twin Turbo,6.0,Gasoline,20.0,8-Speed Automatic,Base,SUV,4.0,Diamond Black,Black,Four-wheel Drive
+2024 Nissan Murano SV Intelligent AWD,Nissan,Murano,New,2024,43495.0,"6 DOHC, variable valve control, regular unleaded, engine",6.0,Gasoline,6.0,Automatic,SV Intelligent AWD,SUV,4.0,Pearl White Tricoat,Graphite,All-wheel Drive
+2024 Chevrolet Silverado 2500 WT,Chevrolet,Silverado 2500,New,2024,48995.0,"8 gasoline direct injection, variable valve control, regu",8.0,Gasoline,31.0,Automatic,WT,Pickup Truck,4.0,Wheatland Yellow,Jet Black,Rear-wheel Drive
